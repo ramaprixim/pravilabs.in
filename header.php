@@ -38,9 +38,9 @@
       <!-- Scroll-top-end--> 
 
       <!-- preloader -->
-      <!-- <div id="preloadertp">
+      <div id="preloadertp">
          <img src="assets/img/preloader.png" alt="">
-      </div> -->
+      </div>
       <!-- preloader end  -->
 
       <div class="layout-left-right">
@@ -54,14 +54,14 @@
                   <div class="header-left-menu">
                      <nav id="mobile-menu">
                         <ul>
-                           <li class=""><a class="active" href="index.html">Home </a>
+                           <li class=""><a class="active" href="index.php">Home </a>
                            </li>
-                           <li class=""><a href="about.html">Packages</a>
+                           <li class=""><a href="packages.php">Packages</a>
                            </li>
-                           <li><a href="about.html">Tests</a></li>
-                           <li class=""><a href="#">Our Partners</a>
+                           <li><a href="test.php">Tests</a></li>
+                           <li class=""><a href="our-partners.php">Our Partners</a>
                            </li>
-                           <li><a href="research.html">Contact Us</a></li>
+                           <li><a href="contact-us.php">Contact Us</a></li>
                            <li class=""><a href="blog.html">Blogs</a>
                            </li>
                         </ul>
