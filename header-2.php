@@ -1,7 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
    
-<!-- Mirrored from weblearnbd.net/tphtml/bioxlab/bioxlab/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Oct 2023 10:33:04 GMT -->
 <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -9,7 +8,7 @@
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <!-- Place favicon.ico in the root directory -->
+
       <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
       <!-- CSS here -->
@@ -27,9 +26,7 @@
       <link rel="stylesheet" href="assets/css/style.css">
    </head>
    <body>
-      <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
+
 
       <!-- Scroll-top -->
       <button class="scroll-top scroll-to-target" data-target="html">
@@ -73,14 +70,14 @@
                         <div class="main-menu main-menu-second">
                            <nav id="mobile-menu">
                            <ul>
-                           <li class=""><a class="active" href="index.php">Home </a>
+                           <li class=""><a class="<?php if($page=='home') {echo 'active';} ?>" href="index.php">Home </a>
                            </li>
                            <li class=""><a href="packages.php">Packages</a>
                            </li>
                            <li><a href="test.php">Tests</a></li>
                            <li class=""><a href="our-partners.php">Our Partners</a>
                            </li>
-                           <li><a href="contact-us.php">Contact Us</a></li>
+                           <li><a href="contact-us.php" class="nav-link <?php if($page=='contact-us') {echo 'active';} ?>">Contact Us</a></li>
                            <li class=""><a href="blog.html">Blogs</a>
                            </li>
                         </ul>

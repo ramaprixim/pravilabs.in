@@ -1,4 +1,4 @@
-<?php include("header.php") ?>
+<?php $page="home"; include("header.php") ?>
       <!-- sidebar-info-end -->
 <style>
    .hero-bg{

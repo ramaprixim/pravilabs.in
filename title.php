@@ -10,7 +10,7 @@ switch($title){
         $url = "https://pravilabs.in;
         break;
     
-    case 'about-us.php':
+    case 'contact-us.php':
         $title = "About Us | Outsourcing Forex |  Forex Outsourcing Industry";
         $description = "Discover the leading Forex Outsourcing Industry with Outsourcing Forex. Learn about our expert services and how we can help your business thrive.";
         $keywords = "Outsourcing, Forex, Forex Outsourcing, About Us,  Forex Trading, Forex Outsourcing Services, Outsourcing Industry, Forex Outsourcing Solutions, Outsourcing Live Chat,  Live Chat, Email Desk, Brokerage, Trading Platforms, CRM, Back Office, Forex Outsourcing Services, Forex Support, MT5 Administration, MT4 Administration, Outsourcing Services, Customer Support, Live Chat Outsourcing, Phone Inbound, Remote Support, Forex White Label, Outsourcing Customer Service, Customer Service Chat";

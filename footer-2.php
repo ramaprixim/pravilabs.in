@@ -11,8 +11,8 @@
                         <div class="tp-footer-widget footer-2-col-1 mb-40 wow fadeInUp" data-wow-delay=".2s">
                            <div class="tp-footer-widget__content mb-95">
                               <i>FEEL FREE TO CONTACT US</i>
-                              <h4 class="tp-footer-widget__contact mb-20"><a href="tel:61383766284">61 383 766 284</a></h4>
-                              <a href="https://weblearnbd.net/cdn-cgi/l/email-protection#3658594453465a4f765358405742591855595b"><span class="__cf_email__" data-cfemail="cda3a2bfa8bda1b48da8a3bbacb9a2e3aea2a0">[email&#160;protected]</span></a>
+                              <h4 class="tp-footer-widget__contact mb-20"><a href="tel:+91 9137655589">+91 9137655589</a></h4>
+                              <a href="mailto:care@pravilabs.in">care@pravilabs.in</a>   
                            </div>
                            <div class="tp-footer-widget__sub-sec">
                               <span class="tp-footer-widget__sub-title mb-5">Career</span>

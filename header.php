@@ -1,7 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
    
-<!-- Mirrored from weblearnbd.net/tphtml/bioxlab/bioxlab/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Oct 2023 10:32:01 GMT -->
 <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -9,7 +8,6 @@
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <!-- Place favicon.ico in the root directory -->
       <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
 
       <!-- CSS here -->
@@ -27,15 +25,13 @@
       <link rel="stylesheet" href="assets/css/style.css">
    </head>
    <body>
-      <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
 
-      <!-- Scroll-top -->
+
+  
       <!-- <button class="scroll-top scroll-to-target" data-target="html">
          <i class="fas fa-angle-up"></i>
       </button> -->
-      <!-- Scroll-top-end--> 
+ 
 
       <!-- preloader -->
       <div id="preloadertp">
@@ -116,7 +112,7 @@
             <span>Contact Us</span>
             <a href="#"><i class="fa-solid fa-star"></i>Ta-134/A, Gulshan Badda Link </a>
             <a href="tel:61383766284"><i class="fa-solid fa-star"></i>61 383 766 284</a>
-            <a href="https://weblearnbd.net/cdn-cgi/l/email-protection#97f9f8e5f2e7fbeed7f2f9e1f6e3f8b9f4f8fa"><i class="fa-solid fa-star"></i><span class="__cf_email__" data-cfemail="91fffee3f4e1fde8d1f4ffe7f0e5febff2fefc">[email&#160;protected]</span></a>
+            <a href=""><i class="fa-solid fa-star"></i><span class="__cf_email__"></span></a>
          </div>
          <div class="tpsideinfo__content-inputarea mb-60 d-none d-xl-block">
             <span>Get Update</span>
