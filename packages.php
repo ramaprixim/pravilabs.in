@@ -71,7 +71,7 @@
                         <button class="card-button1 mb-4">know More</button>
                      </div>
                      <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                        <h4 class="price-text">₹699.00</h4>  
+                        <h4 class="price-text">---</h4>  
                      </div>
                   </div>
                  
@@ -131,7 +131,7 @@
 						 <button class="card-button1 mb-4">know More</button>
 					  </div>
 					  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-						 <h4 class="price-text">₹899.00</h4>  
+						 <h4 class="price-text">---</h4>  
 					  </div>
 				   </div>
 				  
@@ -191,7 +191,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1099.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -251,7 +251,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1799.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -311,7 +311,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹799.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -371,7 +371,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹5899.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -432,7 +432,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹499.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -493,7 +493,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹699.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -554,7 +554,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1099.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -615,7 +615,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1999.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -676,7 +676,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹999.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -737,7 +737,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹899.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -798,7 +798,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1199.00</h4>  
+							 <h4 class="price-text">1199.00</h4>  
 						  </div>
 					   </div>
 					  
@@ -859,7 +859,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹3899.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -921,7 +921,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹3499.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -983,7 +983,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹4199.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1044,7 +1044,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹2199.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1105,7 +1105,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1499.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1166,7 +1166,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1999.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1227,7 +1227,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹2199.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1288,7 +1288,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹899.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1349,7 +1349,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹699.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1410,7 +1410,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹4000.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1471,7 +1471,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1599.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1532,7 +1532,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹599.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1593,7 +1593,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1799.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1654,7 +1654,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹2499.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1715,7 +1715,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹549.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1777,7 +1777,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹3310.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1839,7 +1839,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹6699.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1900,7 +1900,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹15000.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -1962,7 +1962,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹7500.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2024,7 +2024,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1478.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2086,7 +2086,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹2730.00 </h4>  
+							 <h4 class="price-text">- </h4>  
 						  </div>
 					   </div>
 					  
@@ -2147,7 +2147,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹6820.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2209,7 +2209,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹4849.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2271,7 +2271,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹2930.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2333,7 +2333,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹4760.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2395,7 +2395,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹750.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2457,7 +2457,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1080.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2519,7 +2519,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹800.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2581,7 +2581,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1740.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2643,7 +2643,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹2360.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2705,7 +2705,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1670.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2767,7 +2767,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹9700.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2829,7 +2829,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹4960.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2891,7 +2891,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹2230.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -2953,7 +2953,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1530.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3015,7 +3015,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹3320.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3077,7 +3077,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1544.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3139,7 +3139,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹1780.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3201,7 +3201,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹3210.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3263,7 +3263,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹6700.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3325,7 +3325,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹4940.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3387,7 +3387,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹5469.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3449,7 +3449,7 @@
 							 <button class="card-button1 mb-4">know More</button>
 						  </div>
 						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">₹5781.00</h4>  
+							 <h4 class="price-text">---</h4>   
 						  </div>
 					   </div>
 					  
@@ -3466,7 +3466,7 @@
             </div>
 
       </div>
-   </div>
+   </div> 
 </section>
 
 <section style="padding: 150px 0px;">
