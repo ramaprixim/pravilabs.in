@@ -366,16 +366,77 @@
             </section>
             <!-- nav-tabs-area-end -->
 
-            <!-- video-area -->
-            <div class="video-area pt-10">
-               <div class="video-bg p-relative">
-                  <img src="assets/img/banner/tp-video-bg-01.jpg" alt="video-bg">
-                  <div class="video-bg-icon">
-                     <a class="popup-video" href="https://www.youtube.com/watch?v=bqSt7wLxCDQ"><i class="fa-solid fa-play"></i></a>
+           
+            <section class="faq-area pb-100">
+            <div class="container">
+               <div class="row text-center">
+                  <div class="col-lg-12 col-md-12 col-12">
+                     <div class="tp-section">
+                        <!-- <span class="tp-section__sub-title left-line right-line mb-20">Faq</span> -->
+                        <h3 class="tp-section__title mb-70">Frequently Asked Questions
+</h3>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-lg-12">
+                     <div class="faq-accordion">
+                        <div class="accordion" id="accordionExample">
+                           <div class="accordion-items">
+                             <h2 class="accordion-header" id="headingOne">
+                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">1.What should I do to prepare for a blood test?</button>
+                             </h2>
+                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
+                               <div class="accordion-content"><p>Typically, you will need to fast for 8-12 hours before certain tests, especially those that measure glucose or cholesterol levels. It's essential to follow any specific instructions provided by your healthcare provider or the testing center.</p></div>
+                             </div>
+                           </div>
+                           <div class="accordion-items">
+                             <h2 class="accordion-header" id="headingTwo">
+                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">2. How long does it typically take to receive my test results?</button>
+                             </h2>
+                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
+                               <div class="accordion-content"><p>Test result turnaround times can vary, but many routine blood tests provide results within a few days. Some urgent tests may have quicker results, while more specialized tests might take longer.</p></div>
+                             </div>
+                           </div>
+                           <div class="accordion-items">
+                             <h2 class="accordion-header" id="headingThree">
+                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">3. Can I eat or drink before the blood test, and are there any specific fasting requirements?</button>
+                             </h2>
+                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                               <div class="accordion-content"><p>It depends on the test. For fasting blood tests, you should avoid food and most beverages for 8-12 hours before the test. However, drinking water is usually allowed.</p></div>
+                             </div>
+                           </div>
+                           <div class="accordion-items">
+                             <h2 class="accordion-header" id="headingFour">
+                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">4. Are there any specific instructions for certain tests, such as cholesterol or glucose testing?</button>
+                             </h2>
+                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                               <div class="accordion-content"><p>Yes, specific instructions can apply to different tests. For cholesterol and glucose tests, fasting is often required. Your healthcare provider or the diagnostic center will provide clear guidance.</p></div>
+                             </div>
+                           </div>
+                           <div class="accordion-items">
+                             <h2 class="accordion-header" id="headingFive">
+                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">5. How much will the tests cost, and do you accept insurance?</button>
+                             </h2>
+                             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                               <div class="accordion-content"><p>Test costs can vary, so it's best to check with the diagnostic center or your insurance provider for specific pricing. Many centers accept insurance, and they can help you understand your coverage.</p></div>
+                             </div>
+                           </div>
+                           <div class="accordion-items">
+                             <h2 class="accordion-header" id="headingSix">
+                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">6. What should I do if I have questions about my test results or need further clarification?</button>
+                             </h2>
+                             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                               <div class="accordion-content"><p>If you have questions about your test results, contact your healthcare provider or the diagnostic center. They can explain the results and address any concerns you may have.</p></div>
+                             </div>
+                           </div>
+                           
+                         </div>
+                     </div>
                   </div>
                </div>
             </div>
-            <!-- video-area-end -->
+         </section>
 
             <!-- testimonial-aerea -->
             <div class="testimonial-area tp-common-area pt-130 pb-125">
@@ -412,30 +473,36 @@
                            <div class="swiper-wrapper">
                               <div class="swiper-slide">
                                  <div class="testi-content text-center">
-                                    <p>“Bioxlab is another theme that is beautiful and professionally constructed by the developers. The price for the template is cheap but not the quality of the product. What a bargain. This theme works for many types of web sites and seems to be durable. Does not break and its easy to work with.</p>
-                                    <i>Darlene Robertson</i>
-                                    <span>CEO of (FlaxStudio)</span>
+                                    <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Preeti Sharma</i>
+                                    
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="testi-content text-center">
-                                    <p>“Bioxlab is another theme that is beautiful and professionally constructed by the developers. The price for the template is cheap but not the quality of the product. What a bargain. This theme works for many types of web sites and seems to be durable. Does not break and its easy to work with.</p>
-                                    <i>Darlene Robertson</i>
-                                    <span>CEO of (FlaxStudio)</span>
+                                    <p>“I've been to several labs before, but PraviLabs surpassed all my expectations. The staff was friendly, and the facility was clean and well-maintained. The accuracy of their body tests gave me peace of mind. I wouldn't trust anyone else! </p>
+                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Sandeep Kumar</i>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="testi-content text-center">
-                                    <p>“Bioxlab is another theme that is beautiful and professionally constructed by the developers. The price for the template is cheap but not the quality of the product. What a bargain. This theme works for many types of web sites and seems to be durable. Does not break and its easy to work with.</p>
-                                    <i>Darlene Robertson</i>
-                                    <span>CEO of (FlaxStudio)</span>
+                                    <p>“I took TSH test service from Pravilabs. The service offered was exceptional. Sample collection was neat and in accordance with the COVID guidelines. I received my reports through mail and sms on time </p>
+                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Sakshi Mittal</i>
+                                    
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="testi-content text-center">
-                                    <p>“Bioxlab is another theme that is beautiful and professionally constructed by the developers. The price for the template is cheap but not the quality of the product. What a bargain. This theme works for many types of web sites and seems to be durable. Does not break and its easy to work with.</p>
-                                    <i>Darlene Robertson</i>
-                                    <span>CEO of (FlaxStudio)</span>
+                                    <p>“Hello, my son and I were in the center a few days ago due to dengue. The staff was very friendly, very polite and caring in their service. They came to the house and took our blood samples. We recovered very quickly. Good site highly recommend Pravilabs </p>
+                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Vishu Garg</i>
+                                    
+                                 </div>
+                              </div>
+                              <div class="swiper-slide">
+                                 <div class="testi-content text-center">
+                                    <p>“Got myself checked for LFT at Pravilabs The report was quick and accurate. Blood collection was also painless and clean. I congratulate the team for their exceptional service </p>
+                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Mohit Rajan</i>
+                                    
                                  </div>
                               </div>
                            </div>
