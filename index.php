@@ -87,7 +87,14 @@
                               </li>
                               
                            </ul>
-                           <button class="btn btn-primary mb-4">know More</button>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹699.00</h4>  
+                              </div>
+                           </div>
                            <div class="action">
                            <a class="card-button" href="#">
                               Book Now
@@ -108,8 +115,67 @@
                                  59% Off
                               </span>
                            </span>
-                           <p class="title">Full Body Checkup Package - <br> Basic</p>
-                           <p class="info">Includes: 69 Parameters</p>
+                           <p class="title">Full Body Checkup Package - <br> Advance</p>
+                           <p class="info">Includes: 81 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>CBC</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>BLOOD SUGAR</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>LFT</span>
+                              </li>
+                              
+                           </ul>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹899.00</h4>  
+                              </div>
+                           </div>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
+                   </article>
+                   <article class="cCarousel-item">
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Full Body Checkup Package -  <br> Exclusive</p>
+                           <p class="info">Includes: 82 Parameters</p>
                            <ul class="features">
                               <li>
                                  <span class="icon">
@@ -140,7 +206,14 @@
                               </li>
                               
                            </ul>
-                           <button class="btn btn-primary mb-4">know More</button>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹1099.00</h4>  
+                              </div>
+                           </div>
                            <div class="action">
                            <a class="card-button" href="#">
                               Book Now
@@ -152,53 +225,300 @@
                         </div>
                      </div>
                    </article>
-           
                    <article class="cCarousel-item">
-                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                         <div class="counter__icon mb-15">
-                            <i></i>
-                         </div>
-                         <div class="counter__content">
-                            <h4 class="counter__title"><span class="counter">1492</span></h4>
-                            <p>Laboratories in 100+ states</p>
-                         </div>
-                      </div>
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Full Body Checkup Package -  <br> Comprehensive</p>
+                           <p class="info">Includes: 85 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>CBC</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>BLOOD SUGAR FASTING</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>HBA1c</span>
+                              </li>
+                              
+                           </ul>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹1799.00</h4>  
+                              </div>
+                           </div>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
                    </article>
-           
                    <article class="cCarousel-item">
-                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                         <div class="counter__icon mb-15">
-                            <i></i>
-                         </div>
-                         <div class="counter__content">
-                            <h4 class="counter__title"><span class="counter">1492</span></h4>
-                            <p>Laboratories in 100+ states</p>
-                         </div>
-                      </div>
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Obesity Panel- <br>Basic</p>
+                           <p class="info">Includes: 13 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>LIPID PROFILE</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>THYROID PROFILE</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>BLOOD SUGAR RANDOM</span>
+                              </li>
+                              
+                           </ul>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹799.00</h4>  
+                              </div>
+                           </div>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
                    </article>
-           
                    <article class="cCarousel-item">
-                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                         <div class="counter__icon mb-15">
-                            <i></i>
-                         </div>
-                         <div class="counter__content">
-                            <h4 class="counter__title"><span class="counter">1492</span></h4>
-                            <p>Laboratories in 100+ states</p>
-                         </div>
-                      </div>
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Obesity Panel- <br>Advance</p>
+                           <p class="info">Includes: 16 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>LIPID PROFILE</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>THYROID PROFILE</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>FT3</span>
+                              </li>
+                              
+                           </ul>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹5899.00</h4>  
+                              </div>
+                           </div>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
                    </article>
-           
                    <article class="cCarousel-item">
-                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                         <div class="counter__icon mb-15">
-                            <i></i>
-                         </div>
-                         <div class="counter__content">
-                            <h4 class="counter__title"><span class="counter">1492</span></h4>
-                            <p>Laboratories in 100+ states</p>
-                         </div>
-                      </div>
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Fever Panel- <br>Basic</p>
+                           <p class="info">Includes: 39 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>CBC</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>ESR</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>MALARIA P/S</span>
+                              </li>
+                              
+                           </ul>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹499.00</h4>  
+                              </div>
+                           </div>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
+                   </article>
+                   <article class="cCarousel-item">
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Fever Panel- <br>Basic</p>
+                           <p class="info">Includes: 39 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>CBC</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>ESR</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>MALARIA P/S</span>
+                              </li>
+                              
+                           </ul>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <button class="card-button1 mb-4">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                 <h4 class="price-text">₹499.00</h4>  
+                              </div>
+                           </div>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
                    </article>
                  </div>
                </div>
@@ -277,7 +597,164 @@
                   </div>
                </div>
             </section>
-         
+            <section class="services-area pt-95 pb-90 grey-bg mt-60 fix" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
+               <div class="container">
+                
+                  <div class="row align-items-center">
+                     <div class="col-lg-8 col-md-8 col-12">
+                        <div class="tp-section">
+                           <span class="tp-section__sub-title left-line mb-20">Test by Category</span>
+                           
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-4 col-12">
+                        <div class="tp-services d-flex align-items-center">
+                           <div class="services-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-cd6c4b2e898989dc"><i class="fa-regular fa-arrow-left"></i></div>
+                           <div class="services-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-cd6c4b2e898989dc"><i class="fa-regular fa-arrow-right"></i></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="services-slider  wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="swiper-container service-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                        <div class="swiper-wrapper " id="swiper-wrapper-cd6c4b2e898989dc" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-3440px, 0px, 0px);"><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="0" style="width: 400px; margin-right: 30px;" role="group" aria-label="1 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon mb-30">
+                                    <img src="assets/img/heart.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">HEART</a></h4>
+                                  
+                                   
+                                 </div>
+                              </div>
+                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="1" style="width: 400px; margin-right: 30px;" role="group" aria-label="2 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon pink-icon mb-30">
+                                   <img src="assets/img/kidney.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">KIDENY</a></h4>
+                                   
+                                 </div>
+                              </div>
+                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="2" style="width: 400px; margin-right: 30px;" role="group" aria-label="3 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon green-icon mb-30">
+                                   <img src="assets/img/blood-test.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">DIABETES</a></h4>
+                                   
+                                    
+                                 </div>
+                              </div>
+                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="3" style="width: 400px; margin-right: 30px;" role="group" aria-label="4 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon sky-icon mb-30">
+                                   <img src="assets/img/liver.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">LIVER</a></h4>
+                                  
+                                    
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="4" style="width: 400px; margin-right: 30px;" role="group" aria-label="5 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon mb-30">
+                                    <img src="assets/img/flu.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">FEVER</a></h4>
+                                 
+                                 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="5" style="width: 400px; margin-right: 30px;" role="group" aria-label="6 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon pink-icon mb-30">
+                                  <img src="assets/img/supplement.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">VITAMINS</a></h4>
+                                   
+                                 
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="6" style="width: 400px; margin-right: 30px;" role="group" aria-label="7 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon green-icon mb-30">
+                                  <img src="assets/img/thyroid.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">THYROID</a></h4>
+                                   
+                                   
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="7" style="width: 400px; margin-right: 30px;" role="group" aria-label="8 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon sky-icon mb-30">
+                                   <img src="assets/img/mask.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">COVID 19</a></h4>
+                                  
+                                 
+                                 </div>
+                              </div>
+                           </div>
+                        <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="8" style="width: 400px; margin-right: 30px;" role="group" aria-label="9 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon mb-30">
+                                    <img src="assets/img/examination.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">Full Body Health Checkup</a></h4>
+                                 
+                                   
+                                 </div>
+                              </div>
+                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="9" style="width: 400px; margin-right: 30px;" role="group" aria-label="10 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon pink-icon mb-30">
+                                    <img src="assets/img/heart.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">HEART</a></h4>
+                                  
+                                 </div>
+                              </div>
+                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="10" style="width: 400px; margin-right: 30px;" role="group" aria-label="11 / 12">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon green-icon mb-30">
+                                   <img src="assets/img/kidney.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">KIDENY</a></h4>
+                                  
+                                 </div>
+                              </div>
+                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="11" role="group" aria-label="12 / 12" style="width: 400px; margin-right: 30px;">
+                              <div class="services-item mb-40">
+                                 <div class="services-item__icon sky-icon mb-30">
+                                  <img src="assets/img/liver.png" alt="">
+                                 </div>
+                                 <div class="services-item__content">
+                                    <h4 class="services-item__tp-title mb-30"><a href="#">LIVER</a></h4>
+                                  
+                                  
+                                 </div>
+                              </div>
+                           </div></div>
+                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                  </div>
+               </div>
+            </section>
 
 
 
