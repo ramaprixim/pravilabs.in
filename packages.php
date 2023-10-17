@@ -61,7 +61,15 @@
                      </li>
                      
                   </ul>
-                  <button class="btn btn-primary mb-4">know More</button>
+                  <div class="row">
+                     <div class="col-lg-6">
+                        <button class="card-button1 mb-4">know More</button>
+                     </div>
+                     <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                        <h4 class="price-text">₹699.00</h4>  
+                     </div>
+                  </div>
+                 
                   <div class="action">
                   <a class="card-button" href="#">
                      Book Now

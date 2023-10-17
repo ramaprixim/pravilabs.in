@@ -8403,9 +8403,22 @@ p.checkout-coupon input[type=text]:focus {
   width: 100%;
   padding: 0.625em 0.75em;
   text-decoration: none;
-  margin:5px;
+  margin:2px;
+}
+
+.card-button1{
+  background-color: transparent;
+    border-radius: 10px;
+    border: 2px solid #161671;
+    padding: 2px 9px;
+    font-size: 15px;
+    color: #161671;
 }
 
 .plan .card-button:hover, .plan .card-button:focus {
   background-color: #4133B7;
+}
+.price-text{
+  color: #161671;
+  font-weight: 700;
 }
