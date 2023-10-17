@@ -627,7 +627,8 @@
                                    
                                  </div>
                               </div>
-                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="1" style="width: 400px; margin-right: 30px;" role="group" aria-label="2 / 12">
+                           </div>
+                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="1" style="width: 400px; margin-right: 30px;" role="group" aria-label="2 / 12">
                               <div class="services-item mb-40">
                                  <div class="services-item__icon pink-icon mb-30">
                                    <img src="assets/img/kidney.png" alt="">
@@ -757,6 +758,85 @@
             </section>
 
 
+            <section class="counter-area tp-common-area pt-130">
+               <div class="container">
+                  <div class="row align-items-center">
+                     <div class="col-lg-8 col-md-8 col-12">
+                        <div class="tp-section">
+                           <span class="tp-section__sub-title left-line mb-20">Oncocure</span>
+                           
+                        </div>
+                     </div>
+                    
+                  </div>
+                  <div class="row">
+                     <div class="col-lg-12">
+                        <div class="banner__box-item">
+                           <div class="row">
+                              <div class="col-xl-4 col-lg-4 col-md-6">
+                                 <div class="banner__item d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;gap: 15px;">
+                                    <img src="assets/img/cancer/breast-cancer.png" alt="">
+                                    <div class="banner__item-content">
+                                       <span>Breast Cancer</span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-xl-4 col-lg-4 col-md-6">
+                                 <div class="banner__item pink-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;gap: 15px;">
+                                   <img src="assets/img/cancer/cervical-cancer.png" alt="">
+                                    <div class="banner__item-content">
+                                       <span>Cervical Cancer</span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-xl-4 col-lg-4 col-md-6">
+                                 <div class="banner__item green-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
+                                   <img src="assets/img/cancer/lung-cancer.png" alt="">
+                                    <div class="banner__item-content">
+                                       <span>Lung Cancer</span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-xl-4 col-lg-4 col-md-6">
+                                 <div class="banner__item  d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
+                                   <img src="assets/img/cancer/colorectal-cancer.png" alt="">
+                                    <div class="banner__item-content">
+                                       <span>Colorectal Cancer</span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-xl-4 col-lg-4 col-md-6">
+                                 <div class="banner__item pink-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
+                                    <img src="assets/img/cancer/oral.png" alt="">
+                                    <div class="banner__item-content">
+                                       <span>Oral Cancer</span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-xl-4 col-lg-4 col-md-6">
+                                 <div class="banner__item green-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
+                                    <img src="assets/img/cancer/ovarian-cancer.png" alt="">
+                                    <div class="banner__item-content">
+                                       <span>Ovarian Cancer</span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-xl-4 col-lg-4 col-md-6">
+                                 <div class="banner__item  d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
+                                   <img src="assets/img/cancer/cancer.png" alt="">
+                                    <div class="banner__item-content">
+                                       <span>Blood Cancer</span>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+
+
 
             <!-- about-area -->
             <section class="about-area tp-common-area pt-130 pb-70">
@@ -766,17 +846,20 @@
                         <div class="tp-about__content mb-50 wow fadeInLeft" data-wow-delay=".3s">
                            <div class="tp-section">
                               <span class="tp-section__sub-title left-line mb-25">About Us</span>
-                              <h3 class="tp-section__title about-title mb-30">We’ll Ensure You Always <br> Get Best Results.</h3>
-                              <a class="tp-section__link" href="#">Read our MIssion & Vission <i class="fa-solid fa-arrow-right"></i></a>
-                              <p class=" mr-20 mb-45">Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo claritatem insitamconse quat.Exerci tation ullamcorper suscipit loborti excommodo habent claritatem insitamconse quat.Exerci tationlobortis nisl aliquip ex ea commodo habent claritatem insitamconse quat.</p>
+                              <h3 class="tp-section__title about-title mb-13">Guiding Your Path to Wellness
+
+                              </h3>
+                              
+                              <p class=" mr-20 mb-45">Welcome to PraviLabs! We are a cutting-edge scientific research and development Lab dedicated to pushing the boundaries of innovation. With our team of highly skilled scientists, engineers, and researchers, we strive to make groundbreaking discoveries and create revolutionary solutions to complex problems. 
+                              </p>
                            </div>
                            <div class="tp-about__info-list mb-55">
-                              <ul>
-                                 <li><i class="fa-solid fa-check"></i>Extramural Funding</li>
-                                 <li><i class="fa-solid fa-check"></i>Bacteria Markers</li>
-                                 <li><i class="fa-solid fa-check"></i>Nam nec mi euismod euismod</li>
-                                 <li><i class="fa-solid fa-check"></i>In aliquet dui nec lectus</li>
-                              </ul>
+                            <h3 class="tp-section__title about-title mb-13">
+                              Your Most Trusted Healthcare Partner! 
+
+                            </h3>
+                            <p class=" mr-20 mb-45">We've been around for a long time, focusing on delivering top-notch diagnostic services with precise and prompt test results for our valued customers. We're dedicated to quality and offer a wide variety of tests to support your health and well-being.
+                           </p>
                            </div>
                            <div class="tp-about__btn">
                               <a class="tp-btn" href="about.html">About us</a>
@@ -807,15 +890,12 @@
                   <div class="row align-items-center">
                      <div class="col-lg-5 col-md-12 col-12">
                         <div class="tp-section tp-section-center">
-                           <span class="tp-section__sub-title left-line mb-20">our Services</span>
-                           <h3 class="tp-section__title mb-75">Service Area</h3>
+                          
+                           <h3 class="tp-section__title mb-75">Why Choose Us
+                           </h3>
                         </div>
                      </div>
-                     <div class="col-lg-7 col-md-12 col-12">
-                        <div class="services-link tp-section-center">
-                           <span>We'll ensure you always get the best results:<a href="contact.html">Contact us<i class="fa-solid fa-arrow-right"></i></a></span>
-                        </div>
-                     </div>
+                    
                   </div>
                   <div class="row">
                      <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
@@ -828,8 +908,8 @@
                                  <i class="flaticon-hemoglobin-test-meter"></i>
                               </div>
                               <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="services-details.html">Hemoglobin Test</a></h5>
-                                 <a class="tp-btn-link" href="services-details.html">Read More</a>
+                                 <h5 class="services-thumb-box__title"><a href="#">Medical Expertise</a></h5>
+                                 <a class="tp-btn-link" href="#">Read More</a>
                               </div>
                            </div>
                         </div>
@@ -844,8 +924,8 @@
                                  <i class="flaticon-blood-test"></i>
                               </div>
                               <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="services-details.html">Genarel Analysis</a></h5>
-                                 <a class="tp-btn-link" href="services-details.html">Read More</a>
+                                 <h5 class="services-thumb-box__title"><a href="#">Convenient Access</a></h5>
+                                 <a class="tp-btn-link" href="#">Read More</a>
                               </div>
                            </div>
                         </div>
@@ -860,8 +940,8 @@
                                  <i class="flaticon-biochemistry"></i>
                               </div>
                               <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="services-details.html">Biochemistry</a></h5>
-                                 <a class="tp-btn-link" href="services-details.html">Read More</a>
+                                 <h5 class="services-thumb-box__title"><a href="#">Stringent Quality Control</a></h5>
+                                 <a class="tp-btn-link" href="#">Read More</a>
                               </div>
                            </div>
                         </div>
@@ -876,8 +956,8 @@
                                  <i class="flaticon-bacteria"></i>
                               </div>
                               <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="services-details.html">Hemoglobin Test</a></h5>
-                                 <a class="tp-btn-link" href="services-details.html">Read More</a>
+                                 <h5 class="services-thumb-box__title"><a href="#">Comprehensive Test Menu</a></h5>
+                                 <a class="tp-btn-link" href="#">Read More</a>
                               </div>
                            </div>
                         </div>
@@ -892,8 +972,8 @@
                                  <i class="flaticon-dna-1"></i>
                               </div>
                               <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="services-details.html">histopatology</a></h5>
-                                 <a class="tp-btn-link" href="services-details.html">Read More</a>
+                                 <h5 class="services-thumb-box__title"><a href="#">Dedication to Your Well-Being</a></h5>
+                                 <a class="tp-btn-link" href="#">Read More</a>
                               </div>
                            </div>
                         </div>
@@ -908,20 +988,14 @@
                                  <i class="flaticon-dna"></i>
                               </div>
                               <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="services-details.html">Genetics</a></h5>
-                                 <a class="tp-btn-link" href="services-details.html">Read More</a>
+                                 <h5 class="services-thumb-box__title"><a href="#">Cutting-Edge Technology</a></h5>
+                                 <a class="tp-btn-link" href="#">Read More</a>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="row">
-                     <div class="col-md-12">
-                        <div class="tp-services-btn text-center pt-30">
-                           <a href="services-details.html" class="tp-btn">All Service</a>
-                        </div>
-                     </div>
-                  </div>
+                 
                </div>
             </section>
             <!-- services-area-end -->
@@ -929,48 +1003,91 @@
             <!-- counter-area -->
             <section class="counter-area tp-common-area pt-130">
                <div class="container">
+                  <div class="row justify-content-center">
+                     <div class="col-lg-8">
+                       <div class="title-wrapper text-center mb-20">
+                        <h2>Our Expertise </h2>
+                        <!-- <p>Over the years, we have gained extensive experience in medical diagnostics and our team of experienced doctors and technicians ensures the highest quality and precision in every test we perform.
+                        </p> -->
+                       </div>
+                     </div>
+                  </div>
                   <div class="row">
-                     <div class="col-xxl-2 col-xl-3 col-md-4">
-                        <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s">
+                     <div class="col-xxl-4 col-xl-4 col-md-4">
+                        <div class="counter__item blue-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".2s">
                            <div class="counter__icon mb-15">
                               <i></i>
                            </div>
                            <div class="counter__content">
-                              <h4 class="counter__title"><span class="counter">1492</span></h4>
-                              <p>Laboratories in 100+ states</p>
+                              <h4 class="counter__title ">Comprehensive Test Menu 
+                              </h4>
+                              <!-- <p>We provide a wide variety of medical tests that cover different areas of health. Whether you need basic blood tests or advanced molecular diagnostics, our modern labs can give you accurate results promptly thanks to advanced technology
+                              </p> -->
                            </div>
                         </div>
                      </div>
-                     <div class="col-xxl-3 col-xl-6 col-md-6">
-                        <div class="counter__item pink-border mb-30 wow fadeInUp" data-wow-delay=".4s">
+                     <div class="col-xxl-4 col-xl-4 col-md-4">
+                        <div class="counter__item pink-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".4s">
                            <div class="counter__icon pink-hard mb-15">
                               <i></i>
                            </div>
                            <div class="counter__content">
-                              <h4 class="counter__title"><span class="counter">152</span></h4>
-                              <p>Laboratory specialists</p>
+                              <h4 class="counter__title">Convenience and Accessibility 
+                              </h4>
+                              <!-- <p>We aim to offer top-notch services close to your location, all at affordable prices. Whether you visit our physical locations, use our easy website, or access our mobile app, scheduling tests and getting reports is just a click away.
+                              </p> -->
                            </div>
                         </div>
                      </div>
-                     <div class="col-xxl-3 col-xl-6 col-md-6">
-                        <div class="counter__item sky-border mb-30 wow fadeInUp" data-wow-delay=".6s">
+                     <div class="col-xxl-4 col-xl-4 col-md-4">
+                        <div class="counter__item sky-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".6s">
                            <div class="counter__icon sky-hard mb-15">
                               <i></i>
                            </div>
                            <div class="counter__content">
-                              <h4 class="counter__title"><span class="counter">1022</span></h4>
-                              <p>Material collection points</p>
+                              <h4 class="counter__title">Quality and Accuracy 
+                              </h4>
+                              <!-- <p>Quality is incredibly important to us. Our labs are certified by NABL and CAP, which are trusted organizations for testing and calibration. We make sure that every test goes through over 50 quality checks from the moment we collect the sample until we provide the final report.
+                              </p> -->
                            </div>
                         </div>
                      </div>
-                     <div class="col-xxl-3 col-xl-6 col-md-6">
-                        <div class="counter__item green-border mb-30 wow fadeInUp" data-wow-delay=".8s">
+                     <div class="col-xxl-4 col-xl-4 col-md-4">
+                        <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
                            <div class="counter__icon green-hard mb-15">
                               <i></i>
                            </div>
                            <div class="counter__content">
-                              <h4 class="counter__title"><span class="counter">24332</span></h4>
-                              <p>Patients diagnosed in 2022</p>
+                              <h4 class="counter__title">Customer-Centric Approach 
+                              </h4>
+                              <!-- <p>We put our customers at the center of everything we do and therefore treat them as our primary value. Our dedicated trained Felbo and CC are always ready to help you, to address any of your concerns or queries. We strive to provide a seamless experience, from the time you book a test to receiving your test reports, ensuring your peace of mind throughout the process.
+                              </p> -->
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xxl-4 col-xl-4 col-md-4">
+                        <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
+                           <div class="counter__icon green-hard mb-15">
+                              <i></i>
+                           </div>
+                           <div class="counter__content">
+                              <h4 class="counter__title">Home Sample Collection 
+                              </h4>
+                              <!-- <p>Our website and mobile app make it easy for you to book and get your test reports, whether you're using a computer or a phone. After we collect your samples, we quickly take them to our own labs for testing. You can securely get your test results online or have them delivered to your home, making the whole process easy and hassle-free. Our Lab is changing the way healthcare works by bringing convenient and reliable diagnostic services right to your door with home collection blood tests.
+                              </p> -->
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xxl-4 col-xl-4 col-md-4">
+                        <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
+                           <div class="counter__icon green-hard mb-15">
+                              <i></i>
+                           </div>
+                           <div class="counter__content">
+                              <h4 class="counter__title">Embracing Innovation 
+                              </h4>
+                              <!-- <p>We have a special group of doctors who work hard to make sure we use the latest technology, tests, quality checks, and processes in every test we perform. We also spend money on research and development to give you the newest diagnostic solutions and discoveries
+                              </p> -->
                            </div>
                         </div>
                      </div>
@@ -979,131 +1096,9 @@
             </section>
             <!-- counter-area-end -->  
             
-            <!-- nav-tabs-area -->
-            <section class="nav-area tp-common-area pt-130 pb-80">
-               <div class="container">
-                  <!-- nab-and-tabs -->
-                  <ul class="nav tp-nav-tavs mb-70" id="myTab" role="tablist">
-                     <li class="nav-item" role="presentation">
-                     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Our Process</button>
-                     </li>
-                     <li class="nav-item" role="presentation">
-                     <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">OUr Mission</button>
-                     </li>
-                     <li class="nav-item" role="presentation">
-                     <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">OUr Value</button>
-                     </li>
-                  </ul>
-                  <div class="tab-content" id="myTabContent">
-                     <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
-                        <span class="nav-info d-flex justify-content-center text-center mb-75">Your full service lab for clinical trials. Our process  is to ensure the generation of <br> accurate and precise findings</span>
-                        <div class="row">
-                           <div class="col-xl-4 col-lg-4 col-md-6">
-                              <div class="navtabs nav-primary p-relative text-center mb-40">
-                                 <div class="navtabs__icon mb-35">
-                                    <i class="flaticon-approval"></i>
-                                 </div>
-                                 <div class="navtabs__content">
-                                    <h5 class="navtabs__title mb-25 mb-10">Generate Proposal</h5>
-                                    <p>Testing Begins many varios <br> suffered alten in some</p>
-                                 </div>
-                                 <div class="navtabs__shape d-none d-lg-block">
-                                    <img src="assets/img/shape/navtabs-01.png" alt="shape">
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-xl-4 col-lg-4 col-md-6">
-                              <div class="navtabs nav-secondary p-relative text-center mb-40">
-                                 <div class="navtabs__icon mb-35">
-                                    <i class="flaticon-flask"></i>
-                                 </div>
-                                 <div class="navtabs__content">
-                                    <h5 class="navtabs__title mb-25 mb-10">Testing Begins</h5>
-                                    <p>There are many varios passages <br>suffered alten in some</p>
-                                 </div>
-                                 <div class="navtabs__shape d-none d-lg-block">
-                                    <img src="assets/img/shape/navtabs-01.png" alt="shape">
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-xl-4 col-lg-4 col-md-6">
-                              <div class="navtabs nav-tertiary  text-center mb-40">
-                                 <div class="navtabs__icon mb-35">
-                                    <i class="flaticon-report"></i>
-                                 </div>
-                                 <div class="navtabs__content">
-                                    <h5 class="navtabs__title mb-25 mb-10">Reports Delivered</h5>
-                                    <p>There are many varios passages <br>suffered alten in some</p>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
-                        <span class="nav-info d-flex justify-content-center text-center mb-75">Your full service lab for clinical trials. Our process  is to ensure the generation of <br> accurate and precise findings</span>
-                        <div class="row">
-                           <div class="col-xl-6 col-lg-6 col-md-12 order-lg-2">
-                              <div class="nabmission mb-30">
-                                 <div class="nabmission__content text-center ml-50 mr-50 pt-20">
-                                    <h4 class="nabmission__title mb-35">Our Mission is Give You Always Best Results.</h4>
-                                    <p class="mb-35">Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo claritatem insitamconse quat.Exerci tation ullamcorper suscipit loborti excommodo habent claritatem insitamconse quat.Exerci tationlobortis nisl aliquip ex ea commodo habent claritatem insitamconse quat.</p>
-                                    <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo claritatem insitamconse quat.Exerci tation ullamcorper suscip</p>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-xl-3 col-lg-3 col-md-6 order-lg-1">
-                              <div class="nabthumb mb-30">
-                                 <img src="assets/img/tab/tab-thumb-03.jpg" alt="tab-thumb">
-                              </div>
-                           </div>
-                           <div class="col-xl-3 col-lg-3 col-md-6 order-lg-3">
-                              <div class="nabthumb mb-30">
-                                 <img src="assets/img/tab/tab-thumb-04.jpg" alt="tab-thumb">
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab" tabindex="0">
-                        <span class="nav-info d-flex justify-content-center text-center mb-75">Your full service lab for clinical trials. Our process  is to ensure the generation of <br> accurate and precise findings</span>
-                        <div class="row">
-                           <div class="col-xl-6 col-lg-6 col-md-12 order-lg-2">
-                              <div class="nabmission mb-30">
-                                 <div class="nabmission__content text-center ml-50 mr-50 pt-20">
-                                    <h4 class="nabmission__title mb-35">We are Trusted by over 25000+ of customers</h4>
-                                    <p class="mb-35">Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo claritatem insitamconse quat.Exerci tation ullamcorper suscipit loborti excommodo habent claritatem insitamconse quat.Exerci tationlobortis nisl aliquip ex ea commodo habent claritatem insitamconse quat.</p>
-                                    <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo claritatem insitamconse quat.Exerci tation ullamcorper suscip</p>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-xl-3 col-lg-3 col-md-6 order-lg-1">
-                              <div class="nabthumb mb-30">
-                                 <img src="assets/img/tab/tab-thumb-01.jpg" alt="tab-thumb">
-                              </div>
-                           </div>
-                           <div class="col-xl-3 col-lg-3 col-md-6 order-lg-3">
-                              <div class="nabthumb mb-30">
-                                 <img src="assets/img/tab/tab-thumb-02.jpg" alt="tab-thumb">
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  
-                  <!-- nab-and-tabs-end -->
-               </div>
-            </section>
-            <!-- nav-tabs-area-end -->
+        
 
-            <!-- video-area -->
-            <div class="video-area pt-10">
-               <div class="video-bg p-relative">
-                  <img src="assets/img/banner/tp-video-bg-01.jpg" alt="video-bg">
-                  <div class="video-bg-icon">
-                     <a class="popup-video" href="https://www.youtube.com/watch?v=bqSt7wLxCDQ"><i class="fa-solid fa-play"></i></a>
-                  </div>
-               </div>
-            </div>
-            <!-- video-area-end -->
+          
 
             <!-- testimonial-aerea -->
             <div class="testimonial-area tp-common-area pt-130 pb-125">
@@ -1175,156 +1170,9 @@
             <!-- testimonial-aerea-end -->
 
             <!-- blog-area -->
-            <section class="blog-area tp-common-area grey-bg pt-125 pb-100" data-background="assets/img/shape/shape-bg-09.png">
-               <div class="container">
-                  <div class="row align-items-center">
-                     <div class="col-md-8 col-12">
-                        <div class="tp-section mb-20">
-                           <span class="tp-section__sub-title left-line mb-25">Blog & Article</span>
-                           <h3 class="tp-section__title mb-60">Recent Blog Post</h3>
-                        </div>
-                     </div>
-                     <div class="col-md-4 col-12">
-                        <div class="tp-blog-btn mb-30">
-                           <a href="blog.html" class="tp-btn-second">All Blog</a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="row">
-                     <div class="col-xxl-4 col-lg-6 col-md-6">
-                        <div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s" data-background="assets/img/blog/blog-thumb-07.jpg">
-                           <div class="blogitem">
-                              <div class="fix inner-blog-wrap">
-                                 <div class="blogitem__avata-part">
-                                    <div class="blogitem__avata">
-                                       <div class="blogitem__avata-icon">
-                                          <img src="assets/img/icon/blog-ava-01.png" alt="blog-avata">
-                                       </div>
-                                       <div class="blogitem__avata-content">
-                                          <span>Post by:</span>
-                                          <a href="#">Alextina Rix</a>
-                                       </div>
-                                    </div>
-                                    <div class="blogitem__medi">
-                                       <a href="shop.html">Medicine</a>
-                                    </div>
-                                 </div>
-                                 <div class="blogitem__title-area p-relative">
-                                    <div class="blog-item__date-info mb-15">
-                                       <ul class="d-flex align-items-center">
-                                          <li><i class="fa-light fa-clock"></i>Dec 28, 2022</li>
-                                          <li><i class="fa-light fa-eye"></i>1,526 views</li>
-                                       </ul>
-                                    </div>
-                                    <h5 class="blogitem__title mb-20"><a href="blog-details.html">Coronavirus global health ecorage Design System</a></h5>
-                                    <div class="tp-blog__btn blog-bg-btn">
-                                       <a href="blog.html">Read moRe</a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-4 col-lg-6 col-md-6">
-                        <div class="blogthumb mb-30 pink-blog wow fadeInUp" data-wow-delay=".5s" data-background="assets/img/blog/blog-thumb-08.jpg">
-                           <div class="blogitem">
-                              <div class="fix inner-blog-wrap">
-                                 <div class="blogitem__avata-part">
-                                    <div class="blogitem__avata">
-                                       <div class="blogitem__avata-icon">
-                                          <img src="assets/img/icon/blog-ava-02.png" alt="blog-avata">
-                                       </div>
-                                       <div class="blogitem__avata-content">
-                                          <span>Post by:</span>
-                                          <a href="#">Robart Foxid</a>
-                                       </div>
-                                    </div>
-                                    <div class="blogitem__medi">
-                                       <a href="shop.html">Medicine</a>
-                                    </div>
-                                 </div>
-                                 <div class="blogitem__title-area p-relative">
-                                    <div class="blog-item__date-info mb-15">
-                                       <ul class="d-flex align-items-center">
-                                          <li><i class="fa-light fa-clock"></i>Dec 28, 2022</li>
-                                          <li><i class="fa-light fa-eye"></i>1,526 views</li>
-                                       </ul>
-                                    </div>
-                                    <h5 class="blogitem__title mb-20"><a href="blog-details.html">Some of the Social Determinants of helth Tips</a></h5>
-                                    <div class="tp-blog__btn blog-bg-btn">
-                                       <a href="blog.html">Read moRe</a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-4 col-lg-6 col-md-6">
-                        <div class="blogthumb mb-30 green-blog wow fadeInUp" data-wow-delay=".7s" data-background="assets/img/blog/blog-thumb-09.jpg">
-                           <div class="blogitem">
-                              <div class="fix inner-blog-wrap">
-                                 <div class="blogitem__avata-part">
-                                    <div class="blogitem__avata">
-                                       <div class="blogitem__avata-icon">
-                                          <img src="assets/img/icon/blog-ava-03.png" alt="blog-avata">
-                                       </div>
-                                       <div class="blogitem__avata-content">
-                                          <span>Post by:</span>
-                                          <a href="#">Brookly Simmons</a>
-                                       </div>
-                                    </div>
-                                    <div class="blogitem__medi">
-                                       <a href="shop.html">Medicine</a>
-                                    </div>
-                                 </div>
-                                 <div class="blogitem__title-area p-relative">
-                                    <div class="blog-item__date-info mb-15">
-                                       <ul class="d-flex align-items-center">
-                                          <li><i class="fa-light fa-clock"></i>Dec 28, 2022</li>
-                                          <li><i class="fa-light fa-eye"></i>1,526 views</li>
-                                       </ul>
-                                    </div>
-                                    <h5 class="blogitem__title mb-20"><a href="blog-details.html">Express Scripts Throw Lifeline Digital Health</a></h5>
-                                    <div class="tp-blog__btn blog-bg-btn">
-                                       <a href="blog.html">Read moRe</a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </section>
-            <!-- blog-area-end -->            
+                     
     
-            <!-- brand-area -->
-            <div class="brand-area tp-common-area grey-bg pb-120" data-background="assets/img/shape/shape-bg-10.png">
-               <div class="container">
-                  <div class="swiper-container brand-active">
-                     <div class="swiper-wrapper brand-items">
-                        <div class="swiper-slide">
-                           <a href="#"><img src="assets/img/brand/brand-01.png" alt="brand"></a>
-                        </div>
-                        <div class="swiper-slide">
-                           <a href="#"><img src="assets/img/brand/brand-02.png" alt="brand"></a>
-                        </div>
-                        <div class="swiper-slide">
-                           <a href="#"><img src="assets/img/brand/brand-03.png" alt="brand"></a>
-                        </div>
-                        <div class="swiper-slide">
-                           <a href="#"><img src="assets/img/brand/brand-04.png" alt="brand"></a>
-                        </div>
-                        <div class="swiper-slide">
-                           <a href="#"><img src="assets/img/brand/brand-05.png" alt="brand"></a>
-                        </div>
-                        <div class="swiper-slide">
-                           <a href="#"><img src="assets/img/brand/brand-04.png" alt="brand"></a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
+          
           <script>const prev = document.querySelector("#prev");
             const next = document.querySelector("#next");
             
