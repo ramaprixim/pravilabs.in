@@ -18,10 +18,13 @@
                   <div class="row">
                      <div class="col-lg-12">
                         <div class="tpherotext">
-                           <h4 class="tpherotext__title mb-40">Research and <br>Verify physics <br> laboratory</h4>
-                           <p>Your full service lab for clinical trials. Our mission is to ensure <br> the generation of accurate and precise findings</p>
+                           <h4 class="tpherotext__title mb-40">Precision Diagnostics <br>for Health Assurance</h4>
+                           <p>Where science meets care, our dedicated team delivers 
+                              <br> accurate diagnoses and personalized solutions for 
+                              your journey to better <br> health and wellness.
+                           </p>
                            <div class="tpherotext__btn">
-                              <a href="contact.html" class="tp-btn-second">Book  Appointment</a>
+                              <a href="#" class="tp-btn-second">Book  Appointment</a>
                            </div>
                         </div>
                      </div>
@@ -29,6 +32,254 @@
                </div>
             </section>
             <!-- hero-area-end -->
+            <section>
+            
+           <div class="container">
+            <div id="cCarousel">
+               <div class="row">
+                  <div class="col-lg-12">
+                     <span class="tp-section__sub-title left-line mb-20 mt-80">Health Packages</span>
+                  </div>
+               </div>
+               <div class="arrow" id="prev"><i class="fa-solid fa-chevron-left"></i></div>
+               <div class="arrow" id="next"><i class="fa-solid fa-chevron-right"></i></div>
+           
+               <div id="carousel-vp">
+                 <div id="cCarousel-inner">
+           
+                   <article class="cCarousel-item">
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Full Body Checkup Package - <br> Basic</p>
+                           <p class="info">Includes: 69 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>CBC</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>BLOOD SUGAR RANDOM</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>LFT</span>
+                              </li>
+                              
+                           </ul>
+                           <button class="btn btn-primary mb-4">know More</button>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
+                   </article>
+           
+                   <article class="cCarousel-item">
+                     <div class="plan">
+                        <div class="inner">
+                           <span class="pricing">
+                              <span>
+                                 59% Off
+                              </span>
+                           </span>
+                           <p class="title">Full Body Checkup Package - <br> Basic</p>
+                           <p class="info">Includes: 69 Parameters</p>
+                           <ul class="features">
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>CBC</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>BLOOD SUGAR RANDOM</span>
+                              </li>
+                              <li>
+                                 <span class="icon">
+                                    <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M0 0h24v24H0z" fill="none"></path>
+                                       <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                    </svg>
+                                 </span>
+                                 <span>LFT</span>
+                              </li>
+                              
+                           </ul>
+                           <button class="btn btn-primary mb-4">know More</button>
+                           <div class="action">
+                           <a class="card-button" href="#">
+                              Book Now
+                           </a>
+                           <a class="card-button " href="#">
+                             Get a Call Back
+                           </a>
+                           </div>
+                        </div>
+                     </div>
+                   </article>
+           
+                   <article class="cCarousel-item">
+                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                         <div class="counter__icon mb-15">
+                            <i></i>
+                         </div>
+                         <div class="counter__content">
+                            <h4 class="counter__title"><span class="counter">1492</span></h4>
+                            <p>Laboratories in 100+ states</p>
+                         </div>
+                      </div>
+                   </article>
+           
+                   <article class="cCarousel-item">
+                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                         <div class="counter__icon mb-15">
+                            <i></i>
+                         </div>
+                         <div class="counter__content">
+                            <h4 class="counter__title"><span class="counter">1492</span></h4>
+                            <p>Laboratories in 100+ states</p>
+                         </div>
+                      </div>
+                   </article>
+           
+                   <article class="cCarousel-item">
+                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                         <div class="counter__icon mb-15">
+                            <i></i>
+                         </div>
+                         <div class="counter__content">
+                            <h4 class="counter__title"><span class="counter">1492</span></h4>
+                            <p>Laboratories in 100+ states</p>
+                         </div>
+                      </div>
+                   </article>
+           
+                   <article class="cCarousel-item">
+                      <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                         <div class="counter__icon mb-15">
+                            <i></i>
+                         </div>
+                         <div class="counter__content">
+                            <h4 class="counter__title"><span class="counter">1492</span></h4>
+                            <p>Laboratories in 100+ states</p>
+                         </div>
+                      </div>
+                   </article>
+                 </div>
+               </div>
+             </div>
+           </div>
+             </section>
+             <section class="counter-area tp-common-area pt-130">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-lg-12">
+                        <span class="tp-section__sub-title left-line mb-20 mt-80">Lifecycle Disorder</span>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-xxl-2 col-xl-3 col-md-4">
+                        <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;padding: 32px 40px;">
+                          
+                           <div class="counter__content text-center">
+                             <img src="assets/img/heart.png" alt="">
+                             <h4 style="font-size: 20px;
+                             padding-top: 6px;">Heart</h4>
+                             
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xxl-2 col-xl-3 col-md-4">
+                        <div class="counter__item pink-border mb-30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;padding: 32px 40px;">
+                         
+                           <div class="counter__content text-center">
+                              <img src="assets/img/kidney.png" alt="">
+                              <h4 style="font-size: 20px;
+                              padding-top: 6px;">Kidney</h4>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xxl-2 col-xl-3 col-md-4">
+                        <div class="counter__item sky-border mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;padding: 32px 40px;">
+                        
+                           <div class="counter__content text-center">
+                             <img src="assets/img/lungs.png" alt="">
+                             <h4 style="font-size: 20px;
+                             padding-top: 6px;">Lungs</h4>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xxl-2 col-xl-3 col-md-4">
+                        <div class="counter__item green-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
+                          
+                           <div class="counter__content text-center">
+                             <img src="assets/img/liver.png" alt="">
+                             <h4 style="font-size: 20px;
+                             padding-top: 6px;">Liver</h4>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xxl-2 col-xl-3 col-md-4">
+                        <div class="counter__item green-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
+                          
+                           <div class="counter__content text-center">
+                             <img src="assets/img/thyroid.png" alt="">
+                             <h4 style="font-size: 20px;
+                             padding-top: 6px;">Thyroid</h4>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xxl-2 col-xl-3 col-md-4">
+                        <div class="counter__item green-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
+                          
+                           <div class="counter__content text-center">
+                             <img src="assets/img/supplement.png" alt="">
+                             <h4 style="font-size: 20px;
+                             padding-top: 6px;">Vitamins</h4>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+         
+
+
 
             <!-- about-area -->
             <section class="about-area tp-common-area pt-130 pb-70">
@@ -202,7 +453,7 @@
             <section class="counter-area tp-common-area pt-130">
                <div class="container">
                   <div class="row">
-                     <div class="col-xxl-3 col-xl-6 col-md-6">
+                     <div class="col-xxl-2 col-xl-3 col-md-4">
                         <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".2s">
                            <div class="counter__icon mb-15">
                               <i></i>
@@ -597,7 +848,67 @@
                   </div>
                </div>
             </div>
-            <!-- brand-area-end -->         
+          <script>const prev = document.querySelector("#prev");
+            const next = document.querySelector("#next");
+            
+            let carouselVp = document.querySelector("#carousel-vp");
+            
+            let cCarouselInner = document.querySelector("#cCarousel-inner");
+            let carouselInnerWidth = cCarouselInner.getBoundingClientRect().width;
+            
+            let leftValue = 0;
+            
+            // Variable used to set the carousel movement value (card's width + gap)
+            const totalMovementSize =
+              parseFloat(
+                document.querySelector(".cCarousel-item").getBoundingClientRect().width,
+                10
+              ) +
+              parseFloat(
+                window.getComputedStyle(cCarouselInner).getPropertyValue("gap"),
+                10
+              );
+            
+            prev.addEventListener("click", () => {
+              if (!leftValue == 0) {
+                leftValue -= -totalMovementSize;
+                cCarouselInner.style.left = leftValue + "px";
+              }
+            });
+            
+            next.addEventListener("click", () => {
+              const carouselVpWidth = carouselVp.getBoundingClientRect().width;
+              if (carouselInnerWidth - Math.abs(leftValue) > carouselVpWidth) {
+                leftValue -= totalMovementSize;
+                cCarouselInner.style.left = leftValue + "px";
+              }
+            });
+            
+            const mediaQuery510 = window.matchMedia("(max-width: 510px)");
+            const mediaQuery770 = window.matchMedia("(max-width: 770px)");
+            
+            mediaQuery510.addEventListener("change", mediaManagement);
+            mediaQuery770.addEventListener("change", mediaManagement);
+            
+            let oldViewportWidth = window.innerWidth;
+            
+            function mediaManagement() {
+              const newViewportWidth = window.innerWidth;
+            
+              if (leftValue <= -totalMovementSize && oldViewportWidth < newViewportWidth) {
+                leftValue += totalMovementSize;
+                cCarouselInner.style.left = leftValue + "px";
+                oldViewportWidth = newViewportWidth;
+              } else if (
+                leftValue <= -totalMovementSize &&
+                oldViewportWidth > newViewportWidth
+              ) {
+                leftValue -= totalMovementSize;
+                cCarouselInner.style.left = leftValue + "px";
+                oldViewportWidth = newViewportWidth;
+              }
+            }
+            </script>
             <?php include("footer.php") ?>
-            <!-- footer-area -->
+        
 
