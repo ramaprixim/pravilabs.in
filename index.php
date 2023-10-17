@@ -3717,9 +3717,10 @@
                   <div class="row">
                      <div class="col-xxl-4 col-xl-4 col-md-4">
                         <div class="counter__item blue-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".2s">
-                           <div class="counter__icon mb-15">
+                           <!-- <div class="counter__icon mb-15">
                               <i></i>
-                           </div>
+                           </div> -->
+                     <div><img src="assets/img/icon/test-tube.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title ">Comprehensive Test Menu 
                               </h4>
@@ -3730,9 +3731,10 @@
                      </div>
                      <div class="col-xxl-4 col-xl-4 col-md-4">
                         <div class="counter__item pink-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".4s">
-                           <div class="counter__icon pink-hard mb-15">
+                           <!-- <div class="counter__icon pink-hard mb-15">
                               <i></i>
-                           </div>
+                           </div> -->
+                           <div><img src="assets/img/icon/thumb-ups.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title">Convenience and Accessibility 
                               </h4>
@@ -3743,11 +3745,12 @@
                      </div>
                      <div class="col-xxl-4 col-xl-4 col-md-4">
                         <div class="counter__item sky-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".6s">
-                           <div class="counter__icon sky-hard mb-15">
+                           <!-- <div class="counter__icon sky-hard mb-15">
                               <i></i>
-                           </div>
+                           </div> -->
+                           <div><img src="assets/img/icon/target.png" alt=""></div>
                            <div class="counter__content">
-                              <h4 class="counter__title">Quality and Accuracy 
+                              <h4 class="counter__title">Customer-Centric Approach
                               </h4>
                               <!-- <p>Quality is incredibly important to us. Our labs are certified by NABL and CAP, which are trusted organizations for testing and calibration. We make sure that every test goes through over 50 quality checks from the moment we collect the sample until we provide the final report.
                               </p> -->
@@ -3756,11 +3759,12 @@
                      </div>
                      <div class="col-xxl-4 col-xl-4 col-md-4">
                         <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
-                           <div class="counter__icon green-hard mb-15">
+                           <!-- <div class="counter__icon green-hard mb-15">
                               <i></i>
-                           </div>
+                           </div> -->
+                           <div><img src="assets/img/icon/achievement.png" alt=""></div>
                            <div class="counter__content">
-                              <h4 class="counter__title">Customer-Centric Approach 
+                              <h4 class="counter__title"> Quality and Accuracy 
                               </h4>
                               <!-- <p>We put our customers at the center of everything we do and therefore treat them as our primary value. Our dedicated trained Felbo and CC are always ready to help you, to address any of your concerns or queries. We strive to provide a seamless experience, from the time you book a test to receiving your test reports, ensuring your peace of mind throughout the process.
                               </p> -->
@@ -3769,9 +3773,10 @@
                      </div>
                      <div class="col-xxl-4 col-xl-4 col-md-4">
                         <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
-                           <div class="counter__icon green-hard mb-15">
+                           <!-- <div class="counter__icon green-hard mb-15">
                               <i></i>
-                           </div>
+                           </div> -->
+                           <div><img src="assets/img/icon/hospital.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title">Home Sample Collection 
                               </h4>
@@ -3782,9 +3787,10 @@
                      </div>
                      <div class="col-xxl-4 col-xl-4 col-md-4">
                         <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
-                           <div class="counter__icon green-hard mb-15">
+                           <!-- <div class="counter__icon green-hard mb-15">
                               <i></i>
-                           </div>
+                           </div> -->
+                           <div><img src="assets/img/icon/creativity.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title">Embracing Innovation 
                               </h4>
