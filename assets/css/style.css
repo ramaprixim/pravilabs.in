@@ -5996,7 +5996,7 @@ div.tp-srv-link a {
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
-  height: 440px;
+  height: auto;
   z-index: 1;
 }
 .blogthumb::before {
@@ -6043,7 +6043,7 @@ div.tp-srv-link a {
   color: var(--tp-common-white);
 }
 .blogthumb:hover .blogitem__title {
-  color: var(--tp-common-white);
+  color: #08122c;
 }
 .blogthumb:hover .blog-bg-btn {
   bottom: 0;
@@ -6067,7 +6067,7 @@ div.tp-srv-link a {
 .blogitem {
   padding: 35px 30px 35px 30px;
   position: relative;
-  height: 100%;
+  height: auto;
 }
 @media (max-width: 767px) {
   .blogitem {

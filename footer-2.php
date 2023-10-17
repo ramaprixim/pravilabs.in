@@ -14,58 +14,7 @@
                               <h4 class="tp-footer-widget__contact mb-20"><a href="tel:+91 9137655589">+91 9137655589</a></h4>
                               <a href="mailto:care@pravilabs.in">care@pravilabs.in</a>   
                            </div>
-                           <div class="tp-footer-widget__sub-sec">
-                              <span class="tp-footer-widget__sub-title mb-5">Career</span>
-                              <p>Nam eget dui vel quam sodales semper quis porttitor <br> tortor. Vivamus quis ex nulla ...Nam eget dui vel quam <br> sodales semper quis porttitor tortor.</p>
-                           </div>
                         </div>
-                     </div>
-                     <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="tp-footer-widget footer-2-col-2 mb-40 wow fadeInUp" data-wow-delay=".4s">
-                           <span class="tp-footer-widget__title mb-15">Useful links</span>
-                           <div class="tp-footer-widget__links mb-35">
-                              <ul>
-                                 <li><a href="contact.html">Contact us</a></li>
-                                 <li><a href="about.html">Help & About us</a></li>
-                                 <li><a href="shop-details.html">Shipping & Returns</a></li>
-                                 <li><a href="contact.html">Refund Policy</a></li>
-                                 <li><a href="about.html">About us</a></li>
-                                 <li><a href="services-details.html">Services</a></li>
-                              </ul>
-                           </div>
-                           <div class="tp-footer-widget__sub-sec">
-                              <span class="tp-footer-widget__sub-title mb-10">Opening Hours</span>
-                              <div class="tp-footer-widget__list">
-                                 <ul>
-                                    <li>Office Hours: 8AM - 11PM</li>
-                                    <li>Office Hours: 8AM - 11PM</li>
-                                    <li>Sunday - Wekend Day</li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-2 col-lg-2 col-md-6">
-                        <div class="tp-footer-widget footer-2-col-3 mb-40 wow fadeInUp" data-wow-delay=".6s">
-                           <span class="tp-footer-widget__title mb-15">Customer Service</span>
-                           <div class="tp-footer-widget__links">
-                              <ul>
-                                 <li><a href="#">Orders</a></li>
-                                 <li><a href="#">Downloads</a></li>
-                                 <li><a href="#">Shipping & Returns</a></li>
-                                 <li><a href="#">Addresses</a></li>
-                                 <li><a href="#">Account details</a></li>
-                                 <li><a href="#">Logout</a></li>
-                                 <li><a href="#">Lost password</a></li>
-                                 <li><a href="#">Privacy</a></li>
-                                 <li><a href="#">Policy</a></li>
-                                 <li><a href="#">Careers</a></li>
-                                 <li><a href="#">Support</a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-3 col-lg-3 col-md-6">
                         <div class="tp-footer-widget footer-2-col-4 mb-40 wow fadeInUp" data-wow-delay=".8s">
                            <span class="tp-footer-widget__title mb-15">Contact Info</span>
                            <div class="tp-footer-widget__links mb-120">
@@ -86,6 +35,43 @@
                            </div>
                         </div>
                      </div>
+                     <div class="col-xl-3 col-lg-3 col-md-6">
+                        <div class="tp-footer-widget footer-2-col-2 mb-40 wow fadeInUp" data-wow-delay=".4s">
+                           <span class="tp-footer-widget__title mb-15">Useful links</span>
+                           <div class="tp-footer-widget__links mb-35">
+                              <ul>
+                                 <li><a href="index.php">Home</a></li>
+                                 <li><a href="contact-us.php">Contact us</a></li>
+                                 <li><a href="about-us.php">About us</a></li>
+                                 <li><a href="#">Blog</a></li>
+                              </ul>
+                           </div>
+                           <div class="tp-footer-widget__sub-sec">
+                             <a href="packages.php"><span class="tp-footer-widget__sub-title mb-10">Packages</span></a> 
+                              <div class="tp-footer-widget__list">
+                                
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-2 col-lg-2 col-md-6">
+                        <div class="tp-footer-widget footer-2-col-3 mb-40 wow fadeInUp" data-wow-delay=".6s">
+                          <a href="test.php"> <span class="tp-footer-widget__title mb-15">Tests</span></a>
+                           <div class="tp-footer-widget__links">
+                              <ul>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-3 col-lg-3 col-md-6">
+                        <div class="tp-footer-widget footer-2-col-3 mb-40 wow fadeInUp" data-wow-delay=".6s">
+                     <a href="our-partners.php">    <span class="tp-footer-widget__title mb-15">Our Partners</span></a>  
+                           <div class="tp-footer-widget__links">
+                              <ul>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
                   </div>
                </div>
             </div>
@@ -94,7 +80,7 @@
                   <div class="row">
                      <div class="col-xl-6 col-lg-6 col-md-12 col-12">
                         <div class="footer-widget__copyright copyright-white">
-                           <span> © Copyright ©2022 <a href="index.html">Theme_pure</a>. <i>All Rights Reserved Copyright</i></span>
+                           <span> © Copyright ©2022 <a href="index.html">Pravilabs.in</a>. <i>All Rights Reserved Copyright</i></span>
                         </div>
                      </div> 
                      <div class="col-xl-6 col-lg-6 col-md-12 col-12">

@@ -4,6 +4,91 @@
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
    }
+   .list{
+    width: 20rem;
+    height: 20rem;
+    background: #e5e5e5;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    overflow: hidden;
+    margin: 7rem 2rem 0 2rem;
+    cursor: pointer;
+  }
+  
+  #menu1 {
+    position: relative;
+    width: 90%;
+    height: 26rem;
+    top: 1rem;
+    background-color: rgb(241, 241, 241);
+    margin: 0 7rem 0 5rem;
+    border-radius: 5rem;
+  }
+  #cards1 {
+    width: 80%;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+    list-style: none;
+    padding: 0;
+    position: relative;
+    left: 10%;
+    bottom: 60px;
+  }
+  
+  .list p{
+    width: 300px hidden;
+  }
+  #prev1 {
+    display: inline-block;
+    position: absolute;
+    left: 2%;
+    cursor: pointer;
+    font-size: 60px;
+    z-index: 1;
+    width: 50px;
+    height: 50px;
+  }
+  #next1 {
+    display: inline-block;
+    position: absolute;
+    right: 2%;
+    cursor: pointer;
+    font-size: 60px;
+    z-index: 1;
+    width: 50px;
+    height: 50px;
+  }
+  #prev1,
+  #next1{
+    margin-top: 11rem;
+    color: #aaaaaa;
+  }
+  @media (max-width: 1026px) {
+    #menu1 {
+    width: 95%;
+    height: 22rem;
+    top: 0.5rem;
+    margin: 0 2% 0 2%;
+    }
+    .list{
+      width: 17rem;
+      height: 17rem;
+      background: #e5e5e5;
+      display: inline-block;
+      text-align: center;
+      border-radius: 5%;
+      position: relative;
+      overflow: hidden;
+      margin: 6rem 1rem 0 1rem;
+    }
+    #prev1,
+  #next1{
+    margin-top: 9.5rem;
+  }
+  }
 </style>
       <div class="body-overlay"></div>             
 
@@ -3538,7 +3623,16 @@
                </div>
             </section>
 
-
+<section>
+  <!-- <div class="gallery js-flickity"
+  data-flickity-options='{ "wrapAround": true }'>
+  <div class="gallery-cell"></div>
+  <div class="gallery-cell"></div>
+  <div class="gallery-cell"></div>
+  <div class="gallery-cell"></div>
+  <div class="gallery-cell"></div>
+</div> -->
+</section>
 
             <!-- about-area -->
             <section class="about-area tp-common-area pt-130 pb-70">
@@ -3602,9 +3696,6 @@
                   <div class="row">
                      <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="services-thumb-box mb-30 wow fadeInUp" data-wow-delay=".2s">
-                           <div class="services-thumb-box__thumb fix fix">
-                              <img src="assets/img/services/services-thumb-01.jpg" alt="services-thumb">
-                           </div>
                            <div class="services-thumb-box__text-area d-flex align-items-center">
                               <div class="services-thumb-box__icon mr-20">
                                  <i class="flaticon-hemoglobin-test-meter"></i>
@@ -3618,9 +3709,6 @@
                      </div>
                      <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="services-thumb-box pink-round mb-30 wow fadeInUp" data-wow-delay=".4s">
-                           <div class="services-thumb-box__thumb fix">
-                              <img src="assets/img/services/services-thumb-02.jpg" alt="services-thumb">
-                           </div>
                            <div class="services-thumb-box__text-area d-flex align-items-center">
                               <div class="services-thumb-box__icon mr-20">
                                  <i class="flaticon-blood-test"></i>
@@ -3634,9 +3722,6 @@
                      </div>
                      <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="services-thumb-box sky-round mb-30 wow fadeInUp" data-wow-delay=".6s">
-                           <div class="services-thumb-box__thumb fix">
-                              <img src="assets/img/services/services-thumb-03.jpg" alt="services-thumb">
-                           </div>
                            <div class="services-thumb-box__text-area d-flex align-items-center">
                               <div class="services-thumb-box__icon mr-20">
                                  <i class="flaticon-biochemistry"></i>
@@ -3650,9 +3735,6 @@
                      </div>
                      <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="services-thumb-box blue-round mb-30 wow fadeInUp" data-wow-delay=".2s">
-                           <div class="services-thumb-box__thumb fix">
-                              <img src="assets/img/services/services-thumb-04.jpg" alt="services-thumb">
-                           </div>
                            <div class="services-thumb-box__text-area d-flex align-items-center">
                               <div class="services-thumb-box__icon mr-20">
                                  <i class="flaticon-bacteria"></i>
@@ -3666,9 +3748,6 @@
                      </div>
                      <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="services-thumb-box mb-30 wow fadeInUp" data-wow-delay=".4s">
-                           <div class="services-thumb-box__thumb fix">
-                              <img src="assets/img/services/services-thumb-05.jpg" alt="services-thumb">
-                           </div>
                            <div class="services-thumb-box__text-area d-flex align-items-center">
                               <div class="services-thumb-box__icon mr-20">
                                  <i class="flaticon-dna-1"></i>
@@ -3682,9 +3761,6 @@
                      </div>
                      <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="services-thumb-box pink-round mb-30 wow fadeInUp" data-wow-delay=".6s">
-                           <div class="services-thumb-box__thumb fix">
-                              <img src="assets/img/services/services-thumb-06.jpg" alt="services-thumb">
-                           </div>
                            <div class="services-thumb-box__text-area d-flex align-items-center">
                               <div class="services-thumb-box__icon mr-20">
                                  <i class="flaticon-dna"></i>
@@ -4011,6 +4087,19 @@
                 oldViewportWidth = newViewportWidth;
               }
             }
+            </script>
+            <script>
+               $('#prev1').on('click', function() {
+	$('#cards1').animate({
+	  scrollLeft: '-=500'
+	}, 500, 'swing');
+  });
+  
+  $('#next1').on('click', function() {
+	$('#cards1').animate({
+	  scrollLeft: '+=500'
+	}, 500, 'swing');
+  });
             </script>
             <?php include("footer.php") ?>
         
