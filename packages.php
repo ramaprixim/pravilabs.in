@@ -23,8 +23,8 @@
             </div>
          </section>
 
-<section>
-   <div class="container-fluid">
+<section style="padding-top: 100px;">
+   <div class="container">
       <div class="row">
          <div class="col-lg-3 d-flex justify-content-center">
             <div class="plan">
@@ -327,64 +327,63 @@
 				 </div>
             </div>
 			<div class="col-lg-3 d-flex justify-content-center">
-				<div class="plan">
-					<div class="inner">
-					   <span class="pricing">
-						  <span>
-							 59% Off
-						  </span>
-					   </span>
-					   <p class="title">Obesity Panel-Advance <br> <br></p>
-					   <p class="info">Includes: 16 Parameters</p>
-					   <ul class="features">
-						  <li>
-							 <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span>
-							 <span>LIPID PROFILE</span>
-						  </li>
-						  <li>
-							 <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span>
-							 <span>THYROID PROFILE</span>
-						  </li>
-						  <li>
-							 <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span>
-							 <span>FT3</span>
-						  </li>
-						  
-					   </ul>
-					   <div class="row">
-						  <div class="col-lg-6">
-							 <button class="card-button1 mb-4">know More</button>
-						  </div>
-						  <div class="col-lg-6 d-flex justify-content-end align-items-center">
-							 <h4 class="price-text">---</h4>   
-						  </div>
-					   </div>
-					  
-					   <div class="action">
-					   <a class="card-button" href="#">
-						  Book Now
-					   </a>
-					   <a class="card-button " href="#">
-						 Get a Call Back
-					   </a>
-					   </div>
-					</div>
-				 </div>
+            <div class="plan">
+               <div class="inner">
+                  <span class="pricing">
+                     <span>
+                        59% Off
+                     </span>
+                  </span>
+                  <p class="title">Obesity Panel- <br>Advance</p>
+                  <p class="info">Includes: 16 Parameters</p>
+                  <ul class="features">
+                     <li>
+                        <span class="icon">
+                           <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M0 0h24v24H0z" fill="none"></path>
+                              <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                           </svg>
+                        </span>
+                        <span>LIPID PROFILE</span>
+                     </li>
+                     <li>
+                        <span class="icon">
+                           <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M0 0h24v24H0z" fill="none"></path>
+                              <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                           </svg>
+                        </span>
+                        <span>THYROID PROFILE</span>
+                     </li>
+                     <li>
+                        <span class="icon">
+                           <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M0 0h24v24H0z" fill="none"></path>
+                              <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                           </svg>
+                        </span>
+                        <span>FT3</span>
+                     </li>
+                     
+                  </ul>
+                  <div class="row">
+                     <div class="col-lg-6">
+                        <button class="card-button1 mb-4">know More</button>
+                     </div>
+                     <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                        <h4 class="price-text">₹5899.00</h4>  
+                     </div>
+                  </div>
+                  <div class="action">
+                  <a class="card-button" href="#">
+                     Book Now
+                  </a>
+                  <a class="card-button " href="#">
+                    Get a Call Back
+                  </a>
+                  </div>
+               </div>
+            </div>
             </div>
 			
 			<div class="col-lg-3 d-flex justify-content-center">
@@ -3468,7 +3467,168 @@
       </div>
    </div> 
 </section>
+<section style="padding-top: 100px;">
+   <div class="container">
+      <div class="row">
 
+            <h2>Full Body Checkup At Navi Mumbai</h2>
+            <p>A complete physical examination that diagnoses and carefully evaluates the health status of a healthy body is known as a comprehensive, complete physical examination. It helps in comprehensive assessment of all body systems and organs. It consists of various tests that provide information about a person's current health status. It includes more than 60 tests to determine the health status of every body organ, including the thyroid, teeth, eyes, bones, liver, kidneys and more.</p>
+
+
+      </div>
+   </div>
+   <div class="container pt-40">
+<div class="card" style="padding: 24px 20px;">
+   <h2>Full Body Checkup Test List </h2>
+   <p>A full body checkup involves a variety of medical tests and examinations to assess a person's overall health and wellbeing. Navi Mumbai, there are numerous healthcare providers and hospitals that offer full body checkup services. Here are some of the common services that pravilabs in Navi Mumbai list for a full body checkup package test:</p>
+   <ul>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; CBC and HPLC test</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; PFT Test (Pulmonary Function Test)</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Cholesterol and lipid profile</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Chest X-rays, ECG tests and 2D echocardiography are all part of the cardiac system.</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Check your vitamins</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Abdominal Ultrasonography: Ultrasonography of abdomen and pelvis</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; TSH, T3 and T4 thyroid function tests</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Kidney function test (KFT): urea, uric acid and serum creatinine</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; SGPT, SGOT, and Serum Bilirubin: Liver Function Test (LFT)</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Diabetes screening: Fasting blood sugar and PP Hepatitis B test</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp;  Calcium scoring in CT</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Total body fat percentage</li>
+      <li><i class="fa-solid fa-circle-dot"></i>&nbsp; Check your eyes</li>
+   </ul>
+   <br>
+   <p>In addition, some full body checkup packages in Navi Mumbai may also include additional tests such as Pap smear for women, PSA test for men and vitamin D and B12 tests. It is important to consult with a healthcare professional to understand what tests are needed based on individual health concerns and medical history. A full body checkup can be an effective way to detect health problems early and prevent or manage chronic diseases, making it an important aspect of overall health and wellness.</p>
+</div>
+   </div>
+
+</section>
+<section style="padding: 100px 0px;">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-3">
+
+         </div>
+         <div class="col-lg-6">
+            <h2 class="text-center">Benefits of a Full Body Checkup</h2>
+            <p class="text-center">A full body checkup is a comprehensive medical examination that includes various tests and screenings to assess the overall health of an individual. It is recommended to undergo such checkups regularly to detect any potential health problems and prevent them from escalating into serious conditions. Here are some of the health benefits of a full body checkup:</p>
+         </div>
+         <div class="col-lg-3"></div>
+      </div>
+      <div>
+   </div>
+   </div>
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-lg-12">
+            <div class="tp-section mb-20">
+               <br>
+               <h3 class="tp-section__title mb-60 text-center">Here are the Benefits of a full body checkup</h3>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-xxl-4 col-lg-6 col-md-6">
+            <div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s" data-background="assets/img/blog/blog-thumb-07.jpg" style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+               <div class="blogitem" style="background: #dcecf9;">
+                  <div class="fix inner-blog-wrap">
+                     <div class="blogitem__avata-part">
+                        <div class="blogitem__avata">
+                           
+                           <div class="blogitem__avata-content">
+                              <div class="">
+                                 <img src="assets/img/icon/blog-ava-01.png" alt="">
+                                     </div>
+                              <h5 class="blogitem__title mb-20">Early detection of health issues</h5>
+                              <p>A full body checkup allows doctors to screen for various diseases and conditions at an early stage. This helps in early detection and timely treatment, leading to better health outcomes.</p>
+                           </div>
+                        </div>
+                        <div class="blogitem__medi">
+                          
+                        </div>
+                     </div>
+                     <div class="blogitem__title-area p-relative">
+                        <div class="blog-item__date-info mb-15">
+                          
+                        </div>
+                       
+                        <div class="tp-blog__btn blog-bg-btn">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-4 col-lg-6 col-md-6">
+            <div class="blogthumb mb-30 pink-blog wow fadeInUp" data-wow-delay=".5s" data-background="assets/img/blog/blog-thumb-08.jpg" style="background-image: url(&quot;assets/img/blog/blog-thumb-08.jpg&quot;); visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+               <div class="blogitem">
+                  <div class="fix inner-blog-wrap">
+                     <div class="blogitem__avata-part">
+                        <div class="blogitem__avata">
+                           <div class="blogitem__avata-icon">
+                              <img src="assets/img/icon/blog-ava-02.png" alt="blog-avata">
+                           </div>
+                           <div class="blogitem__avata-content">
+                              <span>Post by:</span>
+                              <a href="#">Robart Foxid</a>
+                           </div>
+                        </div>
+                        <div class="blogitem__medi">
+                           <a href="shop.html">Medicine</a>
+                        </div>
+                     </div>
+                     <div class="blogitem__title-area p-relative">
+                        <div class="blog-item__date-info mb-15">
+                           <ul class="d-flex align-items-center">
+                              <li><i class="fa-light fa-clock"></i>Dec 28, 2022</li>
+                              <li><i class="fa-light fa-eye"></i>1,526 views</li>
+                           </ul>
+                        </div>
+                        <h5 class="blogitem__title mb-20"><a href="blog-details.html">Some of the Social Determinants of helth Tips</a></h5>
+                        <div class="tp-blog__btn blog-bg-btn">
+                           <a href="blog.html">Read moRe</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-4 col-lg-6 col-md-6">
+            <div class="blogthumb mb-30 green-blog wow fadeInUp" data-wow-delay=".7s" data-background="assets/img/blog/blog-thumb-09.jpg" style="background-image: url(&quot;assets/img/blog/blog-thumb-09.jpg&quot;); visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
+               <div class="blogitem">
+                  <div class="fix inner-blog-wrap">
+                     <div class="blogitem__avata-part">
+                        <div class="blogitem__avata">
+                           <div class="blogitem__avata-icon">
+                              <img src="assets/img/icon/blog-ava-03.png" alt="blog-avata">
+                           </div>
+                           <div class="blogitem__avata-content">
+                              <span>Post by:</span>
+                              <a href="#">Brookly Simmons</a>
+                           </div>
+                        </div>
+                        <div class="blogitem__medi">
+                           <a href="shop.html">Medicine</a>
+                        </div>
+                     </div>
+                     <div class="blogitem__title-area p-relative">
+                        <div class="blog-item__date-info mb-15">
+                           <ul class="d-flex align-items-center">
+                              <li><i class="fa-light fa-clock"></i>Dec 28, 2022</li>
+                              <li><i class="fa-light fa-eye"></i>1,526 views</li>
+                           </ul>
+                        </div>
+                        <h5 class="blogitem__title mb-20"><a href="blog-details.html">Express Scripts Throw Lifeline Digital Health</a></h5>
+                        <div class="tp-blog__btn blog-bg-btn">
+                           <a href="blog.html">Read moRe</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>   
+</section>
 <section style="padding: 150px 0px;">
    <div class="container">
       <table class="table">
@@ -3719,6 +3879,8 @@
      </table>
 
    </div>
+
+   
 </section>
 
 <section class="faq-area pt-125 pb-100">
