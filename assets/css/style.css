@@ -4699,7 +4699,7 @@ div.tp-srv-link a {
   font-weight: 500;
   line-height: 36px;
   padding: 0 22px;
-  margin-bottom: 65px;
+  margin-bottom: 35px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .testi-content p {
@@ -8683,16 +8683,26 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 700;
 }
 .swiper-slide-width{
+  
   width: 250px !important;
   text-align: center;
+}
+.swiper-slide-width .services-item{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 30px 20px;
 }
 .swiper-slide-width .services-item  .services-item__icon{
   clip-path: none !important;
   background-color:white !important;
-  height: 0 !important;
-  width: 0 !important;
+  width: auto !important;
+  height: auto !important;
+
   
 }
-.swiper-slide-width .services-item {
-  padding: 20px 30px;
+.swiper-slide-width .services-item__tp-title {
+  font-size: 18px;
 }
+.counter-title-main .counter__content .counter__title{
+  font-size: 25px !important;
+}
+

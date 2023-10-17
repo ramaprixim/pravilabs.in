@@ -52,6 +52,8 @@
                         <ul>
                            <li class=""><a class="active" href="index.php">Home </a>
                            </li>
+                           <li class=""><a href="about-us.php">About Us</a>
+                           </li>
                            <li class=""><a href="packages.php">Packages</a>
                            </li>
                            <li><a href="test.php">Tests</a></li>
