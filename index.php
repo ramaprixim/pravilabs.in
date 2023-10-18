@@ -3289,7 +3289,9 @@
                <div class="container">
                   <div class="row">
                      <div class="col-lg-12">
-                        <span class="tp-section__sub-title left-line mb-20 mt-80">Lifecycle Disorder</span>
+                      <div class="d-flex justify-content-center">
+                        <h2 class="tp-section__title mb-75">Lifecycle Disorder</h2>
+                       </div>
                      </div>
                   </div>
                   <div class="row">
@@ -3359,11 +3361,14 @@
             </section>
             <section class="services-area pt-95 pb-90 grey-bg mt-60 fix" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
                <div class="container">
-                
+                <div class="d-flex justify-content-center">
+                  <h2 class="tp-section__title mb-75">Test By Category</h2>
+                 </div>
                   <div class="row align-items-center">
                      <div class="col-lg-8 col-md-8 col-12">
+                     
                         <div class="tp-section">
-                           <span class="tp-section__sub-title left-line mb-20">Test by Category</span>
+                          
                            
                         </div>
                      </div>
@@ -3372,6 +3377,7 @@
                            <div class="services-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-cd6c4b2e898989dc"><i class="fa-regular fa-arrow-left"></i></div>
                            <div class="services-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-cd6c4b2e898989dc"><i class="fa-regular fa-arrow-right"></i></div>
                         </div>
+                        <br>
                      </div>
                   </div>
                   <div class="services-slider  wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3522,14 +3528,126 @@
                   </div>
                </div>
             </section>
-
+<section class="gallery-area grey-bg pt-120 pb-130" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
+            <div class="container">
+              <div class="row">
+               <div class="col-lg-12">
+                  <div class="tp-section text-center">
+                     <span class="tp-section__sub-title left-line right-line mb-25">Work Gallery</span>
+                     <h3 class="tp-section__title mb-70">Bioxlab Gallery</h3>
+                  </div>
+               </div>
+              </div> 
+            </div>
+            <div class="container-fluid">
+               <div class="tp-gallery ml-15 mr-15 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                  <div class="swiper-container gall-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                     <div class="swiper-wrapper" id="swiper-wrapper-5ed90e0a58c9d3104" aria-live="off" style="transform: translate3d(-4214.25px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="1 / 13" style="width: 438.25px; margin-right: 30px;">
+                           <div class="tp-gallery__item p-relative mb-70">
+                              <div class="tp-gallery__img p-relative">
+                                 <img src="assets/img/gallery/gal-thum-02.jpg" alt="gallery-img">
+                                 <div class="tp-gallery__info">
+                                    <a class="popup-image" href="assets/img/gallery/gal-thum-02.jpg"><i class="fa-solid fa-plus"></i></a>
+                                 </div>
+                              </div>
+                              <div class="tp-gallery__content">
+                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Breast Cancer</a></h4>
+                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Anaesthetist</a></span>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="2 / 13" style="width: 438.25px; margin-right: 30px;">
+                           <div class="tp-gallery__item p-relative mb-70">
+                              <div class="tp-gallery__img p-relative">
+                                 <img src="assets/img/gallery/gal-thum-03.jpg" alt="gallery-img">
+                                 <div class="tp-gallery__info">
+                                    <a class="popup-image" href="assets/img/gallery/gal-thum-03.jpg"><i class="fa-solid fa-plus"></i></a>
+                                 </div>
+                              </div>
+                              <div class="tp-gallery__content">
+                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Zyrtec Analysis</a></h4>
+                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Gynaecologist</a></span>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" role="group" aria-label="3 / 13" style="width: 438.25px; margin-right: 30px;">
+                           <div class="tp-gallery__item p-relative mb-70">
+                              <div class="tp-gallery__img p-relative">
+                                 <img src="assets/img/gallery/gal-thum-04.jpg" alt="gallery-img">
+                                 <div class="tp-gallery__info">
+                                    <a class="popup-image" href="assets/img/gallery/gal-thum-04.jpg"><i class="fa-solid fa-plus"></i></a>
+                                 </div>
+                              </div>
+                              <div class="tp-gallery__content">
+                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Asthma Apply</a></h4>
+                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Genetics</a></span>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="4" role="group" aria-label="4 / 13" style="width: 438.25px; margin-right: 30px;">
+                           <div class="tp-gallery__item p-relative mb-70">
+                              <div class="tp-gallery__img p-relative">
+                                 <img src="assets/img/gallery/gal-thum-05.jpg" alt="gallery-img">
+                                 <div class="tp-gallery__info">
+                                    <a class="popup-image" href="assets/img/gallery/gal-thum-01.jpg"><i class="fa-solid fa-plus"></i></a>
+                                 </div>
+                              </div>
+                              <div class="tp-gallery__content">
+                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">neurological ANALYSIS</a></h4>
+                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Forensic</a></span>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="5 / 13" style="width: 438.25px; margin-right: 30px;">
+                           <div class="tp-gallery__item p-relative mb-70">
+                              <div class="tp-gallery__img p-relative">
+                                 <img src="assets/img/gallery/gal-thum-01.jpg" alt="gallery-img">
+                                 <div class="tp-gallery__info">
+                                    <a class="popup-image" href="assets/img/gallery/gal-thum-01.jpg"><i class="fa-solid fa-plus"></i></a>
+                                 </div>
+                              </div>
+                              <div class="tp-gallery__content">
+                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">COVID ANALYSIS</a></h4>
+                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Radiologist</a></span>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="6 / 13" style="width: 438.25px; margin-right: 30px;">
+                           <div class="tp-gallery__item p-relative mb-70">
+                              <div class="tp-gallery__img p-relative">
+                                 <img src="assets/img/gallery/gal-thum-02.jpg" alt="gallery-img">
+                                 <div class="tp-gallery__info">
+                                    <a class="popup-image" href="assets/img/gallery/gal-thum-02.jpg"><i class="fa-solid fa-plus"></i></a>
+                                 </div>
+                              </div>
+                              <div class="tp-gallery__content">
+                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Hiv Analysis &amp; Testing</a></h4>
+                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Anaesthetist</a></span>
+                              </div>
+                           </div>
+                        </div>
+                      </div>
+                  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+               </div>
+            </div>
+            <div class="container">
+               <div class="row text-center">
+                  <div class="col-lg-12">
+                     <a class="tp-btn-second" href="portfolio-details.html">Explore More</a>
+                  </div>
+               </div>
+            </div>
+         </section>
 
             <section class="counter-area tp-common-area pt-130">
                <div class="container">
+                <div class="d-flex justify-content-center">
+                  <h2 class="tp-section__title mb-75">Oncocure</h2>
+                 </div>
                   <div class="row align-items-center">
                      <div class="col-lg-8 col-md-8 col-12">
                         <div class="tp-section">
-                           <span class="tp-section__sub-title left-line mb-20">Oncocure</span>
+
                            
                         </div>
                      </div>
@@ -3670,7 +3788,6 @@
                  <div class="row">
                     <div class="col-lg-12">
                        <div class="tp-section text-center">
-                          <span class="tp-section__sub-title left-line right-line mb-25">Our Specialists</span>
                           <h3 class="tp-section__title title-white mb-85">Why Choose Us</h3>
                        </div>
                     </div>
@@ -3758,17 +3875,17 @@
            <!-- service area -->
            <section class="services-area pt-120 pb-75">
             <div class="container">
+              <div class="d-flex justify-content-center">
+                <h2 class="tp-section__title mb-75">Our Expertise</h2>
+               </div>
                <div class="row align-items-end  mb-45">
                   <div class="col-lg-5 col-md-12 col-12">
                      <div class="tp-section">
-                        <span class="tp-section__sub-title left-line mb-20"></span>
-                        <h3 class="tp-section__title mb-30">Our Expertise</h3>
+                        <h3 class="tp-section__title mb-30"></h3>
                      </div>
                   </div>
                   <div class="col-lg-7 col-md-12 col-12">
-                     <div class="services-link text-md-start text-lg-end mb-30">
-                        <span>We'll ensure you always get the best results:<a href="contact.html">Contact us<i class="fa-solid fa-arrow-right"></i></a></span>
-                     </div>
+                     <div class="services-link text-md-start text-lg-end mb-30">                     </div>
                   </div>
                </div>
                <div class="row">

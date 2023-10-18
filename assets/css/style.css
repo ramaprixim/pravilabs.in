@@ -2930,7 +2930,7 @@ input[type=color] {
 }
 
 .tp-services-item {
-  padding: 0;
+  padding: 33px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .tp-services-item {
