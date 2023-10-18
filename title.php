@@ -5,7 +5,7 @@ switch($title){
         $title = "";
         $description = "";
         $keywords = "";
-        "https://pravilabs.in";
+       
        break;
        
     case 'contact-us.php':
