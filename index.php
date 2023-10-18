@@ -3673,216 +3673,190 @@
             <!-- about-area-end -->
 
             <!-- services-area -->
-            <section class="services-area tp-common-area pt-120 pb-130 grey-bg" data-background="assets/img/shape/shape-bg-01.png">
-               <div class="container">
-                  <div class="row align-items-center">
-                     <div class="col-lg-5 col-md-12 col-12">
-                        <div class="tp-section tp-section-center">
-                          
-                           <h3 class="tp-section__title mb-75">Why Choose Us
-                           </h3>
-                        </div>
-                     </div>
-                    
-                  </div>
-                  <div class="row">
-                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
-                        <div class="services-thumb-box mb-30 wow fadeInUp" data-wow-delay=".2s">
-                           <div class="services-thumb-box__text-area d-flex align-items-center">
-                              <div class="services-thumb-box__icon mr-20">
-                                 <i class="flaticon-hemoglobin-test-meter"></i>
-                              </div>
-                              <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="#">Medical Expertise</a></h5>
-                                 <a class="tp-btn-link" href="#">Read More</a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
-                        <div class="services-thumb-box pink-round mb-30 wow fadeInUp" data-wow-delay=".4s">
-                           <div class="services-thumb-box__text-area d-flex align-items-center">
-                              <div class="services-thumb-box__icon mr-20">
-                                 <i class="flaticon-blood-test"></i>
-                              </div>
-                              <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="#">Convenient Access</a></h5>
-                                 <a class="tp-btn-link" href="#">Read More</a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
-                        <div class="services-thumb-box sky-round mb-30 wow fadeInUp" data-wow-delay=".6s">
-                           <div class="services-thumb-box__text-area d-flex align-items-center">
-                              <div class="services-thumb-box__icon mr-20">
-                                 <i class="flaticon-biochemistry"></i>
-                              </div>
-                              <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="#">Stringent Quality Control</a></h5>
-                                 <a class="tp-btn-link" href="#">Read More</a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
-                        <div class="services-thumb-box blue-round mb-30 wow fadeInUp" data-wow-delay=".2s">
-                           <div class="services-thumb-box__text-area d-flex align-items-center">
-                              <div class="services-thumb-box__icon mr-20">
-                                 <i class="flaticon-bacteria"></i>
-                              </div>
-                              <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="#">Comprehensive Test Menu</a></h5>
-                                 <a class="tp-btn-link" href="#">Read More</a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
-                        <div class="services-thumb-box mb-30 wow fadeInUp" data-wow-delay=".4s">
-                           <div class="services-thumb-box__text-area d-flex align-items-center">
-                              <div class="services-thumb-box__icon mr-20">
-                                 <i class="flaticon-dna-1"></i>
-                              </div>
-                              <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="#">Dedication to Your Well-Being</a></h5>
-                                 <a class="tp-btn-link" href="#">Read More</a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 col-12">
-                        <div class="services-thumb-box pink-round mb-30 wow fadeInUp" data-wow-delay=".6s">
-                           <div class="services-thumb-box__text-area d-flex align-items-center">
-                              <div class="services-thumb-box__icon mr-20">
-                                 <i class="flaticon-dna"></i>
-                              </div>
-                              <div class="services-thumb-box__content">
-                                 <h5 class="services-thumb-box__title"><a href="#">Cutting-Edge Technology</a></h5>
-                                 <a class="tp-btn-link" href="#">Read More</a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                 
-               </div>
-            </section>
+              
+
+
+
             <!-- services-area-end -->
-
-            <!-- counter-area -->
-            <section class="counter-area tp-common-area pt-130">
-               <div class="container">
-                  <div class="row justify-content-center">
-                     <div class="col-lg-8">
-                       <div class="title-wrapper text-center mb-20">
-                        <h2>Our Expertise </h2>
-                        <!-- <p>Over the years, we have gained extensive experience in medical diagnostics and our team of experienced doctors and technicians ensures the highest quality and precision in every test we perform.
-                        </p> -->
+            <section class="choose-area theme-bg pt-120 pb-130">
+              <div class="container">
+                 <div class="row">
+                    <div class="col-lg-12">
+                       <div class="tp-section text-center">
+                          <span class="tp-section__sub-title left-line right-line mb-25">Our Specialists</span>
+                          <h3 class="tp-section__title title-white mb-85">Why Choose Us</h3>
                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col-xl-4 col-md-6">
+                       <div class="tp-choose__item ml-15 mb-100 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                          <div class="tp-choose__icon sky-icon   mb-40">
+                             <i class="flaticon-microscope"></i>
+                          </div>
+                          <div class="tp-choose__content">
+                             <h4 class="tp-choose__title mb-20">Medical Expertise</h4>
+                             <p>Our center is staffed with a team <br> of highly qualified doctors, pathologists,<br> and healthcare professionals.</p>
+                          </div>
+                       </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6">
+                       <div class="tp-choose__item ml-35 mb-100 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                          <div class="tp-choose__icon green-icon mb-40">
+                             <i class="flaticon-blood-test"></i>
+                          </div>
+                          <div class="tp-choose__content">
+                             <h4 class="tp-choose__title mb-20">Convenient Access</h4>
+                             <p> we prioritize convenience for our patients. <br> You can easily find a center making it hassle-free <br> to get the tests you need, no matter where you're located.</p>
+                          </div>
+                       </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6">
+                       <div class="tp-choose__item ml-55 mb-100 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                          <div class="tp-choose__icon pink-icon mb-40">
+                             <i class="flaticon-biochemistry"></i>
+                          </div>
+                          <div class="tp-choose__content">
+                             <h4 class="tp-choose__title mb-20">Stringent Quality Control</h4>
+                             <p> Quality is paramount to us. We have implemented<br> more  than 50 rigorous quality and process checks to <br> ensure the precision and reliability of your test results.</p>
+                          </div>
+                       </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6">
+                       <div class="tp-choose__item ml-15 mb-100 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+                          <div class="tp-choose__icon sky-icon  mb-40">
+                             <i class="flaticon-blood-test"></i>
+                          </div>
+                          <div class="tp-choose__content">
+                             <h4 class="tp-choose__title mb-20">Comprehensive Test Menu</h4>
+                             <p> Our extensive menu offers more than 5000 <br> different tests covering a wide spectrum <br> of medical diagnostics.</p>
+                          </div>
+                       </div>
+                    </div>
+
+                    <div class="col-xl-4 col-md-6">
+                      <div class="tp-choose__item ml-35 mb-100 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+                         <div class="tp-choose__icon green-icon mb-40">
+                          <i class="flaticon-dna-1"></i>
+                         </div>
+                         <div class="tp-choose__content">
+                            <h4 class="tp-choose__title mb-20">Dedication to Your Well-Being</h4>
+                            <p> We are committed to excellence in diagnostics. <br> This means that your health and well-being <br> are at the heart of everything we do.</p>
+                         </div>
+                      </div>
+                   </div>
+                   <div class="col-xl-4 col-md-6">
+                    <div class="tp-choose__item ml-55 mb-100 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+                       <div class="tp-choose__icon pink-icon mb-40">
+                          <i class="flaticon-hemoglobin-test-meter"></i>
+                       </div>
+                       <div class="tp-choose__content">
+                          <h4 class="tp-choose__title mb-20">Cutting-Edge Technology</h4>
+                          <p> We leverage the latest advancements in medical <br> technology to ensure that our tests are conducted <br> with the utmost precision.</p>
+                       </div>
+                    </div>
+                 </div>
+                    
+                 </div>
+                 <div class="row text-center">
+                    <div class="col-lg-12">
+                       <div class="tp-choose-option">
+                          <span><a href="#"></a></span>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </section>
+
+           <!-- service area -->
+           <section class="services-area pt-120 pb-75">
+            <div class="container">
+               <div class="row align-items-end  mb-45">
+                  <div class="col-lg-5 col-md-12 col-12">
+                     <div class="tp-section">
+                        <span class="tp-section__sub-title left-line mb-20"></span>
+                        <h3 class="tp-section__title mb-30">Our Expertise</h3>
                      </div>
                   </div>
-                  <div class="row">
-                     <div class="col-xxl-4 col-xl-4 col-md-4">
-                        <div class="counter__item blue-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".2s">
-                           <!-- <div class="counter__icon mb-15">
-                              <i></i>
-                           </div> -->
-                     <div><img src="assets/img/Comprehensive Test Menu.png" alt=""></div>
-                           <div class="counter__content">
-                              <h4 class="counter__title ">Comprehensive Test Menu 
-                              </h4>
-                              <!-- <p>We provide a wide variety of medical tests that cover different areas of health. Whether you need basic blood tests or advanced molecular diagnostics, our modern labs can give you accurate results promptly thanks to advanced technology
-                              </p> -->
-                           </div>
+                  <div class="col-lg-7 col-md-12 col-12">
+                     <div class="services-link text-md-start text-lg-end mb-30">
+                        <span>We'll ensure you always get the best results:<a href="contact.html">Contact us<i class="fa-solid fa-arrow-right"></i></a></span>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-xl-4 col-lg-4 col-md-6">
+                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="services-item__icon mb-30">
+                          <img src="assets/img/Comprehensive Test Menu.png" alt="">
+                        </div>
+                        <div class="services-item__content">
+                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Comprehensive Test Menu</a></h5>
                         </div>
                      </div>
-                     <div class="col-xxl-4 col-xl-4 col-md-4">
-                        <div class="counter__item pink-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".4s">
-                           <!-- <div class="counter__icon pink-hard mb-15">
-                              <i></i>
-                           </div> -->
-                           <div><img src="assets/img/Convenience and Accessibility.png" alt=""></div>
-                           <div class="counter__content">
-                              <h4 class="counter__title">Convenience and Accessibility 
-                              </h4>
-                              <!-- <p>We aim to offer top-notch services close to your location, all at affordable prices. Whether you visit our physical locations, use our easy website, or access our mobile app, scheduling tests and getting reports is just a click away.
-                              </p> -->
-                           </div>
+                  </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6">
+                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <div class="services-item__icon pink-icon mb-30">
+                          <img src="assets/img/Convenience and Accessibility.png" alt="">
+                        </div>
+                        <div class="services-item__content">
+                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Convenience and Accessibility</a></h5>
                         </div>
                      </div>
-                     <div class="col-xxl-4 col-xl-4 col-md-4">
-                        <div class="counter__item sky-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".6s">
-                           <!-- <div class="counter__icon sky-hard mb-15">
-                              <i></i>
-                           </div> -->
-                           <div><img src="assets/img/Customer-Centric Approach.png" alt=""></div>
-                           <div class="counter__content">
-                              <h4 class="counter__title">Customer-Centric Approach
-                              </h4>
-                              <!-- <p>Quality is incredibly important to us. Our labs are certified by NABL and CAP, which are trusted organizations for testing and calibration. We make sure that every test goes through over 50 quality checks from the moment we collect the sample until we provide the final report.
-                              </p> -->
-                           </div>
+                  </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6">
+                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                        <div class="services-item__icon sky-icon mb-30">
+                          <img src="assets/img/Customer-Centric Approach.png" alt="">
+                        </div>
+                        <div class="services-item__content">
+                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Customer-Centric Approach</a></h5>
                         </div>
                      </div>
-                     <div class="col-xxl-4 col-xl-4 col-md-4">
-                        <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
-                           <!-- <div class="counter__icon green-hard mb-15">
-                              <i></i>
-                           </div> -->
-                           <div><img src="assets/img/Quality and Accuracy.png" alt=""></div>
-                           <div class="counter__content">
-                              <h4 class="counter__title"> Quality and Accuracy 
-                              </h4>
-                              <!-- <p>We put our customers at the center of everything we do and therefore treat them as our primary value. Our dedicated trained Felbo and CC are always ready to help you, to address any of your concerns or queries. We strive to provide a seamless experience, from the time you book a test to receiving your test reports, ensuring your peace of mind throughout the process.
-                              </p> -->
-                           </div>
+                  </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6">
+                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+                        <div class="services-item__icon green-icon mb-30">
+                          <img src="assets/img/Quality and Accuracy.png" alt="">
+                        </div>
+                        <div class="services-item__content">
+                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Quality and Accuracy</a></h5>
                         </div>
                      </div>
-                     <div class="col-xxl-4 col-xl-4 col-md-4">
-                        <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
-                           <!-- <div class="counter__icon green-hard mb-15">
-                              <i></i>
-                           </div> -->
-                           <div><img src="assets/img/Home Sample Collection.png" alt=""></div>
-                           <div class="counter__content">
-                              <h4 class="counter__title">Home Sample Collection 
-                              </h4>
-                              <!-- <p>Our website and mobile app make it easy for you to book and get your test reports, whether you're using a computer or a phone. After we collect your samples, we quickly take them to our own labs for testing. You can securely get your test results online or have them delivered to your home, making the whole process easy and hassle-free. Our Lab is changing the way healthcare works by bringing convenient and reliable diagnostic services right to your door with home collection blood tests.
-                              </p> -->
-                           </div>
+                  </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6">
+                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="services-item__icon green-icon mb-30">
+                          <img src="assets/img/Home Sample Collection.png" alt="">
+                        </div>
+                        <div class="services-item__content">
+                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Home Sample Collection</a></h5>
                         </div>
                      </div>
-                     <div class="col-xxl-4 col-xl-4 col-md-4">
-                        <div class="counter__item green-border mb-30 wow fadeInUp counter-title-main" data-wow-delay=".8s">
-                           <!-- <div class="counter__icon green-hard mb-15">
-                              <i></i>
-                           </div> -->
-                           <div><img src="assets/img/Embracing Innovation.png" alt=""></div>
-                           <div class="counter__content">
-                              <h4 class="counter__title">Embracing Innovation 
-                              </h4>
-                              <!-- <p>We have a special group of doctors who work hard to make sure we use the latest technology, tests, quality checks, and processes in every test we perform. We also spend money on research and development to give you the newest diagnostic solutions and discoveries
-                              </p> -->
-                           </div>
+                  </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6">
+                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <div class="services-item__icon sky-icon mb-30">
+                          <img src="assets/img/Embracing Innovation.png" alt="">
+                        </div>
+                        <div class="services-item__content">
+                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Embracing Innovation</a></h5> 
                         </div>
                      </div>
                   </div>
                </div>
-            </section>
-            <!-- counter-area-end -->  
-            
-        
+            </div>
+         </section>
 
-           
+            <!-- counter-area-end -->  
             <section class="faq-area pb-100">
             <div class="container">
                <div class="row text-center">
                   <div class="col-lg-12 col-md-12 col-12">
                      <div class="tp-section">
                         <!-- <span class="tp-section__sub-title left-line right-line mb-20">Faq</span> -->
-                        <h3 class="tp-section__title mb-70">Frequently Asked Questions
-</h3>
+                        <h3 class="tp-section__title mb-70">Frequently Asked Questions</h3>
                      </div>
                   </div>
                </div>
