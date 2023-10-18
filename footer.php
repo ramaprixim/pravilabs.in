@@ -3,8 +3,7 @@
             <div class="container">
             <div class="tp-footer-top pb-25">
                      <div class="container">
-                      
-                        <div class="row pb-40 pt-50">
+                      <div class="row pb-40 pt-50">
                            <div class="col-lg-4 col-md-6">
                               <div class="footercontact mb-40 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                  <div class="footercontact__icon">
@@ -43,12 +42,12 @@
                      </div>
                   </div>
                <div class="row">
-                  <div class="col-xl-3 col-lg-4 col-md-6">
+                  <div class="col-xl-4 col-lg-4 col-md-6">
                      <div class="footer-widget footer-col-1 mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                         <h4 class="footer-widget__title mb-30">
                            <a href="index.html"><img src="assets/img/logo/pravi lab LOGO white.png"  alt="logo"></a>
                         </h4>
-                        <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo claritatem itamconse quat.Exerci tation ullamcorper.</p>
+                        <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea <br> commodo claritatem itamconse quat.Exerci tation ullamcorper.</p>
                         <div class="footer-widget__social">
                            <a class="tp-f-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
                            <a class="tp-f-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
@@ -57,9 +56,9 @@
                         </div>
                      </div>
                   </div>
-                  <div class="col-xl-3 col-lg-4 col-md-6">
+                  <div class="col-xl-4 col-lg-4 col-md-6">
                      <div class="footer-widget footer-col-2 mb-50 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                        <h4 class="footer-widget__title mb-20">Useful links</h4>
+                        <h4 class="footer-widget__title mb-20">Useful Links</h4>
                         <div class="footer-widget__links">
                            <ul>
                            <ul>
@@ -75,38 +74,41 @@
                         </div>
                      </div>
                   </div>
-                  
-                  <div class="col-xl-3 col-lg-6 col-md-6">
-                     <div class="footer-widget footer-col-4 mb-50 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-                        <h4 class="footer-widget__title mb-20">Subscribe Newslatter</h4>
-                        <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo </p>
-                        <div class="footer-widget__newsletter p-relative">
-                           <form action="#">
-                              <input type="email" placeholder="Enter Mail">
-                              <button class="footer-widget__fw-news-btn"><i class="fa-solid fa-paper-plane"></i></button>
-                           </form>
+                  <div class="col-xl-4 col-lg-4 col-md-6">
+                     <div class="footer-widget footer-col-2 mb-50 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <h4 class="footer-widget__title mb-20">Other Links</h4>
+                        <div class="footer-widget__links">
+                           <ul>
+                           <ul>
+                           <li><a href="index.php">Terms and Conditions</a></li>
+                           <li><a href="about-us.php">Privacy Policy</a></li>
+                           <li><a href="health-packages.php">Disclaimer</a></li>
+                           <li><a href="tests.php">Copyright</a></li>
+                           
+                        </ul>
+                           </ul>
                         </div>
                      </div>
                   </div>
+                  
+                
                </div>
             </div>
          </div>
          <div class="footer-area-bottom theme-bg">
             <div class="container">
-               <div class="row">
-                  <div class="col-xl-6 col-lg-6 col-md-12 col-12">
-                     <div class="footer-widget__copyright">
-                        <span> © Copyright ©2023  <a href="index.php">Pravilabs.in.</a> <i>All Rights Reserved Copyright</i></span>
-                     </div>
-                  </div> 
-                  <div class="col-xl-6 col-lg-6 col-md-12 col-12">
+               <div class="row justify-content-center">
+                  <div class="col-xl-12 col-lg-10 col-md-12 col-12">
                      <div class="footer-widget__copyright-info info-direction">
-                        <ul class="d-flex align-items-center">
-                           <li><a href="#">Terms and conditions</a></li>
-                           <li><a href="#">Privacy policy</a></li>
-                        </ul>
+                       <span style="color: #a9b7d1;">Disclaimer: All of our products, services, logos, and company names are trademarksTM or registered® trademarks of the respective holders. They are not intended to violate <br> the norms of any organization.
+                     </span>
+                     </div>
+                     <div class="footer-widget__copyright text-center" style="padding-top:20px !important;">
+                        <span > © Copyright ©2023  <a href="index.php">Pravilabs.in.</a> <i>All Rights Reserved Copyright</i></span>
                      </div>
                   </div>
+                 
+                 
                </div>
             </div>
          </div>
