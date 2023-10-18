@@ -3788,7 +3788,7 @@
                            <!-- <div class="counter__icon mb-15">
                               <i></i>
                            </div> -->
-                     <div><img src="assets/img/icon/test-tube.png" alt=""></div>
+                     <div><img src="assets/img/Comprehensive Test Menu.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title ">Comprehensive Test Menu 
                               </h4>
@@ -3802,7 +3802,7 @@
                            <!-- <div class="counter__icon pink-hard mb-15">
                               <i></i>
                            </div> -->
-                           <div><img src="assets/img/icon/thumb-ups.png" alt=""></div>
+                           <div><img src="assets/img/Convenience and Accessibility.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title">Convenience and Accessibility 
                               </h4>
@@ -3816,7 +3816,7 @@
                            <!-- <div class="counter__icon sky-hard mb-15">
                               <i></i>
                            </div> -->
-                           <div><img src="assets/img/icon/target.png" alt=""></div>
+                           <div><img src="assets/img/Customer-Centric Approach.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title">Customer-Centric Approach
                               </h4>
@@ -3830,7 +3830,7 @@
                            <!-- <div class="counter__icon green-hard mb-15">
                               <i></i>
                            </div> -->
-                           <div><img src="assets/img/icon/achievement.png" alt=""></div>
+                           <div><img src="assets/img/Quality and Accuracy.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title"> Quality and Accuracy 
                               </h4>
@@ -3844,7 +3844,7 @@
                            <!-- <div class="counter__icon green-hard mb-15">
                               <i></i>
                            </div> -->
-                           <div><img src="assets/img/icon/hospital.png" alt=""></div>
+                           <div><img src="assets/img/Home Sample Collection.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title">Home Sample Collection 
                               </h4>
@@ -3858,7 +3858,7 @@
                            <!-- <div class="counter__icon green-hard mb-15">
                               <i></i>
                            </div> -->
-                           <div><img src="assets/img/icon/creativity.png" alt=""></div>
+                           <div><img src="assets/img/Embracing Innovation.png" alt=""></div>
                            <div class="counter__content">
                               <h4 class="counter__title">Embracing Innovation 
                               </h4>
