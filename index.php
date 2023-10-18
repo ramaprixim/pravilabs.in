@@ -3872,6 +3872,212 @@
               </div>
            </section>
 
+           <section class="team-area grey-bg pt-120 pb-80" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-lg-8 col-md-8 col-12">
+                     <div class="tp-section">
+                        <span class="tp-section__sub-title left-line mb-25">Our Team</span>
+                        <h3 class="tp-section__title mb-75">Meet Specialist</h3>
+                     </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-12">
+                     <div class="tp-team-arrow d-flex align-items-center">
+                        <div class="team-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-left"></i></div>
+                        <div class="team-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-right"></i></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-container team-active wow fadeInUp swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                  <div class="swiper-wrapper" id="swiper-wrapper-ddf9d09386495e14" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-2200px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-02.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                              <h4 class="tp-team__title mb-15"><a href="team-details.html">Complete Blood Count; CBC Test</a></h4>
+                              <div class="fw-700 fs-14 me-2">Time:</div>
+                              <div class="fw-700 fs-14 me-2">Within 24 Hours</div>
+                              <!-- <span class="tp-team__position mb-30">Anaesthetist Specialist</span> -->
+                              <p>Pre Test Information:</p>
+                              <p>No specific requirement</p>
+                           </div>
+                           <div><a class="card-button" href="#">
+                            Book Now
+                          </a></div>
+                        </div>
+                     </div> <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" role="group" aria-label="2 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-03.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                            <h4 class="tp-team__title mb-15"><a href="team-details.html">Complete Blood Count; CBC Test</a></h4>
+                            <div class="fw-700 fs-14 me-2">Time:</div>
+                            <div class="fw-700 fs-14 me-2">Within 24 Hours</div>
+                            <!-- <span class="tp-team__position mb-30">Anaesthetist Specialist</span> -->
+                            <p>Pre Test Information:</p>
+                            <p>No specific requirement</p>
+                         </div>
+                         <div><a class="card-button" href="#">
+                          Book Now
+                        </a></div>
+                        </div>
+                     </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" role="group" aria-label="3 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-04.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                            <h4 class="tp-team__title mb-15"><a href="team-details.html">Complete Blood Count; CBC Test</a></h4>
+                            <div class="fw-700 fs-14 me-2">Time:</div>
+                            <div class="fw-700 fs-14 me-2">Within 24 Hours</div>
+                            <!-- <span class="tp-team__position mb-30">Anaesthetist Specialist</span> -->
+                            <p>Pre Test Information:</p>
+                            <p>No specific requirement</p>
+                         </div>
+                         <div><a class="card-button" href="#">
+                          Book Now
+                        </a></div>
+                        </div>
+                     </div>
+                     <!-- final slide start -->
+                     <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">                           
+                           </div>
+                           <div class="tp-team__content" style="padding: 24px 20px;">
+                            <h4 class="tp-team__title mb-15"><a href="team-details.html">Complete Blood Count; CBC Test</a></h4>
+                            <div class="fw-700 fs-14 me-2">Time: <span>Within 24 Hours</span></div>
+                            <div class="fw-700 fs-14 me-2">Pre Test Information: <span>No specific requirement</span></div>
+                           
+                             <div class="row mt-3">
+                              <div class="col-lg-6">
+                                <button class="card-button1 mb-2">know More</button>
+                              </div>
+                              <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                                <h4 class="price-text">₹99.00</h4>   
+                              </div>
+                            </div>
+                              <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #0E63FF; border-radius: 8px;">
+                              <a class="card-button" href="#" style="color: #ffff;">
+                                Book Now
+                              </a>
+                              </div>
+                         </div>                        
+                        </div>
+                     </div>
+                     <!-- final slide ends -->
+                     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1" role="group" aria-label="5 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-02.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                              <h4 class="tp-team__title mb-15"><a href="team-details.html">Savannah Nguyen</a></h4>
+                              <span class="tp-team__position mb-30">Anaesthetist Specialist</span>
+                              <p>Providing insight-driven transformation to investment banks, wealth and asset mana, exchanges, Finance </p>
+                              <div class="tp-team__social">
+                                 <a class="tp-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
+                                 <a class="tp-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
+                                 <a class="tp-fb" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                 <a class="tp-skype" href="#"><i class="fa-brands fa-skype"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="2" role="group" aria-label="6 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-03.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                              <h4 class="tp-team__title mb-15"><a href="team-details.html">Darlene Robertson</a></h4>
+                              <span class="tp-team__position mb-30">Gynaecologist Specialist</span>
+                              <p>Providing insight-driven transformation to investment banks, wealth and asset mana, exchanges, Finance </p>
+                              <div class="tp-team__social">
+                                 <a class="tp-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
+                                 <a class="tp-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
+                                 <a class="tp-fb" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                 <a class="tp-skype" href="#"><i class="fa-brands fa-skype"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="3" role="group" aria-label="7 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-04.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                              <h4 class="tp-team__title mb-15"><a href="team-details.html">Jhon Methweu</a></h4>
+                              <span class="tp-team__position mb-30">Radiologist Specialist</span>
+                              <p>Providing insight-driven transformation to investment banks, wealth and asset mana, exchanges, Finance </p>
+                              <div class="tp-team__social">
+                                 <a class="tp-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
+                                 <a class="tp-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
+                                 <a class="tp-fb" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                 <a class="tp-skype" href="#"><i class="fa-brands fa-skype"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" role="group" aria-label="8 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-01.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                              <h4 class="tp-team__title mb-15"><a href="team-details.html">Cameron Williamson</a></h4>
+                              <span class="tp-team__position mb-30">Genetic Specialist</span>
+                              <p>Providing insight-driven transformation to investment banks, wealth and asset mana, exchanges, Finance </p>
+                              <div class="tp-team__social">
+                                 <a class="tp-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
+                                 <a class="tp-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
+                                 <a class="tp-fb" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                 <a class="tp-skype" href="#"><i class="fa-brands fa-skype"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="9 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-02.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                              <h4 class="tp-team__title mb-15"><a href="team-details.html">Savannah Nguyen</a></h4>
+                              <span class="tp-team__position mb-30">Anaesthetist Specialist</span>
+                              <p>Providing insight-driven transformation to investment banks, wealth and asset mana, exchanges, Finance </p>
+                              <div class="tp-team__social">
+                                 <a class="tp-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
+                                 <a class="tp-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
+                                 <a class="tp-fb" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                 <a class="tp-skype" href="#"><i class="fa-brands fa-skype"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" role="group" aria-label="10 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-team mb-50">
+                           <div class="tp-team__thumb fix">
+                              <!-- <a href="#"><img src="assets/img/team/team-thumb-03.jpg" alt="team-thumb"></a> -->
+                           </div>
+                           <div class="tp-team__content">
+                              <h4 class="tp-team__title mb-15"><a href="team-details.html">Darlene Robertson</a></h4>
+                              <span class="tp-team__position mb-30">Gynaecologist Specialist</span>
+                              <p>Providing insight-driven transformation to investment banks, wealth and asset mana, exchanges, Finance </p>
+                              <div class="tp-team__social">
+                                 <a class="tp-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
+                                 <a class="tp-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>
+                                 <a class="tp-fb" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                 <a class="tp-skype" href="#"><i class="fa-brands fa-skype"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div></div>
+               <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+            </div>
+         </section>
+
            <!-- service area -->
            <section class="services-area pt-120 pb-75">
             <div class="container">
