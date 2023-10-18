@@ -29,7 +29,7 @@
       <i class="fas fa-angle-up"></i>
    </button>
    <div id="preloadertp">
-      <img src="assets/img/logo/favicon.png" alt="">
+      <img src="assets/img/pravi lab favicon red blue LOGO.png" alt="">
    </div>
    <header class="d-none d-xl-block">
       <div class="header-custom" id="header-sticky">
@@ -41,26 +41,13 @@
                <div class="row align-items-center">
                   <div class="col-lg-4">
                      <div class="header-top-mob">
-                        <svg width="14" height="19" viewBox="0 0 14 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                           <circle cx="2" cy="2" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="2" r="2" fill="#FF0123" />
-                           <circle cx="12" cy="2" r="2" fill="#FF0123" />
-                           <circle cx="12" cy="7" r="2" fill="#FF0123" />
-                           <circle cx="12" cy="12" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="7" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="12" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="17" r="2" fill="#FF0123" />
-                           <circle cx="2" cy="7" r="2" fill="#FF0123" />
-                           <circle cx="2" cy="12" r="2" fill="#FF0123" />
-                        </svg>
-                        <span>Help Desk :</span>
-                        <a href="tel:+9159008855"> +91 590 088 55 </a>
+                      
                      </div>
                   </div>
                   <div class="col-lg-8">
                      <div class="header-time">
-                        <span><i class="fa-light fa-clock-ten"></i> Monday - Friday 09:00 am - 05:00 Pm</span>
-                        <span>Monday - Friday 09:00 am - 05:00 Pm</span>
+                        <span><i class="fa-light fa-phone"></i> +91 9137655589</span>
+                        <span style="text-transform: lowercase;"> <i class="fa-light fa-envelope"></i> care@pravilabs.in</span>
                      </div>
                   </div>
                </div>
@@ -92,7 +79,7 @@
                   </div>
                   <div class="col-lg-3">
                      <div class="header-cart-order d-flex align-items-center justify-content-end">
-                        <a class="header-bottom-btn" href="contact.html">Book Appointment</a>
+                        <a class="header-bottom-btn" href="contact-us.php">Book Appointment</a>
                      </div>
                   </div>
                </div>
@@ -108,7 +95,7 @@
          <div class="row align-items-center">
             <div class="col-md-4 col-10">
                <div class="tp-mob-logo">
-                  <a href="index.php"><img src="assets/img/logo/logo.png" alt="logo"></a>
+                  <a href="index.php"><img src="assets/img/logo/pravi lab LOGO.png" alt="logo" style="width: 143px;height: 95px;"></a>
                </div>
             </div>
             <div class="col-md-8 col-2">
