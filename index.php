@@ -92,7 +92,7 @@
 </style>
       <div class="body-overlay"></div>             
 
-         <div class="content-layout-right">
+        
 
             <!-- hero-area -->
             <section class="hero-area hero-bg" data-background="assets/img/banner/hero-bg-01.jpg">
@@ -3425,7 +3425,8 @@
                                    
                                  </div>
                               </div>
-                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="2" style="width: 400px; margin-right: 30px;" role="group" aria-label="3 / 12">
+                           </div>
+                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="2" style="width: 400px; margin-right: 30px;" role="group" aria-label="3 / 12">
                               <div class="services-item mb-40">
                                  <div class="services-item__icon green-icon mb-30">
                                    <img src="assets/img/blood-test.png" alt="">
@@ -3527,7 +3528,8 @@
                                   
                                  </div>
                               </div>
-                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="11" role="group" aria-label="12 / 12" style="width: 400px; margin-right: 30px;">
+                           </div>
+                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="11" role="group" aria-label="12 / 12" style="width: 400px; margin-right: 30px;">
                               <div class="services-item mb-40">
                                  <div class="services-item__icon sky-icon mb-30">
                                   <img src="assets/img/liver.png" alt="">
@@ -3538,7 +3540,11 @@
                                   
                                  </div>
                               </div>
-                           </div></div>
+                           </div>
+                         
+                       
+                      
+                          </div>
                      <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                   </div>
                </div>

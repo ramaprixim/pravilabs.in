@@ -1,7 +1,7 @@
 @font-face {
     font-family: "flaticon";
-    src: url("../fonts/index.html") format("truetype"),
-url("../fonts/index.html") format("woff"),
+    src: url("../fonts/index.php") format("truetype"),
+url("../fonts/index.php") format("woff"),
 url("../fonts/flaticon.woff2") format("woff2"),
 url("../fonts/flaticon.eot") format("embedded-opentype"),
 url("../fonts/flaticon.html") format("svg");
