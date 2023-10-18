@@ -120,4 +120,4 @@ Navi Mumbai - 400703</span>
       <!-- mai
 
 
-     <?php include("footer-2.php") ?>
+     <?php include("footer.php"); ?>
