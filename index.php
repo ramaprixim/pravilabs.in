@@ -3920,83 +3920,104 @@
             </div>
          </section>
 
-            <!-- testimonial-aerea -->
-            <div class="testimonial-area tp-common-area pt-130 pb-125">
-               <div class="container p-relative">
-                  <div class="row justify-content-center">
-                     <div class="col-xxl-4 col-xl-5 col-lg-4 col-md-6">
-                        <div class="testi-thumb tp-testi-thumb-ava text-center">
-                           <div class="swiper-container swiper  test-ava-active">
-                              <div class="swiper-wrapper testi-avta-bottom pb-70">
-                                 <div class="swiper-slide">
-                                    <img src="assets/img/icon/testi-ava-04.png" alt="testi-avata">
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <img src="assets/img/icon/testi-ava-07.png" alt="testi-avata">
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tp-testimonial-arrow">
-                        <div class="tp-testi-button-next"><i class="fa-regular fa-arrow-right"></i></div>
-                        <div class="tp-testi-button-prev"><i class="fa-regular fa-arrow-left"></i></div>
-                     </div>
-                  </div>
-                  <div class="row justify-content-center">
-                     <div class="col-xl-9 col-lg-10 col-md-11 col-10">
-                        <div class="swiper-container swiper tp-testimonial-text tp-testimonial-active">
-                           <div class="swiper-wrapper">
-                              <div class="swiper-slide">
-                                 <div class="testi-content text-center">
-                                    <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
-                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Preeti Sharma</i>
-                                    
-                                 </div>
-                              </div>
-                              <div class="swiper-slide">
-                                 <div class="testi-content text-center">
-                                    <p>“I've been to several labs before, but PraviLabs surpassed all my expectations. The staff was friendly, and the facility was clean and well-maintained. The accuracy of their body tests gave me peace of mind. I wouldn't trust anyone else! </p>
-                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Sandeep Kumar</i>
-                                 </div>
-                              </div>
-                              <div class="swiper-slide">
-                                 <div class="testi-content text-center">
-                                    <p>“I took TSH test service from Pravilabs. The service offered was exceptional. Sample collection was neat and in accordance with the COVID guidelines. I received my reports through mail and sms on time </p>
-                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Sakshi Mittal</i>
-                                    
-                                 </div>
-                              </div>
-                              <div class="swiper-slide">
-                                 <div class="testi-content text-center">
-                                    <p>“Hello, my son and I were in the center a few days ago due to dengue. The staff was very friendly, very polite and caring in their service. They came to the house and took our blood samples. We recovered very quickly. Good site highly recommend Pravilabs </p>
-                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Vishu Garg</i>
-                                    
-                                 </div>
-                              </div>
-                              <div class="swiper-slide">
-                                 <div class="testi-content text-center">
-                                    <p>“Got myself checked for LFT at Pravilabs The report was quick and accurate. Blood collection was also painless and clean. I congratulate the team for their exceptional service </p>
-                                    <span class="tp-section__sub-title left-line mb-25"></span><i>Mohit Rajan</i>
-                                    
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
+           
                   </div>
                </div>
             </div>
-            <!-- testimonial-aerea-end -->
+            
 
             <!-- blog-area -->
-                     
+            <div class="testimonial-area pt-130 pb-125 testi-bg" data-background="assets/img/shape/shape-bg-05.png" style="background-image: url(&quot;assets/img/shape/shape-bg-05.png&quot;);background-color:#0E63FF;">
+            <div class="container p-relative  wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+               <div class="row justify-content-center">
+                  <div class="col-lg-4 col-md-6">
+                     <div class="testi-thumb text-center">
+                        <div class="swiper-container swiper test-ava-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-container-free-mode swiper-container-thumbs">
+                           <div class="swiper-wrapper testi-avta-bottom pb-70" id="swiper-wrapper-992e56c610ba475a10" aria-live="polite" style="transform: translate3d(-360px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="1 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                              </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="2 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                              </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" role="group" aria-label="3 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-07.png" alt="testi-avata">
+                              </div>
+                              <div class="swiper-slide swiper-slide-active swiper-slide-thumb-active" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-04.png" alt="testi-avata">
+                              </div>
+                              <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" role="group" aria-label="5 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                              </div>
+                              <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="6 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                              </div>
+                              <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="3" role="group" aria-label="7 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-07.png" alt="testi-avata">
+                              </div>
+                           <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-thumb-active" data-swiper-slide-index="0" role="group" aria-label="8 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-04.png" alt="testi-avata">
+                              </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="9 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                              </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="10 / 10" style="width: 110px; margin-right: 10px;">
+                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                              </div></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                     </div>
+                  </div>
+                  <div class="testi-arrow">
+                     <div class="testi-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-82a7690cc2be32e2"><i class="fa-regular fa-arrow-right"></i></div>
+                     <div class="testi-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-82a7690cc2be32e2"><i class="fa-regular fa-arrow-left"></i></div>
+                  </div>
+               </div>
+               <div class="row justify-content-center">
+                  <div class="col-xl-9 col-lg-10 col-md-11 col-12">
+                     <div class="swiper-container swiper test-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                        <div class="swiper-wrapper" id="swiper-wrapper-82a7690cc2be32e2" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-835px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" role="group" aria-label="1 / 6" style="width: 825px; margin-right: 10px;">
+                              <div class="testi-content text-center">
+                                 <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                    </p>
+                                 <i>Robertson JR</i>
+                                 <span>CEO of (FlaxStudio)</span>
+                              </div>
+                           </div>
+                           <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="2 / 6" style="width: 825px; margin-right: 10px;">
+                              <div class="testi-content text-center">
+                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                 <i>Darlene Robertson</i>
+                                 <span>Programmer of (FlaxStudio)</span>
+                              </div>
+                           </div>
+                           <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" role="group" aria-label="3 / 6" style="width: 825px; margin-right: 10px;">
+                              <div class="testi-content text-center">
+                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                 <i>Courtney Henry</i>
+                                 <span>Programmer of (FlaxStudio)</span>
+                              </div>
+                           </div>
+                           <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="4 / 6" style="width: 825px; margin-right: 10px;">
+                              <div class="testi-content text-center">
+                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                 <i>Kathryn Murphy</i>
+                                 <span>Manager of (FlaxStudio)</span>
+                              </div>
+                           </div>
+                           <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="3" role="group" aria-label="5 / 6" style="width: 825px; margin-right: 10px;">
+                              <div class="testi-content text-center">
+                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                 <i>Robertson JR</i>
+                                 <span>CEO of (FlaxStudio)</span>
+                              </div>
+                           </div>
+                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="6 / 6" style="width: 825px; margin-right: 10px;">
+                              <div class="testi-content text-center">
+                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                 <i>Darlene Robertson</i>
+                                 <span>Programmer of (FlaxStudio)</span>
+                              </div>
+                           </div></div>
+                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                  </div>
+               </div>
+            </div>
+         </div>
     
           
           <script>const prev = document.querySelector("#prev");
