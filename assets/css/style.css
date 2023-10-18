@@ -1715,7 +1715,11 @@ input[type=color] {
 }
 
 .footer-widget__title img {
-  width: 220px;
+  width: 150px;
+}
+
+.footercontact__content h4{
+  font-size: 18px;
 }
 
 .tpsideinfo {
@@ -8161,9 +8165,11 @@ p.checkout-coupon input[type=text]:focus {
   text-align: center;
   line-height: 90px;
   border-radius: 50%;
-  background-color: rgba(14, 99, 255, 0.1);
-  color: var(--tp-icon-blue);
+  background-color: white;
+  color:#FF0123 ;
+  border: 1px solid #FF0123;
   font-size: 35px;
+  font-weight: 800;
   -webkit-transition: all 0.5s ease-out 0s;
   -moz-transition: all 0.5s ease-out 0s;
   -ms-transition: all 0.5s ease-out 0s;

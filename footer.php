@@ -11,29 +11,31 @@
                                     <i class="flaticon-placeholder"></i>
                                  </div>
                                  <div class="footercontact__content">
-                                    <span class="footercontact__title"><a href="contact.html">Ta-134/A, Gulshan Badda Link Rd, <br> Nya 10982 USA </a></span>
+                                    <h4 class="text-white">Reg. Office:</h4>
+                                    <span class="footercontact__title"><a href="contact.html">807, Realtech Park, Sector 30A, <br>Vashi, Navi Mumbai - 400703 </a></span>
                                  </div>
                               </div>
                            </div>
                            <div class="col-lg-4 col-md-6">
                               <div class="footercontact mb-40 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                                 <div class="footercontact__icon fw-pink-icon">
+                                 <div class="footercontact__icon ">
                                     <i class="flaticon-mail"></i>
                                  </div>
                                  <div class="footercontact__content fw-pink-content">
-                                    <a href="mailto:Rasalinawillam@gmail.com">Rasalinawillam@gmail.com</a>
-                                    <a href="tel:+08987878773345">+08 98787 8773 345 </a>
+                                    <a href="care@pravilabs.in">care@pravilabs.in</a>
+                                    <a href="tel:+91 9137655589">+91 9137655589 </a>
                                  </div>
                               </div>
                            </div>
                            <div class="col-lg-4 col-md-6">
                               <div class="footercontact mb-40 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                 <div class="footercontact__icon fw-green-icon">
-                                    <i class="flaticon-24-hours"></i>
+                                 <div class="footercontact__icon ">
+                                    <i class="flaticon-placeholder"></i>
                                  </div>
                                  <div class="footercontact__content">
-                                    <span>Mon - Sat -  09:00PM - 06:00AM</span>
-                                    <span>Sunday - Off Day</span>
+                                    <h4 class="text-white">Lab (Vashi):</h4>
+                                    <span>Shop 1, JN2, Jai Maharashtra <br> Apartment, Near Mini Market,</span>
+                                    <span>Vashi,Navi Mumbai - 400703</span>
                                  </div>
                               </div>
                            </div>
@@ -44,7 +46,7 @@
                   <div class="col-xl-3 col-lg-4 col-md-6">
                      <div class="footer-widget footer-col-1 mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                         <h4 class="footer-widget__title mb-30">
-                           <a href="index.html"><img src="assets/img/logo/white-logo.png" alt="logo"></a>
+                           <a href="index.html"><img src="assets/img/logo/pravi lab LOGO white.png"  alt="logo"></a>
                         </h4>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo claritatem itamconse quat.Exerci tation ullamcorper.</p>
                         <div class="footer-widget__social">
@@ -63,28 +65,17 @@
                            <ul>
                            <li><a href="index.php">Home</a></li>
                            <li><a href="about-us.php">About us</a></li>
-                           <li><a href="contact-us.php">Contact us</a></li>
-                         
+                           <li><a href="health-packages.php">Health Packages</a></li>
+                           <li><a href="tests.php">Tests</a></li>
+                           <li><a href="our-partners.php">Our Partners</a></li>
+                           <li><a href="contact-us.php">Contact Us</a></li>
                            <li><a href="#">Blog</a></li>
                         </ul>
                            </ul>
                         </div>
                      </div>
                   </div>
-                  <div class="col-xl-3 col-lg-4 col-md-6">
-                     <div class="footer-widget footer-col-3 mb-50 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                        <h4 class="footer-widget__title mb-20">Contact info</h4>
-                        <div class="footer-widget__info">
-                           <ul>
-                              <li><a href="#">Ta-134/A, Gulshan Badda Link </a></li>
-                              <li><a href="tel:+9159008855">(+880)155 69569 365</a></li>
-                              <li><a href="mailto:support@rstheme.com">support@rstheme.com</a></li>
-                              <li>Office Hours: 8AM - 11PM</li>
-                              <li>Sunday - Wekend Day</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
+                  
                   <div class="col-xl-3 col-lg-6 col-md-6">
                      <div class="footer-widget footer-col-4 mb-50 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
                         <h4 class="footer-widget__title mb-20">Subscribe Newslatter</h4>
@@ -105,7 +96,7 @@
                <div class="row">
                   <div class="col-xl-6 col-lg-6 col-md-12 col-12">
                      <div class="footer-widget__copyright">
-                        <span> © Copyright ©2022  <a href="index.php">Pravilabs.in.</a>. <i>All Rights Reserved Copyright</i></span>
+                        <span> © Copyright ©2023  <a href="index.php">Pravilabs.in.</a> <i>All Rights Reserved Copyright</i></span>
                      </div>
                   </div> 
                   <div class="col-xl-6 col-lg-6 col-md-12 col-12">
@@ -113,7 +104,6 @@
                         <ul class="d-flex align-items-center">
                            <li><a href="#">Terms and conditions</a></li>
                            <li><a href="#">Privacy policy</a></li>
-                           <li><a href="shop.html">Pricing</a></li>
                         </ul>
                      </div>
                   </div>
