@@ -3307,7 +3307,7 @@
                         </div>
                      </div>
                      <div class="col-xxl-2 col-xl-3 col-md-4">
-                        <div class="counter__item pink-border mb-30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;padding: 32px 40px;">
+                        <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;padding: 32px 40px;">
                          
                            <div class="counter__content text-center">
                               <img src="assets/img/kidney.png" alt="">
@@ -3317,7 +3317,7 @@
                         </div>
                      </div>
                      <div class="col-xxl-2 col-xl-3 col-md-4">
-                        <div class="counter__item sky-border mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;padding: 32px 40px;">
+                        <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;padding: 32px 40px;">
                         
                            <div class="counter__content text-center">
                              <img src="assets/img/lungs.png" alt="">
@@ -3327,7 +3327,7 @@
                         </div>
                      </div>
                      <div class="col-xxl-2 col-xl-3 col-md-4">
-                        <div class="counter__item green-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
+                        <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
                           
                            <div class="counter__content text-center">
                              <img src="assets/img/liver.png" alt="">
@@ -3337,7 +3337,7 @@
                         </div>
                      </div>
                      <div class="col-xxl-2 col-xl-3 col-md-4">
-                        <div class="counter__item green-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
+                        <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
                           
                            <div class="counter__content text-center">
                              <img src="assets/img/thyroid.png" alt="">
@@ -3347,7 +3347,7 @@
                         </div>
                      </div>
                      <div class="col-xxl-2 col-xl-3 col-md-4">
-                        <div class="counter__item green-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
+                        <div class="counter__item blue-border mb-30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;padding: 32px 40px;">
                           
                            <div class="counter__content text-center">
                              <img src="assets/img/supplement.png" alt="">
@@ -3528,208 +3528,107 @@
                   </div>
                </div>
             </section>
-<section class="gallery-area grey-bg pt-120 pb-130" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
-            <div class="container">
-              <div class="row">
-               <div class="col-lg-12">
-                  <div class="tp-section text-center">
-                     <span class="tp-section__sub-title left-line right-line mb-25">Work Gallery</span>
-                     <h3 class="tp-section__title mb-70">Bioxlab Gallery</h3>
-                  </div>
-               </div>
-              </div> 
-            </div>
-            <div class="container-fluid">
-               <div class="tp-gallery ml-15 mr-15 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                  <div class="swiper-container gall-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
-                     <div class="swiper-wrapper" id="swiper-wrapper-5ed90e0a58c9d3104" aria-live="off" style="transform: translate3d(-4214.25px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="1 / 13" style="width: 438.25px; margin-right: 30px;">
-                           <div class="tp-gallery__item p-relative mb-70">
-                              <div class="tp-gallery__img p-relative">
-                                 <img src="assets/img/gallery/gal-thum-02.jpg" alt="gallery-img">
-                                 <div class="tp-gallery__info">
-                                    <a class="popup-image" href="assets/img/gallery/gal-thum-02.jpg"><i class="fa-solid fa-plus"></i></a>
-                                 </div>
-                              </div>
-                              <div class="tp-gallery__content">
-                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Breast Cancer</a></h4>
-                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Anaesthetist</a></span>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="2 / 13" style="width: 438.25px; margin-right: 30px;">
-                           <div class="tp-gallery__item p-relative mb-70">
-                              <div class="tp-gallery__img p-relative">
-                                 <img src="assets/img/gallery/gal-thum-03.jpg" alt="gallery-img">
-                                 <div class="tp-gallery__info">
-                                    <a class="popup-image" href="assets/img/gallery/gal-thum-03.jpg"><i class="fa-solid fa-plus"></i></a>
-                                 </div>
-                              </div>
-                              <div class="tp-gallery__content">
-                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Zyrtec Analysis</a></h4>
-                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Gynaecologist</a></span>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" role="group" aria-label="3 / 13" style="width: 438.25px; margin-right: 30px;">
-                           <div class="tp-gallery__item p-relative mb-70">
-                              <div class="tp-gallery__img p-relative">
-                                 <img src="assets/img/gallery/gal-thum-04.jpg" alt="gallery-img">
-                                 <div class="tp-gallery__info">
-                                    <a class="popup-image" href="assets/img/gallery/gal-thum-04.jpg"><i class="fa-solid fa-plus"></i></a>
-                                 </div>
-                              </div>
-                              <div class="tp-gallery__content">
-                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Asthma Apply</a></h4>
-                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Genetics</a></span>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="4" role="group" aria-label="4 / 13" style="width: 438.25px; margin-right: 30px;">
-                           <div class="tp-gallery__item p-relative mb-70">
-                              <div class="tp-gallery__img p-relative">
-                                 <img src="assets/img/gallery/gal-thum-05.jpg" alt="gallery-img">
-                                 <div class="tp-gallery__info">
-                                    <a class="popup-image" href="assets/img/gallery/gal-thum-01.jpg"><i class="fa-solid fa-plus"></i></a>
-                                 </div>
-                              </div>
-                              <div class="tp-gallery__content">
-                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">neurological ANALYSIS</a></h4>
-                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Forensic</a></span>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="5 / 13" style="width: 438.25px; margin-right: 30px;">
-                           <div class="tp-gallery__item p-relative mb-70">
-                              <div class="tp-gallery__img p-relative">
-                                 <img src="assets/img/gallery/gal-thum-01.jpg" alt="gallery-img">
-                                 <div class="tp-gallery__info">
-                                    <a class="popup-image" href="assets/img/gallery/gal-thum-01.jpg"><i class="fa-solid fa-plus"></i></a>
-                                 </div>
-                              </div>
-                              <div class="tp-gallery__content">
-                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">COVID ANALYSIS</a></h4>
-                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Radiologist</a></span>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="6 / 13" style="width: 438.25px; margin-right: 30px;">
-                           <div class="tp-gallery__item p-relative mb-70">
-                              <div class="tp-gallery__img p-relative">
-                                 <img src="assets/img/gallery/gal-thum-02.jpg" alt="gallery-img">
-                                 <div class="tp-gallery__info">
-                                    <a class="popup-image" href="assets/img/gallery/gal-thum-02.jpg"><i class="fa-solid fa-plus"></i></a>
-                                 </div>
-                              </div>
-                              <div class="tp-gallery__content">
-                                 <h4 class="tp-gallery__title"><a href="portfolio-details.html">Hiv Analysis &amp; Testing</a></h4>
-                                 <span><i class="fa-solid fa-tag"></i><a href="services-details.html">Anaesthetist</a></span>
-                              </div>
-                           </div>
-                        </div>
-                      </div>
-                  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-               </div>
-            </div>
-            <div class="container">
-               <div class="row text-center">
-                  <div class="col-lg-12">
-                     <a class="tp-btn-second" href="portfolio-details.html">Explore More</a>
-                  </div>
-               </div>
-            </div>
-         </section>
-
-            <section class="counter-area tp-common-area pt-130">
-               <div class="container">
-                <div class="d-flex justify-content-center">
-                  <h2 class="tp-section__title mb-75">Oncocure</h2>
+            <section class="testimonial-area testimonial-bg pt-125 pb-130" data-background="" style="background-color:#283779;">
+              <div class="container">
+                 <div class="row wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                    <div class="col-lg-12">
+                       <div class="tp-section text-center">
+                          <h3 class="tp-section__title title-white mb-70">Oncocure</h3>
+                       </div>
+                    </div>
                  </div>
-                  <div class="row align-items-center">
-                     <div class="col-lg-8 col-md-8 col-12">
-                        <div class="tp-section">
-
-                           
-                        </div>
-                     </div>
-                    
-                  </div>
-                  <div class="row">
-                     <div class="col-lg-12">
-                        <div class="banner__box-item">
-                           <div class="row">
-                              <div class="col-xl-4 col-lg-4 col-md-6">
-                                 <div class="banner__item d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;gap: 15px;">
-                                    <img src="assets/img/cancer/breast-cancer.png" alt="">
-                                    <div class="banner__item-content">
-                                       <span>Breast Cancer</span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xl-4 col-lg-4 col-md-6">
-                                 <div class="banner__item pink-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;gap: 15px;">
-                                   <img src="assets/img/cancer/cervical-cancer.png" alt="">
-                                    <div class="banner__item-content">
-                                       <span>Cervical Cancer</span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xl-4 col-lg-4 col-md-6">
-                                 <div class="banner__item green-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
-                                   <img src="assets/img/cancer/lung-cancer.png" alt="">
-                                    <div class="banner__item-content">
-                                       <span>Lung Cancer</span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xl-4 col-lg-4 col-md-6">
-                                 <div class="banner__item  d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
-                                   <img src="assets/img/cancer/colorectal-cancer.png" alt="">
-                                    <div class="banner__item-content">
-                                       <span>Colorectal Cancer</span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xl-4 col-lg-4 col-md-6">
-                                 <div class="banner__item pink-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
-                                    <img src="assets/img/cancer/oral.png" alt="">
-                                    <div class="banner__item-content">
-                                       <span>Oral Cancer</span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xl-4 col-lg-4 col-md-6">
-                                 <div class="banner__item green-border d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
-                                    <img src="assets/img/cancer/ovarian-cancer.png" alt="">
-                                    <div class="banner__item-content">
-                                       <span>Ovarian Cancer</span>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xl-4 col-lg-4 col-md-6">
-                                 <div class="banner__item  d-flex align-items-center mb-30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;gap: 15px;">
-                                   <img src="assets/img/cancer/cancer.png" alt="">
-                                    <div class="banner__item-content">
-                                       <span>Blood Cancer</span>
-                                    </div>
-                                 </div>
-                              </div>
+                 <div class="swiper-container tp-test-active pt-40 swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                    <div class="swiper-wrapper" id="swiper-wrapper-0423d10e5eb7bf5f8" aria-live="off" style="transform: translate3d(-2200px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                       </div>
+                       <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-testi p-relative mb-70">
+                          
+                           <div class="tp-testi__content text-center">
+                            <img src="assets/img/cancer/breast-cancer.png" alt="">
+                              <p></p>
+                              <h5 class="tp-testi__avata-title">Breast Cancer</h5>
+                              <span class="tp-testi__ava-position"></span>
                            </div>
                         </div>
                      </div>
+                     <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                      <div class="tp-testi p-relative mb-70">
+                        
+                         <div class="tp-testi__content text-center">
+                          <img src="assets/img/cancer/cervical-cancer.png" alt="">
+                            <p></p>
+                            <h5 class="tp-testi__avata-title">Cervical Cancer</h5>
+                            <span class="tp-testi__ava-position"></span>
+                         </div>
+                      </div>
+                   </div>
+                       <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                          <div class="tp-testi p-relative mb-70">
+                            
+                             <div class="tp-testi__content text-center">
+                              <img src="assets/img/cancer/lung-cancer.png" alt="">
+                                <p></p>
+                                <h5 class="tp-testi__avata-title">Lung Cancer</h5>
+                                <span class="tp-testi__ava-position"></span>
+                             </div>
+                          </div>
+                       </div>
+                       <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-testi p-relative mb-70">
+                          
+                           <div class="tp-testi__content text-center">
+                            <img src="assets/img/cancer/colorectal-cancer.png" alt="">
+                              <p></p>
+                              <h5 class="tp-testi__avata-title">Colorectal Cancer</h5>
+                              <span class="tp-testi__ava-position"></span>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                      <div class="tp-testi p-relative mb-70">
+                        
+                         <div class="tp-testi__content text-center">
+                          <img src="assets/img/cancer/oral.png" alt="">
+                            <p></p>
+                            <h5 class="tp-testi__avata-title">Oral Cancer</h5>
+                            <span class="tp-testi__ava-position"></span>
+                         </div>
+                      </div>
+                   </div>
+                   <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                    <div class="tp-testi p-relative mb-70">
+                      
+                       <div class="tp-testi__content text-center">
+                        <img src="assets/img/cancer/ovarian-cancer.png" alt="">
+                          <p></p>
+                          <h5 class="tp-testi__avata-title">Ovarian Cancer</h5>
+                          <span class="tp-testi__ava-position"></span>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 410px; margin-right: 30px;">
+                  <div class="tp-testi p-relative mb-70">
+                    
+                     <div class="tp-testi__content text-center">
+                      <img src="assets/img/cancer/cancer.png" alt="">
+                        <p></p>
+                        <h5 class="tp-testi__avata-title">Blood Cancer</h5>
+                        <span class="tp-testi__ava-position"></span>
+                     </div>
                   </div>
                </div>
-            </section>
-
-<section>
-  <!-- <div class="gallery js-flickity"
-  data-flickity-options='{ "wrapAround": true }'>
-  <div class="gallery-cell"></div>
-  <div class="gallery-cell"></div>
-  <div class="gallery-cell"></div>
-  <div class="gallery-cell"></div>
-  <div class="gallery-cell"></div>
-</div> -->
-</section>
+                      </div>
+                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                 <div class="row text-center">
+                    <div class="col-lg-12">
+                       <div class="tp-test-arrow d-flex align-items-center justify-content-center">
+                          <div class="tp-test-prv" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-0423d10e5eb7bf5f8"><i class="fa-regular fa-arrow-left"></i></div>
+                          <div class="tp-test-nxt" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-0423d10e5eb7bf5f8"><i class="fa-regular fa-arrow-right"></i></div>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </section>
 
             <!-- about-area -->
             <section class="about-area tp-common-area pt-130 pb-70">
@@ -3754,9 +3653,6 @@
                             <p class=" mr-20 mb-45">We've been around for a long time, focusing on delivering top-notch diagnostic services with precise and prompt test results for our valued customers. We're dedicated to quality and offer a wide variety of tests to support your health and well-being.
                            </p>
                            </div>
-                           <div class="tp-about__btn">
-                              <a class="tp-btn" href="about.html">About us</a>
-                           </div>                       
                         </div>
                      </div>
                      <div class="col-xl-6 col-lg-6 col-12">
@@ -3764,10 +3660,7 @@
                            <div class="tp-ab-img">
                               <div class="tp-ab-main-img p-relative">
                                  <img src="assets/img/about/about-bg-07.jpg" alt="about-thumb">
-                                 <div class="about__exprience tp-ab-counter ab-count">
-                                    <h3 class="counter">12</h3>
-                                    <i>Years of <br>Experience</i>
-                                 </div>
+
                               </div>
                            </div>
                         </div>
@@ -4096,63 +3989,74 @@
                </div>
                <div class="row">
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: #ffcbcb;">
                         <div class="services-item__icon mb-30">
                           <img src="assets/img/Comprehensive Test Menu.png" alt="">
                         </div>
                         <div class="services-item__content">
                            <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Comprehensive Test Menu</a></h5>
-                        </div>
+                           <p>We provide a wide variety of medical tests that cover different areas of health.</p>
+                      <br>
+                          </div>
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;background-color: #ffcbcb;">
                         <div class="services-item__icon pink-icon mb-30">
                           <img src="assets/img/Convenience and Accessibility.png" alt="">
                         </div>
                         <div class="services-item__content">
                            <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Convenience and Accessibility</a></h5>
-                        </div>
+                           <p>We aim to offer top-notch services close to your location, all at affordable prices.</p>
+                       <br>
+                          </div>
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;background-color: #ffcbcb;">
                         <div class="services-item__icon sky-icon mb-30">
                           <img src="assets/img/Customer-Centric Approach.png" alt="">
                         </div>
                         <div class="services-item__content">
                            <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Customer-Centric Approach</a></h5>
+                           <p>We put our customers at the center of everything we do and therefore treat them as our primary value</p>
                         </div>
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;background-color: #ffcbcb;">
                         <div class="services-item__icon green-icon mb-30">
                           <img src="assets/img/Quality and Accuracy.png" alt="">
                         </div>
                         <div class="services-item__content">
                            <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Quality and Accuracy</a></h5>
-                        </div>
+                           <p>Quality is incredibly important to us. Our labs are certified by NABL and CAP, which are trusted organizations for testing and calibration</p>
+                       <br>
+                       <br>
+                          </div>
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: #ffcbcb;">
                         <div class="services-item__icon green-icon mb-30">
                           <img src="assets/img/Home Sample Collection.png" alt="">
                         </div>
                         <div class="services-item__content">
                            <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Home Sample Collection</a></h5>
+                           <p>Our website and mobile app make it easy for you to book and get your test reports, whether you're using a computer or a phone. After we collect your samples, we quickly take them to our own labs for testing.</p>
                         </div>
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;background-color: #ffcbcb;">
                         <div class="services-item__icon sky-icon mb-30">
                           <img src="assets/img/Embracing Innovation.png" alt="">
                         </div>
                         <div class="services-item__content">
                            <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Embracing Innovation</a></h5> 
-                        </div>
+                           <p>We have a special group of doctors who work hard to make sure we use the latest technology, tests, quality checks, and processes in every test we perform.</p>
+                        <br>
+                          </div>
                      </div>
                   </div>
                </div>
@@ -4237,7 +4141,7 @@
             
 
             <!-- blog-area -->
-            <div class="testimonial-area pt-130 pb-125 testi-bg" data-background="assets/img/shape/shape-bg-05.png" style="background-image: url(&quot;assets/img/shape/shape-bg-05.png&quot;);background-color:#0E63FF;">
+            <div class="testimonial-area pt-130 pb-125 testi-bg" data-background="assets/img/shape/shape-bg-05.png" style="background-image: url(&quot;assets/img/shape/shape-bg-05.png&quot;);background-color:#ff0123;">
             <div class="container p-relative  wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                <div class="row justify-content-center">
                   <div class="col-lg-4 col-md-6">

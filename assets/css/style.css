@@ -931,6 +931,7 @@ input[type=color] {
 }
 .tp-section__title {
   font-size: 43px;
+  font-weight: 700;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-section__title {
@@ -2736,7 +2737,7 @@ input[type=color] {
     margin-top: 15px;
     transform: translateY(0);
   }
-}
+} 
 
 .services-item {
   background-color: var(--tp-common-white);
@@ -3589,7 +3590,7 @@ div.tp-srv-link a {
 /*  08. COUNTER CSS START
 /*----------------------------------------*/
 .counter__item {
-  border: 1px solid var(--tp-border-primary);
+  border: 1px solid #283779;
   padding: 75px 40px 70px 55px;
   border-radius: 10px;
   -webkit-transition: all 0.4s ease-out 0s;
@@ -8316,7 +8317,7 @@ p.checkout-coupon input[type=text]:focus {
   z-index: 1;
   font-size: 26px;
   color: white;
-  background: #171151;
+  background: #283779;
   border: 1px solid #171151;
   cursor: pointer;
 }
@@ -8447,10 +8448,12 @@ p.checkout-coupon input[type=text]:focus {
 .plan {
   border-radius: 16px;
   box-shadow: 0 30px 30px -25px rgba(0, 38, 255, 0.205);
-  padding: 10px;
+  padding: 0px;
   background-color: #fff;
-  color: #697e91;
-  
+  color: #283779;
+  width: 325px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  margin-top: 10px;
 }
 
 .plan strong {
@@ -8471,14 +8474,14 @@ p.checkout-coupon input[type=text]:focus {
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #bed6fb;
+  background-color: #ff0000;
   border-radius: 99em 0 0 99em;
   display: flex;
   align-items: center;
   padding: 0.625em 0.75em;
   font-size: 1.25rem;
   font-weight: 600;
-  color: #425475;
+  color: #ffffff;
 }
 
 .plan .pricing small {
@@ -8490,7 +8493,7 @@ p.checkout-coupon input[type=text]:focus {
 .plan .title {
   font-weight: 600;
   font-size: 17px;
-  color: #425675;
+  color: #283779;
   padding-top: 18px;
 }
 
@@ -8545,7 +8548,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 .plan .card-button {
-  background-color: #6558d3;
+  background-color: #283779;
   border-radius: 6px;
   color: #fff;
   font-weight: 500;
@@ -8569,115 +8572,7 @@ p.checkout-coupon input[type=text]:focus {
 
 
 /* New Cards */
-.plan {
-  border-radius: 16px;
-  box-shadow: 0 30px 30px -25px rgba(0, 38, 255, 0.205);
-  padding: 10px;
-  background-color: #fff;
-  color: #697e91;
-  width: 325px;
-}
 
-.plan strong {
-  font-weight: 600;
-  color: #425275;
-}
-
-.plan .inner {
-  align-items: center;
-  padding: 20px;
-  padding-top: 40px;
-  background-color: white;
-  border-radius: 12px;
-  position: relative;
-}
-
-.plan .pricing {
-  position: absolute;
-  top: 0;
-  right: 0;
-  background-color: #bed6fb;
-  border-radius: 99em 0 0 99em;
-  display: flex;
-  align-items: center;
-  padding: 0.625em 0.75em;
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: #425475;
-}
-
-.plan .pricing small {
-  color: #707a91;
-  font-size: 0.75em;
-  margin-left: 0.25em;
-}
-
-
-
-.plan .title + * {
-  margin-top: 0.75rem;
-}
-
-.plan .info + * {
-  margin-top: 1rem;
-}
-
-.plan .features {
-  display: flex;
-  flex-direction: column;
-}
-
-.plan .features li {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.plan .features li + * {
-  margin-top: 0.75rem;
-}
-
-.plan .features .icon {
-  background-color: #1FCAC5;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  color: #fff;
-  border-radius: 50%;
-  width: 20px;
-  height: 20px;
-}
-
-.plan .features .icon svg {
-  width: 14px;
-  height: 14px;
-}
-
-.plan .features + * {
-  margin-top: 1.25rem;
-}
-
-.plan .action {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: end;
-}
-
-.plan .card-button {
-  background-color: #6558d3;
-  border-radius: 6px;
-  color: #fff;
-  font-weight: 500;
-  font-size: 13px;
-  text-align: center;
-  border: 0;
-  outline: 0;
-  width: 100%;
-  padding: 0.625em 0.75em;
-  text-decoration: none;
-  margin:2px;
-}
 
 .card-button1{
   background-color: transparent;
