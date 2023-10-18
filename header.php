@@ -1,17 +1,14 @@
+<?php include("title.php") ;?>
 <!doctype html>
-<html class="no-js" lang="zxx">
-
+<html class="no-js" lang="en">
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Bioxlab - Laboratory & Science Research</title>
-   <meta name="description" content="">
+   <title><?php echo $title ?></title>
+   <meta name="description" content="<?php  echo  $description ?>">
+   <meta name="keywords" content="<?php  echo  $keywords ?>">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
-
-   <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/animate.css">
    <link rel="stylesheet" href="assets/css/swiper-bundle.css">
@@ -28,25 +25,16 @@
 </head>
 
 <body>
-
-
-   <!-- Scroll-top -->
    <button class="scroll-top scroll-to-target" data-target="html">
       <i class="fas fa-angle-up"></i>
    </button>
-   <!-- Scroll-top-end-->
-
-   <!-- preloader -->
    <div id="preloadertp">
       <img src="assets/img/logo/favicon.png" alt="">
    </div>
-   <!-- preloader end  -->
-
-   <!-- header-area -->
    <header class="d-none d-xl-block">
       <div class="header-custom" id="header-sticky">
          <div class="header-logo-box">
-            <a href="index.php"><img src="assets/img/logo/logo.png" alt="logo"></a>
+            <a href="index.php"><img src="assets/img/logo/pravi lab LOGO.png" alt="logo"></a>
          </div>
          <div class="header-menu-box">
             <div class="header-menu-top">
@@ -88,7 +76,7 @@
                               </li>
                               <li class=""><a href="about-us.php">About Us</a>
                               </li>
-                              <li class=""><a href="packages.php">Packages</a>
+                              <li class=""><a href="health-packages.php">Health Packages</a>
                               </li>
                               <li><a href="test.php">Tests</a></li>
                               <li class=""><a href="our-partners.php">Our Partners</a>

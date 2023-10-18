@@ -382,7 +382,7 @@ input[type=color] {
   color: var(--tp-common-white);
   text-align: center;
   cursor: pointer;
-  background: var(--tp-theme-secondary);
+  background: #283779;
   transition: 1s ease;
   border: none;
 }
@@ -412,7 +412,7 @@ input[type=color] {
 }
 
 .scroll-top:hover {
-  background: var(--tp-theme-pink);
+  background:#FF0729;
 }
 
 /* Preloader */
@@ -1282,7 +1282,7 @@ input[type=color] {
   content: "";
   height: 300px;
   width: 300px;
-  background-color: #2974FF;
+  background-color: #283779;
   border-radius: 50%;
   position: absolute;
   top: 50%;
@@ -1336,7 +1336,7 @@ input[type=color] {
   margin: 0 auto;
   width: 0%;
   height: 2px;
-  background-color: var(--tp-icon-green);
+  background-color: #ff0729;
   position: absolute;
 }
 .main-menu-second ul li > a:hover::before, .main-menu-second ul li > a.active::before {
@@ -1715,7 +1715,11 @@ input[type=color] {
 }
 
 .footer-widget__title img {
-  width: 220px;
+  width: 150px;
+}
+
+.footercontact__content h4{
+  font-size: 18px;
 }
 
 .tpsideinfo {
@@ -8163,9 +8167,11 @@ p.checkout-coupon input[type=text]:focus {
   text-align: center;
   line-height: 90px;
   border-radius: 50%;
-  background-color: rgba(14, 99, 255, 0.1);
-  color: var(--tp-icon-blue);
+  background-color: white;
+  color:#FF0123 ;
+  border: 1px solid #FF0123;
   font-size: 35px;
+  font-weight: 800;
   -webkit-transition: all 0.5s ease-out 0s;
   -moz-transition: all 0.5s ease-out 0s;
   -ms-transition: all 0.5s ease-out 0s;
