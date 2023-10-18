@@ -4,98 +4,84 @@
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
    }
-   .list{
-    width: 20rem;
-    height: 20rem;
-    background: #e5e5e5;
-    display: inline-block;
-    text-align: center;
-    border-radius: 5%;
-    position: relative;
-    overflow: hidden;
-    margin: 7rem 2rem 0 2rem;
-    cursor: pointer;
-  }
-  
-  #menu1 {
-    position: relative;
-    width: 90%;
-    height: 26rem;
-    top: 1rem;
-    background-color: rgb(241, 241, 241);
-    margin: 0 7rem 0 5rem;
-    border-radius: 5rem;
-  }
-  #cards1 {
-    width: 80%;
-    overflow: hidden;
-    white-space: nowrap;
-    display: block;
-    list-style: none;
-    padding: 0;
-    position: relative;
-    left: 10%;
-    bottom: 60px;
-  }
-  
-  .list p{
-    width: 300px hidden;
-  }
-  #prev1 {
-    display: inline-block;
-    position: absolute;
-    left: 2%;
-    cursor: pointer;
-    font-size: 60px;
-    z-index: 1;
-    width: 50px;
-    height: 50px;
-  }
-  #next1 {
-    display: inline-block;
-    position: absolute;
-    right: 2%;
-    cursor: pointer;
-    font-size: 60px;
-    z-index: 1;
-    width: 50px;
-    height: 50px;
-  }
-  #prev1,
-  #next1{
-    margin-top: 11rem;
-    color: #aaaaaa;
-  }
-  @media (max-width: 1026px) {
-    #menu1 {
-    width: 95%;
-    height: 22rem;
-    top: 0.5rem;
-    margin: 0 2% 0 2%;
-    }
-    .list{
-      width: 17rem;
-      height: 17rem;
-      background: #e5e5e5;
-      display: inline-block;
-      text-align: center;
-      border-radius: 5%;
-      position: relative;
-      overflow: hidden;
-      margin: 6rem 1rem 0 1rem;
-    }
-    #prev1,
-  #next1{
-    margin-top: 9.5rem;
-  }
-  }
 </style>
       <div class="body-overlay"></div>             
 
-        
+      <section class="slider-area slider-tp-top pt-100 p-relative">
+        <div class="slider-social">
+           <div class="container">
+              <div class="row">
+                 <div class="col-lg-6 col-md-10 d-none d-md-block">
+                    <div class="slider-content__social">
+                       <a class="facebook-2" href="#"><i class="fab fa-facebook-f"></i>Facebook</a>
+                       <a class="youtub-2" href="#"><i class="fab fa-youtube"></i>Youtube</a>
+                       <a class="twitter-2" href="#"><i class="fab fa-twitter"></i>Twitter</a>
+                    </div>
+                 </div>
+                 <div class="col-lg-6 col-md-2 col-12 d-none d-md-block">
+                    <div class="slider-content__arrow d-flex align-items-center">
+                       <div class="slider-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3115ede7d3524e87"><i class="fa-regular fa-arrow-left"></i></div>
+                       <div class="slider-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3115ede7d3524e87"><i class="fa-regular fa-arrow-right"></i></div>
+                    </div>
+                 </div>
+              </div>
+           </div>
+        </div>
+        <div class="swiper-container tp-slider slider-active swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+           <div class="swiper-wrapper" id="swiper-wrapper-3115ede7d3524e87" aria-live="off" style="transition-duration: 0ms;"><div class="swiper-slide bg-white swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="1 / 4" style="width: 1903px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+                 <div class="container">
+                    <div class="row align-items-center">
+                       <div class="col-lg-6 col-md-12 col-12 order-2 order-lg-1">
+                          <div class="slider-content pt-60">
+                             <h2 class="slider-content__title mb-45">Our Passion is to <br> Give you Better <br> Service</h2>
+                             <p>Your full service lab for clinical trials. Our mission is to ensure the <br> generation of accurate and precise findings</p>
+                             <div class="slider-content__btn mb-165">
+                                <a class="tp-btn" href="contact.html">Appointment</a>
+                                <a class="tp-btn-second ml-25" href="about.html">About us</a>
+                             </div>
+                          </div>
+                       </div>
+                       <div class="col-lg-6 col-md-6 col-12 order-1 order-lg-2">
+                          <div class="slider-content__bg">
+                             <img src="assets/img/slider/slider-bg-3.png" alt="slider-img">
+                          </div>
+                          <div class="slider-content__shape d-none d-md-block">
+                             <img src="assets/img/slider/slider-bg-2.png" alt="slider-shape">
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+              <div class="swiper-slide bg-white swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="2 / 4" style="width: 1903px; opacity: 1; transform: translate3d(-1903px, 0px, 0px); transition-duration: 0ms;">
+                 <div class="container">
+                    <div class="row align-items-center">
+                       <div class="col-lg-6 col-md-12 col-12 order-2 order-lg-1">
+                          <div class="slider-content pt-60">
+                             <h2 class="slider-content__title mb-45" style="font-weight: 900;">Our Passion is to <br> Give you Better <br> Service</h2>
+                             <p>Your full service lab for clinical trials. Our mission is to ensure the <br> generation of accurate and precise findings</p>
+                             <div class="slider-content__btn mb-165">
+                                <a class="tp-btn" href="contact.html">Appointment</a>
+                                <a class="tp-btn-second ml-25" href="about.html">About us</a>
+                             </div>
+                          </div>
+                       </div>
+                       <div class="col-lg-6 col-md-6 col-12 order-1 order-lg-2">
+                          <div class="slider-content__bg">
+                             <img src="assets/img/slider/slider-bg-1.png" alt="slider-img">
+                          </div>
+                          <div class="slider-content__shape d-none d-md-block">
+                             <img src="assets/img/slider/slider-bg-2.png" alt="slider-shape">
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+</div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+     </section>
 
             <!-- hero-area -->
-            <section class="hero-area hero-bg" data-background="assets/img/banner/hero-bg-01.jpg">
+            <!-- <section class="hero-area hero-bg" data-background="assets/img/banner/hero-bg-01.jpg">
                <div class="tpherobg">
                   <img src="assets/img/shape/hero-shape-01.png" alt="">
                </div>
@@ -115,7 +101,7 @@
                      </div>
                   </div>
                </div>
-            </section>
+            </section> -->
             <!-- hero-area-end -->
             <section>
             
