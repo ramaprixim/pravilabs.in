@@ -61,12 +61,12 @@
   --tp-text-3: #B7B6C4;
   --tp-theme-primary: #171151;
   --tp-theme-secondary: #10D0A1;
-  --tp-theme-blue: #0E63FF;
+  --tp-theme-blue: #FF0123;
   --tp-theme-pink: #F72A75;
   --tp-theme-sky: #42BFFF;
   --tp-border-primary: #ECEEF3;
   --tp-border-secondary: #D1D6E0;
-  --tp-icon-blue: #0E63FF;
+  --tp-icon-blue: #FF0123;
   --tp-icon-blue-light: #E7efFF;
   --tp-icon-green: #10D0A1;
   --tp-icon-green-light: #E7FAF6;
@@ -500,7 +500,7 @@ input[type=color] {
   line-height: 1;
   font-weight: 700;
   padding: 25px 45px;
-  background-color: #0E63FF;
+  background-color: #FF0123;
   text-align: center;
   display: inline-block;
   border-radius: 5px;
@@ -546,7 +546,9 @@ input[type=color] {
 }
 
 .tp-btn-second {
-  background: var(--tp-icon-green);
+  background: white;
+  border: 1px solid #FF0123;
+  color: #FF0123;
 }
 @media (max-width: 767px) {
   .tp-btn-second {
@@ -1262,7 +1264,7 @@ input[type=color] {
   line-height: 1;
   font-weight: 700;
   padding: 25px 45px;
-  background-color: #0E63FF;
+  background-color: #FF0123;
   text-align: center;
   display: inline-block;
   text-transform: uppercase;
@@ -3715,7 +3717,7 @@ div.tp-srv-link a {
   content: "";
   width: 100%;
   height: 0%;
-  background: linear-gradient(179.97deg, rgba(14, 99, 255, 0) 20.71%, #0E63FF 90.16%);
+  background: linear-gradient(179.97deg, rgba(14, 99, 255, 0) 20.71%, #FF0123 90.16%);
   left: 0px;
   right: 0;
   bottom: 0px;
@@ -5112,7 +5114,7 @@ div.tp-srv-link a {
   left: 0;
   height: 0%;
   width: 100%;
-  background-color: #0E63FF;
+  background-color: #FF0123;
   opacity: 0.85;
   z-index: -1;
   -webkit-transition: all 0.5s ease-out 0s;
@@ -5412,7 +5414,7 @@ div.tp-srv-link a {
   color: var(--tp-text-2);
 }
 .blog-item__content a {
-  background-image: linear-gradient(#0E63FF, #0E63FF), linear-gradient(#0E63FF, #0E63FF);
+  background-image: linear-gradient(#FF0123, #FF0123), linear-gradient(#FF0123, #FF0123);
   display: inline;
   background-size: 0% 1px, 0 1px;
   background-position: 100% 100%, 0 100%;
@@ -6015,7 +6017,7 @@ div.tp-srv-link a {
   transition: all 0.5s ease-out 0s;
 }
 .blogthumb:hover::before {
-  background-color: #0E63FF;
+  background-color: #FF0123;
   opacity: 0.8;
 }
 .blogthumb:hover .blogitem__avata-content span {
@@ -6558,7 +6560,7 @@ div.tp-srv-link a {
   border: 1px solid var(--tp-theme-blue);
   border-radius: 50%;
   display: inline-block;
-  background-color: #0E63FF;
+  background-color: #FF0123;
   color: var(--tp-common-white);
 }
 .tpshopitem__thumb-icon a:hover {
@@ -6577,7 +6579,7 @@ div.tp-srv-link a {
   display: block;
 }
 .tpshopitem__title a {
-  background-image: linear-gradient(#0E63FF, #0E63FF), linear-gradient(#0E63FF, #0E63FF);
+  background-image: linear-gradient(#FF0123, #FF0123), linear-gradient(#FF0123, #FF0123);
   background-repeat: no-repeat;
   background-position: 100% 100%, 0% 100%;
   background-size: 0% 1px, 0 1px;
@@ -6796,7 +6798,7 @@ div.tp-srv-link a {
   width: 101%;
   top: 0;
   left: -1px;
-  background: #0E63FF;
+  background: #FF0123;
   position: absolute;
   z-index: 3;
   opacity: 0;
@@ -8304,7 +8306,8 @@ p.checkout-coupon input[type=text]:focus {
   z-index: 1;
   font-size: 26px;
   color: white;
-  background: #00000072;
+  background: #171151;
+  border: 1px solid #171151;
   cursor: pointer;
 }
 
@@ -8394,15 +8397,15 @@ p.checkout-coupon input[type=text]:focus {
 
 .price-wrapper p span{
   font-weight: 900;
-  color: #0E63FF;
+  color: #FF0123;
 }
 .price-wrapper a{
   font-size: 14px;
   font-weight: 500;
   padding: 5px;
   background-color: white;
-  border: 1px solid #0E63FF;
-  color: #0E63FF;
+  border: 1px solid #FF0123;
+  color: #FF0123;
   text-transform: capitalize;
 }
 .price-wrapper .price-value{

@@ -1,4 +1,4 @@
-<?php $page="contact-us"; include("header-2.php") ?>       
+<?php $page="contact-us"; include("header.php") ?>       
       <!-- main-area -->
       <main>
 

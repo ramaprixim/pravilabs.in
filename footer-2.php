@@ -80,7 +80,7 @@
                   <div class="row">
                      <div class="col-xl-6 col-lg-6 col-md-12 col-12">
                         <div class="footer-widget__copyright copyright-white">
-                           <span> © Copyright ©2022 <a href="index.html">Pravilabs.in</a>. <i>All Rights Reserved Copyright</i></span>
+                           <span> © Copyright ©2022 <a href="index.php">Pravilabs.in</a>. <i>All Rights Reserved Copyright</i></span>
                         </div>
                      </div> 
                      <div class="col-xl-6 col-lg-6 col-md-12 col-12">
