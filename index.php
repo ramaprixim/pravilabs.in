@@ -8,25 +8,6 @@
       <div class="body-overlay"></div>             
 
       <section class="slider-area slider-tp-top pt-100 p-relative">
-        <div class="slider-social">
-           <div class="container">
-              <div class="row">
-                 <div class="col-lg-6 col-md-10 d-none d-md-block">
-                    <div class="slider-content__social">
-                       <a class="facebook-2" href="#"><i class="fab fa-facebook-f"></i>Facebook</a>
-                       <a class="youtub-2" href="#"><i class="fab fa-youtube"></i>Youtube</a>
-                       <a class="twitter-2" href="#"><i class="fab fa-twitter"></i>Twitter</a>
-                    </div>
-                 </div>
-                 <div class="col-lg-6 col-md-2 col-12 d-none d-md-block">
-                    <div class="slider-content__arrow d-flex align-items-center">
-                       <div class="slider-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3115ede7d3524e87"><i class="fa-regular fa-arrow-left"></i></div>
-                       <div class="slider-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3115ede7d3524e87"><i class="fa-regular fa-arrow-right"></i></div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-        </div>
         <div class="swiper-container tp-slider slider-active swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
            <div class="swiper-wrapper" id="swiper-wrapper-3115ede7d3524e87" aria-live="off" style="transition-duration: 0ms;"><div class="swiper-slide bg-white swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="1 / 4" style="width: 1903px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
                  <div class="container">
@@ -105,18 +86,24 @@
             <!-- hero-area-end -->
             <section>
             
-           <div class="container">
+           <div class="container-fluid">
             <div id="cCarousel">
+            
                <div class="row">
                   <div class="col-lg-12">
-                     <span class="tp-section__sub-title left-line mb-20 mt-80">Health Packages</span>
+                   
+                     <span class="tp-section__sub-title mb-20 mt-80"></span>
                   </div>
                </div>
                <div class="arrow" id="prev"><i class="fa-solid fa-chevron-left"></i></div>
                <div class="arrow" id="next"><i class="fa-solid fa-chevron-right"></i></div>
-           
+               <div class="d-flex justify-content-center">
+                <h2 class="tp-section__title mb-75">Health Packages</h2>
+               </div>
                <div id="carousel-vp">
+    
                  <div id="cCarousel-inner">
+           
                    <article class="cCarousel-item">
                      <div class="plan">
                         <div class="inner">
@@ -463,7 +450,7 @@
                                  <button class="card-button1 mb-4">know More</button>
                               </div>
                               <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                                 <h4 class="price-text">₹5899.00</h4>  
+                                 <h4 class="price-text">---</h4>  
                               </div>
                            </div>
                            <div class="action">

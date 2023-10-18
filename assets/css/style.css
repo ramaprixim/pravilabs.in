@@ -8296,8 +8296,10 @@ p.checkout-coupon input[type=text]:focus {
 }
 #cCarousel {
   position: relative;
-  max-width: 1130px;
+  max-width: 100%;
   margin: auto;
+  background-color: #f6f6f6;
+  padding-bottom: 125px;
 }
 
 #cCarousel .arrow {
@@ -8326,7 +8328,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 #carousel-vp {
-  width: 1002px;
+  width: 89%;
   height: 400px;
   display: flex;
   align-items: center;
@@ -8458,7 +8460,7 @@ p.checkout-coupon input[type=text]:focus {
   align-items: center;
   padding: 20px;
   padding-top: 40px;
-  background-color: #ecf0ff;
+  background-color: white;
   border-radius: 12px;
   position: relative;
 }
@@ -8583,7 +8585,7 @@ p.checkout-coupon input[type=text]:focus {
   align-items: center;
   padding: 20px;
   padding-top: 40px;
-  background-color: #ecf0ff;
+  background-color: white;
   border-radius: 12px;
   position: relative;
 }
