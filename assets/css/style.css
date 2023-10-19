@@ -939,7 +939,6 @@ input[type=color] {
 }
 .tp-section__title {
   font-size: 43px;
-  font-weight: 700;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-section__title {
@@ -975,7 +974,7 @@ input[type=color] {
   animation: tfLeftToRight 0.5s forwards;
 }
 .tp-section p {
-  font-size: 15px;
+  font-size: 17px;
   display: block;
   padding-right: 55px;
 }
@@ -2829,7 +2828,7 @@ input[type=color] {
   background-color: var(--tp-icon-sky);
 }
 .services-item__content p {
-  font-size: 15px;
+  font-size: 17px;
   margin-bottom: 45px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -6458,11 +6457,12 @@ div.tp-srv-link a {
   }
 }
 .faq-accordion .accordion-button {
+  font-family: 'flaticon';
   color: var(--tp-theme-primary);
   background: none;
   position: relative;
   padding: 14px 63px 14px 45px;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
   box-shadow: none;
   line-height: 1.8;
@@ -8472,7 +8472,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 .plan .inner {
-  height: 408px;
+  height: auto;
   align-items: center;
   padding: 20px;
   padding-top: 40px;
@@ -8646,6 +8646,6 @@ p.checkout-coupon input[type=text]:focus {
 .nabmission__title{
   font-family: 'Days One', sans-serif;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 31px;
   line-height: 1.32;
 }

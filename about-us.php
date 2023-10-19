@@ -38,11 +38,11 @@
                             delivering high-quality diagnostic tests and services. Their commitment to elevating
                             standards in diagnostic accuracy, cutting-edge technology, customer satisfaction, and
                             research-driven compassionate service has made them a key player in the industry.
-                        </P>
-                        <P>Recognizing that accurate diagnosis is a crucial part of a patient's healthcare journey,
+                        
+                        Recognizing that accurate diagnosis is a crucial part of a patient's healthcare journey,
                             Pravilabs places a strong emphasis on customer-centricity.
-                        </P>
-                        <P>Our core values revolve around adhering to professional ethics and delivering timely,
+                        
+                        Our core values revolve around adhering to professional ethics and delivering timely,
                             patient-friendly services with the primary goal of ensuring accurate diagnosis while
                             upholding principles of compassion, integrity, teamwork, and honesty. Additionally, we offer
                             on-demand sample home collection services and have plans to leverage artificial intelligence
@@ -137,7 +137,7 @@
                         <div class="col-xl-6 col-lg-6 col-md-12 order-lg-2">
                            <div class="nabmission mb-30">
                               <div class="nabmission__content text-center ml-50 mr-50 pt-20">
-                                 <h4 class="nabmission__title mb-35">expertise and innovation for a healthier future</h4>
+                                 <h4 class="nabmission__title mb-35">Expertise and innovation for a healthier future</h4>
                                  <p class="mb-35">At our pathology and diagnosis center, we are built on a strong foundation of unwavering commitment to healthcare excellence. With a team of dedicated experts and cutting-edge technology, we strive to deliver the highest standards of precision and care in the field of diagnostics. Our mission is to empower patients and healthcare providers with accurate, timely, and patient-friendly diagnostic services.</p>
                                  <p>We believe that by upholding the values of compassion, integrity, teamwork, and honesty, we can make a meaningful difference in the lives of those we serve. Our foundation is rooted in a vision for a healthier future, where innovation and expertise converge to ensure proper diagnosis and the well-being of our community.</p>
                               </div>
