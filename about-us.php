@@ -1,4 +1,4 @@
-<?php include("header.php") ?>
+<?php $page="about-us"; include("header.php") ?>
 <!-- breadcrumb-area -->
 <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay"
     data-background="assets/img/banner/breadcrumb-01.jpg">
