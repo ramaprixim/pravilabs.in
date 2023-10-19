@@ -13,7 +13,7 @@
                   </div>
                   <div class="col-lg-6 col-md-5 col-12">
                      <div class="tp-breadcrumb__link d-flex align-items-center">
-                        <span>Bioxlab : <a href="blog-details.html"> Blog Details</a></span>
+                        <span>PRAVILABS: <a href="blog-details.html"> CONTACT US</a></span>
                      </div>
                   </div>
                </div>
