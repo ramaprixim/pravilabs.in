@@ -3633,7 +3633,7 @@
 </section>
 
 
-</section>
+
 <section class="about-area grey-bg pt-30 tp-box-space pb-130 ml-30 mr-30 mt-70"
 	data-background="assets/img/shape/shape-bg-05.png"
 	style="background-image: url(&quot;assets/img/shape/shape-bg-05.png&quot;);">
@@ -3691,6 +3691,7 @@
 			</div>
 		</div>
 	</div>
+	</section>
 	<section style="padding-top: 100px;">
 		<div class="container">
 			<div class="row">

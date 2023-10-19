@@ -10,7 +10,7 @@
                                     <i class="flaticon-placeholder"></i>
                                  </div>
                                  <div class="footercontact__content">
-                                    <h4 class="text-white">Reg. Office:</h4>
+                                    <h4 class="text-white">Reg. Office</h4>
                                     <span class="footercontact__title"><a href="contact.html">807, Realtech Park, Sector 30A, <br>Vashi, Navi Mumbai - 400703 </a></span>
                                  </div>
                               </div>
@@ -32,7 +32,7 @@
                                     <i class="flaticon-placeholder"></i>
                                  </div>
                                  <div class="footercontact__content">
-                                    <h4 class="text-white">Lab (Vashi):</h4>
+                                    <h4 class="text-white">Lab (Vashi)</h4>
                                     <span>Shop 1, JN2, Jai Maharashtra <br> Apartment, Near Mini Market,</span>
                                     <span>Vashi,Navi Mumbai - 400703</span>
                                  </div>

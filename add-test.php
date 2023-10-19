@@ -41,7 +41,7 @@
   </div>
   <div class="col-md-6">
     <label for="time" class="form-label">Time</label>
-    <input type="number" class="form-control" name="time">
+    <input type="text" class="form-control" name="time">
   </div>
   <div class="col-6">
     <label for="testinfo" class="form-label">Test Info</label>
