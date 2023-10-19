@@ -29,7 +29,7 @@
                      <div class="tpcontact mr-60 mb-60 wow fadeInUp" data-wow-delay=".2s">
                         <div class="tpcontact__item text-center">
                            <div class="tpcontact__icon mb-20">
-                              <img src="assets/img/icon/contact-01.svg" alt="">
+                              <img src="assets/img/mail.png" alt="">
                            </div>
                            <div class="tpcontact__address">
                               <h4 class="tpcontact__title mb-15">Mail us on</h4>
@@ -40,7 +40,7 @@
                      <div class="tpcontact mr-60 mb-60 wow fadeInUp" data-wow-delay=".4s">
                         <div class="tpcontact__item text-center">
                            <div class="tpcontact__icon mb-20">
-                              <img src="assets/img/icon/contact-02.svg" alt="">
+                              <img src="assets/img/smartphone-call.png" alt="">
                            </div>
                            <div class="tpcontact__address">
                               <h4 class="tpcontact__title mb-15">Call us on</h4>
@@ -51,7 +51,7 @@
                      <div class="tpcontact mr-60 mb-60 wow fadeInUp" data-wow-delay=".6s">
                         <div class="tpcontact__item text-center">
                            <div class="tpcontact__icon mb-20">
-                              <img src="assets/img/icon/contact-03.svg" alt="">
+                              <img src="assets/img/location.png" alt="">
                            </div>
                            <div class="tpcontact__address">
                               <h4 class="tpcontact__title mb-15">Locate us</h4>

@@ -1754,10 +1754,11 @@ input[type=color] {
   transform: translateX(0);
 }
 .tpsideinfo__close {
-  color: #fff;
+  color: #FF0123;
   right: 30px;
   font-size: 18px;
-  background: var(--tp-theme-secondary);
+  background: white;
+  border: 1px solid #FF0123;
   width: 35px;
   height: 35px;
   position: absolute;
@@ -5179,7 +5180,7 @@ div.tp-srv-link a {
   transition: all 0.3s ease-out 0s;
 }
 .tpcontact__item:hover {
-  border: 1px solid var(--tp-theme-secondary);
+  border: 1px solid #ff0123;
 }
 .tpcontact__title {
   font-size: 22px;

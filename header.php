@@ -61,9 +61,9 @@
                               <li class=""><a class="<?php if($page=='home') {echo 'active';} ?>" href="index.php">Home
                                  </a>
                               </li>
-                              <li class=""><a href="about-us.php">About Us</a>
+                              <li class=""><a class="<?php if($page=='about-us') {echo 'active';} ?>" href="about-us.php">About Us</a>
                               </li>
-                              <li class=""><a href="health-packages.php">Health Packages</a>
+                              <li class=""><a class="<?php if($page=='health-packages') {echo 'active';} ?>" href="health-packages.php">Health Packages</a>
                               </li>
                               <li><a href="test.php">Tests</a></li>
                               <li class=""><a href="our-partners.php">Our Partners</a>
@@ -71,7 +71,7 @@
                               <li><a href="contact-us.php"
                                     class="nav-link <?php if($page=='contact-us') {echo 'active';} ?>">Contact Us</a>
                               </li>
-                              <li class=""><a href="blog.html">Blogs</a>
+                              <li class=""><a href="#">Blogs</a>
                               </li>
                            </ul>
                         </nav>
@@ -113,7 +113,7 @@
                            <circle cx="7" cy="17" r="2" fill="#FF0123" />
                            <circle cx="2" cy="7" r="2" fill="#FF0123" />
                            <circle cx="2" cy="12" r="2" fill="#FF0123" />
-                        </svg><span>Help Desk :</span>+91 590 088 55
+                        </svg><span>Help Desk :</span>+91 9137655589
                      </a>
                   </div>
                   <button class="tp-menu-toggle"><i class="far fa-bars"></i></button>
@@ -128,40 +128,10 @@
    <div class="tpsideinfo tp-side-info-area">
       <button class="tpsideinfo__close"><i class="fal fa-times"></i></button>
       <div class="tpsideinfo__logo mb-40">
-         <a href="index.php"><img src="assets/img/logo/white-logo.png" alt="logo"></a>
+         <a href="index.php"><img src="assets/img/logo/pravi lab LOGO white.png" alt="logo"></a>
       </div>
 
       <div class="mobile-menu"></div>
-
-      <div class="tpsideinfo__content mb-60">
-         <p class=" d-none d-xl-block">Our mission is to ensure the generation of accurate and precise findings.</p>
-         <span>Contact Us</span>
-         <a href="#"><i class="fa-solid fa-star"></i>Ta-134/A, Gulshan Badda Link </a>
-         <a href="tel:61383766284"><i class="fa-solid fa-star"></i>61 383 766 284</a>
-         <a href="https://weblearnbd.net/cdn-cgi/l/email-protection#254b4a574055495c65404b5344514a0b464a48"><i
-               class="fa-solid fa-star"></i><span class="__cf_email__"
-               data-cfemail="d5bbbaa7b0a5b9ac95b0bba3b4a1bafbb6bab8">[email&#160;protected]</span></a>
-      </div>
-      <div class="tpsideinfo__content-inputarea mb-60 d-none d-xl-block">
-         <span>Get Update</span>
-         <div class="tpsideinfo__content-inputarea-input">
-            <form action="#">
-               <input type="email" placeholder="Enter Mail">
-               <button class="tpsideinfo__content-inputarea-input-btn"><i class="fa-solid fa-paper-plane"></i></button>
-            </form>
-         </div>
-      </div>
-      <div class="tpsideinfo__gallery mb-35 d-none d-xl-block">
-         <span>Cheack Instagram Post</span>
-         <div class="tpsideinfo__gallery-item">
-            <a href="assets/img/blog/blog-in-01.jpg" class="popup-image"><img src="assets/img/blog/blog-in-01.jpg"
-                  alt=""></a>
-            <a href="assets/img/blog/blog-in-02.jpg" class="popup-image"><img src="assets/img/blog/blog-in-02.jpg"
-                  alt=""></a>
-            <a href="assets/img/blog/blog-in-03.jpg" class="popup-image"><img src="assets/img/blog/blog-in-03.jpg"
-                  alt=""></a>
-         </div>
-      </div>
       <div class="tpsideinfo__socialicon">
          <a href="#"><i class="fa-brands fa-youtube"></i></a>
          <a href="#"><i class="fa-brands fa-twitter"></i></a>
