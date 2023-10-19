@@ -521,7 +521,8 @@ input[type=color] {
   content: "";
   height: 300px;
   width: 300px;
-  background-color: #2974FF;
+  background-color: #283779;
+  color: white;
   border-radius: 50%;
   position: absolute;
   top: 50%;
@@ -530,9 +531,13 @@ input[type=color] {
   transition: 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   z-index: -1;
 }
-.tp-btn:hover,
+.tp-btn:hover{
+  color: white;
+}
+
 .tp-btn-second:hover {
-  color: #fff;
+  color: #283779;
+  border: 1px solid #283779;
 }
 .tp-btn:hover::after,
 .tp-btn-second:hover::after {
@@ -560,7 +565,9 @@ input[type=color] {
   content: "";
   height: 300px;
   width: 300px;
-  background-color: #13D9A8;
+  background-color: #ffffff;
+  color: #283779;
+  border: 1px solid #283779;
   border-radius: 50%;
   position: absolute;
   top: 50%;
@@ -1181,7 +1188,7 @@ input[type=color] {
   text-align: center;
 }
 .header-logo-box img {
-  width: 220px;
+  width: 158px;
 }
 
 .header-menu-box {
@@ -1264,7 +1271,7 @@ input[type=color] {
   font-size: 15px;
   line-height: 1;
   font-weight: 700;
-  padding: 25px 45px;
+  padding: 25px 25px;
   background-color: #FF0123;
   text-align: center;
   display: inline-block;
@@ -8462,6 +8469,7 @@ p.checkout-coupon input[type=text]:focus {
 }
 
 .plan .inner {
+  height: 408px;
   align-items: center;
   padding: 20px;
   padding-top: 40px;
@@ -8545,6 +8553,14 @@ p.checkout-coupon input[type=text]:focus {
   display: flex;
   align-items: center;
   justify-content: end;
+}
+.plan .action-btn-2{
+  position: relative;
+  top: 23%;
+}
+.plan .action-btn-3{
+  position: relative;
+  top: 15%;
 }
 
 .plan .card-button {

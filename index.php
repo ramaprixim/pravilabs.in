@@ -14,11 +14,12 @@
                     <div class="row align-items-center">
                        <div class="col-lg-6 col-md-12 col-12 order-2 order-lg-1">
                           <div class="slider-content pt-60">
-                             <h2 class="slider-content__title mb-45">Our Passion is to <br> Give you Better <br> Service</h2>
-                             <p>Your full service lab for clinical trials. Our mission is to ensure the <br> generation of accurate and precise findings</p>
+                             <h2 class="slider-content__title mb-45">Precision Diagnostics for Health Assurance </h2>
+                             <p>Where science meets care, our dedicated team delivers accurate diagnoses and personalized solutions for your journey to better health and wellness.
+                            </p>
                              <div class="slider-content__btn mb-165">
-                                <a class="tp-btn" href="contact.html">Appointment</a>
-                                <a class="tp-btn-second ml-25" href="about.html">About us</a>
+                                <a class="tp-btn" href="contact-us.php">Appointment</a>
+                                <a class="tp-btn-second ml-25" href="about-us.php">About us</a>
                              </div>
                           </div>
                        </div>
@@ -38,11 +39,12 @@
                     <div class="row align-items-center">
                        <div class="col-lg-6 col-md-12 col-12 order-2 order-lg-1">
                           <div class="slider-content pt-60">
-                             <h2 class="slider-content__title mb-45" style="font-weight: 900;">Our Passion is to <br> Give you Better <br> Service</h2>
-                             <p>Your full service lab for clinical trials. Our mission is to ensure the <br> generation of accurate and precise findings</p>
+                             <h2 class="slider-content__title mb-45" style="font-weight: 900;">Precision Diagnostics for Health Assurance</h2>
+                             <p>Where science meets care, our dedicated team delivers accurate diagnoses and personalized solutions for your journey to better health and wellness.
+                            </p>
                              <div class="slider-content__btn mb-165">
-                                <a class="tp-btn" href="contact.html">Appointment</a>
-                                <a class="tp-btn-second ml-25" href="about.html">About us</a>
+                                <a class="tp-btn" href="contact-us.php">Appointment</a>
+                                <a class="tp-btn-second ml-25" href="about-us.php">About us</a>
                              </div>
                           </div>
                        </div>
@@ -57,43 +59,16 @@
                     </div>
                  </div>
               </div>
-</div>
+            </div>
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
      </section>
-
-            <!-- hero-area -->
-            <!-- <section class="hero-area hero-bg" data-background="assets/img/banner/hero-bg-01.jpg">
-               <div class="tpherobg">
-                  <img src="assets/img/shape/hero-shape-01.png" alt="">
-               </div>
-               <div class="container">
-                  <div class="row">
-                     <div class="col-lg-12">
-                        <div class="tpherotext">
-                           <h4 class="tpherotext__title mb-40">Precision Diagnostics <br>for Health Assurance</h4>
-                           <p>Where science meets care, our dedicated team delivers 
-                              <br> accurate diagnoses and personalized solutions for 
-                              your journey to better <br> health and wellness.
-                           </p>
-                           <div class="tpherotext__btn">
-                              <a href="#" class="tp-btn-second">Book  Appointment</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </section> -->
-            <!-- hero-area-end -->
-            <section>
-            
-           <div class="container-fluid">
-            <div id="cCarousel">
-            
-               <div class="row">
-                  <div class="col-lg-12">
-                   
-                     <span class="tp-section__sub-title mb-20 mt-80"></span>
-                  </div>
+     <section>
+      <div class="container-fluid">
+        <div id="cCarousel">
+          <div class="row">
+            <div class="col-lg-12">
+              <span class="tp-section__sub-title mb-20 mt-80"></span>
+            </div>
                </div>
                <div class="arrow" id="prev"><i class="fa-solid fa-chevron-left"></i></div>
                <div class="arrow" id="next"><i class="fa-solid fa-chevron-right"></i></div>
@@ -1689,7 +1664,8 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
@@ -1738,7 +1714,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -1797,7 +1773,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -1855,7 +1831,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -1914,7 +1890,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -1973,7 +1949,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-3" >
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2032,7 +2008,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-3">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2090,7 +2066,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-3">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2149,7 +2125,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-3">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2208,7 +2184,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2267,7 +2243,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2326,7 +2302,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2385,7 +2361,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2444,7 +2420,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2503,7 +2479,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2562,7 +2538,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2621,7 +2597,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2680,7 +2656,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2739,7 +2715,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2798,7 +2774,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2857,7 +2833,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2916,7 +2892,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -2975,7 +2951,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -3034,7 +3010,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -3093,7 +3069,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -3152,7 +3128,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -3211,7 +3187,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -3270,7 +3246,7 @@
                           </div>
                         </div>
                        
-                        <div class="action">
+                        <div class="action action-btn-2">
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -3700,7 +3676,7 @@
                     <div class="col-xl-4 col-md-6">
                        <div class="tp-choose__item ml-35 mb-100 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                           <div class="tp-choose__icon green-icon mb-40">
-                             <i class="flaticon-blood-test"></i>
+                             <i class="flaticon-24-hours"></i>
                           </div>
                           <div class="tp-choose__content">
                              <h4 class="tp-choose__title mb-20">Convenient Access</h4>
@@ -4186,45 +4162,51 @@
                      <div class="swiper-container swiper test-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
                         <div class="swiper-wrapper" id="swiper-wrapper-82a7690cc2be32e2" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-835px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" role="group" aria-label="1 / 6" style="width: 825px; margin-right: 10px;">
                               <div class="testi-content text-center">
-                                 <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
+                                 <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!"</p>
                                     </p>
-                                 <i>Robertson JR</i>
-                                 <span>CEO of (FlaxStudio)</span>
+                                 <i>Preeti Sharma
+                                </i>
+                                
                               </div>
                            </div>
                            <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="2 / 6" style="width: 825px; margin-right: 10px;">
                               <div class="testi-content text-center">
-                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
-                                 <i>Darlene Robertson</i>
-                                 <span>Programmer of (FlaxStudio)</span>
+                              <p>“I've been to several labs before, but PraviLabs surpassed all my expectations. The staff was friendly, and the facility was clean and well-maintained. The accuracy of their body tests gave me peace of mind. I wouldn't trust anyone else!"</p>
+                                 <i>Sandeep Kumar
+                                </i>
+                                
                               </div>
                            </div>
                            <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" role="group" aria-label="3 / 6" style="width: 825px; margin-right: 10px;">
                               <div class="testi-content text-center">
-                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
-                                 <i>Courtney Henry</i>
-                                 <span>Programmer of (FlaxStudio)</span>
+                              <p>“I took TSH test service from Pravilabs. The service offered was exceptional. Sample collection was neat and in accordance with the COVID guidelines. I received my reports through mail and sms on time "</p>
+                                 <i>Shakshi Mittal
+                                </i>
+                                
                               </div>
                            </div>
                            <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="4 / 6" style="width: 825px; margin-right: 10px;">
                               <div class="testi-content text-center">
-                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
-                                 <i>Kathryn Murphy</i>
-                                 <span>Manager of (FlaxStudio)</span>
+                              <p>“Hello, my son and I were in the center a few days ago due to dengue. The staff was very friendly, very polite and caring in their service. They came to the house and took our blood samples. We recovered very quickly. Good site highly recommend Pravilabs"</p>
+                                 <i>Vishu Garg
+                                </i>
+                                 
                               </div>
                            </div>
                            <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="3" role="group" aria-label="5 / 6" style="width: 825px; margin-right: 10px;">
                               <div class="testi-content text-center">
-                              <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
-                                 <i>Robertson JR</i>
-                                 <span>CEO of (FlaxStudio)</span>
+                              <p>“Got myself checked for LFT at Pravilabs The report was quick and accurate. Blood collection was also painless and clean. I congratulate the team for their exceptional service"</p>
+                                 <i>Mohit Rajan
+                                </i>
+                                
                               </div>
                            </div>
                         <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="6 / 6" style="width: 825px; margin-right: 10px;">
                               <div class="testi-content text-center">
                               <p>“I was amazed by the professionalism and expertise at PraviLabs. Their body tests gave me detailed and valuable insights about my health. I highly recommend them!</p>
-                                 <i>Darlene Robertson</i>
-                                 <span>Programmer of (FlaxStudio)</span>
+                                 <i>Preeti Sharma
+                                </i>
+                               
                               </div>
                            </div></div>
                      <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
