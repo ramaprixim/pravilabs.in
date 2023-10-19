@@ -1724,7 +1724,8 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
@@ -1764,6 +1765,7 @@
                           </li>
                           
                         </ul>
+                        
                         <div class="row">
                           <div class="col-lg-6">
                             <button class="card-button1 mb-4">know More</button>
@@ -1772,8 +1774,10 @@
                             <h4 class="price-text">---</h4>   
                           </div>
                         </div>
-                       
                         <div class="action action-btn-2">
+
+                         
+
                         <a class="card-button" href="#">
                           Book Now
                         </a>
@@ -1783,7 +1787,7 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				<div class="plan"> 
                      <div class="inner">
                         <span class="pricing">
                           <span>
@@ -3825,10 +3829,10 @@
                                 <button class="card-button1 mb-2">know More</button>
                               </div>
                               <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                                <h4 class="price-text">₹99.00</h4>   
+                                <h4 class="price-text">---</h4>   
                               </div>
                             </div>
-                              <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #0E63FF; border-radius: 8px;">
+                              <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #283779; border-radius: 8px;">
                               <a class="card-button" href="#" style="color: #ffff;">
                                 Book Now
                               </a>
@@ -4109,7 +4113,52 @@
                </div>
             </div>
          </section>
-
+         <div class="brand-area pt-130 pb-130">
+          <div class="container">
+             <div class="swiper-container brand-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-container-free-mode">
+                <div class="swiper-wrapper brand-items" id="swiper-wrapper-c18acf51d77ac991" aria-live="off" style="transform: translate3d(-2112px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="1 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-02.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="2 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-03.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="3" role="group" aria-label="3 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-04.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="4" role="group" aria-label="4 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-05.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="5" role="group" aria-label="5 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-04.png" alt="brand"></a>
+                   </div>
+                   <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="6 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-01.png" alt="brand"></a>
+                   </div>
+                   <div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="7 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-02.png" alt="brand"></a>
+                   </div>
+                   <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="8 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-03.png" alt="brand"></a>
+                   </div>
+                   <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="3" role="group" aria-label="9 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-04.png" alt="brand"></a>
+                   </div>
+                   <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="4" role="group" aria-label="10 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-05.png" alt="brand"></a>
+                   </div>
+                   <div class="swiper-slide" data-swiper-slide-index="5" role="group" aria-label="11 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-04.png" alt="brand"></a>
+                   </div>
+                <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" role="group" aria-label="12 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-01.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="13 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-02.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="14 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-03.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="3" role="group" aria-label="15 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-04.png" alt="brand"></a>
+                   </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="4" role="group" aria-label="16 / 16" style="width: 234px; margin-right: 30px;">
+                      <a href="#"><img src="assets/img/brand/brand-05.png" alt="brand"></a>
+                   </div></div>
+             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+          </div>
+       </div>
            
                   </div>
                </div>
@@ -4124,30 +4173,30 @@
                      <div class="testi-thumb text-center">
                         <div class="swiper-container swiper test-ava-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-container-free-mode swiper-container-thumbs">
                            <div class="swiper-wrapper testi-avta-bottom pb-70" id="swiper-wrapper-992e56c610ba475a10" aria-live="polite" style="transform: translate3d(-360px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="1 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                                 <img src="assets/img/woman.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="2 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" role="group" aria-label="3 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-07.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide swiper-slide-active swiper-slide-thumb-active" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-04.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" role="group" aria-label="5 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                                 <img src="assets/img/woman.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="6 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="3" role="group" aria-label="7 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-07.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div>
                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-thumb-active" data-swiper-slide-index="0" role="group" aria-label="8 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-04.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="9 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="10 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div></div>
                         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                      </div>

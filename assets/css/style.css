@@ -8593,11 +8593,11 @@ p.checkout-coupon input[type=text]:focus {
 
 .card-button1{
   background-color: transparent;
-    border-radius: 10px;
-    border: 2px solid #161671;
-    padding: 2px 9px;
-    font-size: 15px;
-    color: #161671;
+  border-radius: 10px;
+  border: 2px solid #ff0123;
+  padding: 2px 9px;
+  font-size: 15px;
+  color: #ff0123;
 }
 
 .plan .card-button:hover, .plan .card-button:focus {
