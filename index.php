@@ -3825,10 +3825,10 @@
                                 <button class="card-button1 mb-2">know More</button>
                               </div>
                               <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                                <h4 class="price-text">₹99.00</h4>   
+                                <h4 class="price-text">---</h4>   
                               </div>
                             </div>
-                              <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #0E63FF; border-radius: 8px;">
+                              <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #283779; border-radius: 8px;">
                               <a class="card-button" href="#" style="color: #ffff;">
                                 Book Now
                               </a>
