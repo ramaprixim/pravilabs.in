@@ -47,7 +47,8 @@
                         <h4 class="footer-widget__title mb-30">
                            <a href="index.html"><img src="assets/img/logo/pravi lab LOGO white.png"  alt="logo"></a>
                         </h4>
-                        <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea <br> commodo claritatem itamconse quat.Exerci tation ullamcorper.</p>
+                        <p>Pravilabs aims to revolutionize diagnostic services in India by using the most specialized technologies and innovative services. PraviLabs is fully automated with state-of-the-art equipment, provides a wide range of routine and specialized tests and focuses on quality patient care.
+                        </p>
                         <div class="footer-widget__social">
                            <a class="tp-f-youtube" href="#"><i class="fa-brands fa-youtube"></i></a>
                            <a class="tp-f-twitter" href="#"><i class="fa-brands fa-twitter"></i></a>

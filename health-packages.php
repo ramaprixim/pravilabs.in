@@ -1,4 +1,4 @@
-<?php include("header.php") ?>
+<?php $page="health-packages"; include("header.php") ?>
 <style>
 	.table>:not(caption)>*>* {
 		padding: 1.5rem 1rem;
