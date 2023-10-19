@@ -1,5 +1,5 @@
 <?php $page="home"; include("header.php") ?>
-
+<?php include("db.php");?>
       <!-- sidebar-info-end -->
 <style>
    .hero-bg{
@@ -3775,8 +3775,11 @@
                </div>
                <div class="swiper-container team-active wow fadeInUp swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                   <div class="swiper-wrapper" id="swiper-wrapper-ddf9d09386495e14" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-2200px, 0px, 0px);"><div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="0 / 10" style="width: 410px; margin-right: 30px;">
-                     </div> 
-
+                     </div>   <?php    $sql = "SELECT * from popular_test";
+                     $result = $conn->query($sql);  ?>
+                     <?php
+                  if ($result->num_rows > 0) {
+                  while($row = $result->fetch_assoc()) { ?>
                      <!-- final slide start -->
                      <div class="swiper-slide" data-swiper-slide-index="0" role="" aria-label="0 / 10" style="width: 410px; margin-right: 30px;">
                 
@@ -3807,7 +3810,14 @@
                         </div>
                        
                      </div>
-
+                     <!-- final slide ends -->
+                     <?php
+                    }
+                  } else {
+                    echo "0 results";
+                  }
+                  $conn->close();
+                      ?>
                     </div>
                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
             </div>
