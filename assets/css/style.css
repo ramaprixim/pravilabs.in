@@ -7020,6 +7020,7 @@ div.tp-srv-link a {
 .table td,
 .table th {
   border-top: 1px solid #eaedff;
+  height:57px;
 }
 
 .product-quantity > input {
@@ -8631,3 +8632,12 @@ p.checkout-coupon input[type=text]:focus {
   font-size: 25px !important;
 }
 
+@media screen and (max-width:1400px){
+.plan{
+  height: 435px;
+  margin-top: 20px;
+}
+.inner{
+  width:279px;
+}
+}

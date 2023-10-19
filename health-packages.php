@@ -1,7 +1,7 @@
 <?php $page="health-packages"; include("header.php") ?>
 <style>
 	.table>:not(caption)>*>* {
-		padding: 0.5rem 1rem;
+		padding: 1.5rem 1rem;
 	}
 	.tp-section i{
 		margin-bottom: 0px;
@@ -15,12 +15,12 @@
 		<div class="row align-items-center">
 			<div class="col-xl-7 col-lg-12 col-md-12 col-12">
 				<div class="tp-breadcrumb">
-					<h2 class="tp-breadcrumb__title">Packages</h2>
+					<h2 class="tp-breadcrumb__title">Health Packages</h2>
 				</div>
 			</div>
 			<div class="col-xl-5 col-lg-12 col-md-12 col-12">
 				<div class="tp-breadcrumb__link text-xl-end">
-					<span>Bioxlab : <a href="team-details.html"> Packages</span>
+					<span>PRAVILABS: <a href="team-details.html"> HEALTH Packages</span>
 				</div>
 			</div>
 		</div>
@@ -3633,7 +3633,7 @@
 </section>
 
 
-</section>
+
 <section class="about-area grey-bg pt-30 tp-box-space pb-130 ml-30 mr-30 mt-70"
 	data-background="assets/img/shape/shape-bg-05.png"
 	style="background-image: url(&quot;assets/img/shape/shape-bg-05.png&quot;);">
@@ -3691,6 +3691,7 @@
 			</div>
 		</div>
 	</div>
+	</section>
 	<section style="padding-top: 100px;">
 		<div class="container">
 			<div class="row">
@@ -3756,7 +3757,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xxl-4 col-lg-6 col-md-6">
+				<div class="col-xxl-4 col-lg-4 col-md-6">
 					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
 						data-background="assets/img/blog/blog-thumb-07.jpg"
 						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3793,7 +3794,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xxl-4 col-lg-6 col-md-6">
+				<div class="col-xxl-4 col-lg-4 col-md-6">
 					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
 						data-background="assets/img/blog/blog-thumb-07.jpg"
 						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3829,7 +3830,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xxl-4 col-lg-6 col-md-6">
+				<div class="col-xxl-4 col-lg-4 col-md-6">
 					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
 						data-background="assets/img/blog/blog-thumb-07.jpg"
 						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3865,9 +3866,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-xxl-4 col-lg-6 col-md-6">
+			
+				<div class="col-xxl-4 col-lg-4 col-md-6">
 					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
 						data-background="assets/img/blog/blog-thumb-07.jpg"
 						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3905,7 +3905,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xxl-4 col-lg-6 col-md-6">
+				<div class="col-xxl-4 col-lg-4 col-md-6">
 					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
 						data-background="assets/img/blog/blog-thumb-07.jpg"
 						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3942,7 +3942,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xxl-4 col-lg-6 col-md-6">
+				<div class="col-xxl-4 col-lg-4 col-md-6">
 					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
 						data-background="assets/img/blog/blog-thumb-07.jpg"
 						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3985,13 +3985,13 @@
 	<section style="padding: 150px 0px;">
 		<div class="container">
 			<table class="table">
-				<thead class="thead-light">
+				<thead class="thead-light bg-danger fs-3">
 					<tr>
 						<th scope="col">Package Name</th>
 						<th scope="col">Amount</th>
 					</tr>
 				</thead>
-				<tbody>
+				<tbody class="fs-5 ">
 					<tr>
 						<td>Full Body Checkup Package - Basic</td>
 						<td>₹ 2,000.00</td>
