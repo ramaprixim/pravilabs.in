@@ -3779,7 +3779,7 @@
                            </div>
                            <div class="tp-team__content" style="padding: 24px 20px;">
                             <h4 class="tp-team__title mb-15"><a href="team-details.html"><?php echo $row["package_name"] ?></a></h4>
-                            <div class="fw-700 fs-14 me-2">Time: <span><?php echo $row["time"] ?></span></div>
+                            <div class="fw-700 fs-14 me-2">Time: <span><?php echo $row["time"] ?> Hours</span></div>
                             <div class="fw-700 fs-14 me-2">Pre Test Information: <span><?php echo $row["test_info"] ?></span></div>
                            
                              <div class="row mt-3">
@@ -3787,7 +3787,9 @@
                                 <button class="card-button1 mb-2">know More</button>
                               </div>
                               <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                                <h4 class="price-text"><?php echo $row["price"]?></h4>   
+                                <h4 class="price-text">
+                                  <!-- <?php echo $row["price"]?> -->
+                                  ---</h4>   
                               </div>
                             </div>
                               <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #283779; border-radius: 8px;">
