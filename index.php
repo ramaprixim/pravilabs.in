@@ -1,4 +1,5 @@
 <?php $page="home"; include("header.php") ?>
+<?php include("db.php");?>
       <!-- sidebar-info-end -->
 <style>
    .hero-bg{
@@ -3765,23 +3766,28 @@
                </div>
                <div class="swiper-container team-active wow fadeInUp swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                   <div class="swiper-wrapper" id="swiper-wrapper-ddf9d09386495e14" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-2200px, 0px, 0px);"><div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="0 / 10" style="width: 410px; margin-right: 30px;">
-                     </div>
+                     </div>   <?php    $sql = "SELECT * from popular_test";
+                     $result = $conn->query($sql);  ?>
+                     <?php
+                  if ($result->num_rows > 0) {
+                  while($row = $result->fetch_assoc()) { ?>
                      <!-- final slide start -->
                      <div class="swiper-slide" data-swiper-slide-index="0" role="" aria-label="0 / 10" style="width: 410px; margin-right: 30px;">
-                        <div class="tp-team mb-50">
+                
+                      <div class="tp-team mb-50">
                            <div class="tp-team__thumb fix">                           
                            </div>
                            <div class="tp-team__content" style="padding: 24px 20px;">
-                            <h4 class="tp-team__title mb-15"><a href="team-details.html">Complete Blood Count; CBC Test</a></h4>
-                            <div class="fw-700 fs-14 me-2">Time: <span>Within 24 Hours</span></div>
-                            <div class="fw-700 fs-14 me-2">Pre Test Information: <span>No specific requirement</span></div>
+                            <h4 class="tp-team__title mb-15"><a href="team-details.html"><?php echo $row["package_name"] ?></a></h4>
+                            <div class="fw-700 fs-14 me-2">Time: <span><?php echo $row["time"] ?></span></div>
+                            <div class="fw-700 fs-14 me-2">Pre Test Information: <span><?php echo $row["test_info"] ?></span></div>
                            
                              <div class="row mt-3">
                               <div class="col-lg-6">
                                 <button class="card-button1 mb-2">know More</button>
                               </div>
                               <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                                <h4 class="price-text">---</h4>   
+                                <h4 class="price-text"><?php echo $row["price"]?></h4>   
                               </div>
                             </div>
                               <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #283779; border-radius: 8px;">
@@ -3791,8 +3797,16 @@
                               </div>
                          </div>                        
                         </div>
+                       
                      </div>
                      <!-- final slide ends -->
+                     <?php
+                    }
+                  } else {
+                    echo "0 results";
+                  }
+                  $conn->close();
+                      ?>
                     </div>
                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
             </div>
