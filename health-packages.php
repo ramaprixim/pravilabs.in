@@ -3986,8 +3986,8 @@
 			<table class="table">
 				<thead class="thead-light bg-danger fs-3">
 					<tr>
-						<th scope="col">Package Name</th>
-						<th scope="col">Amount</th>
+						<th scope="col" class="text-light">Package Name</th>
+						<th scope="col" class="text-light">Amount</th>
 					</tr>
 				</thead>
 				<tbody class="fs-5 ">
