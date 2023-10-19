@@ -4148,30 +4148,30 @@
                      <div class="testi-thumb text-center">
                         <div class="swiper-container swiper test-ava-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-container-free-mode swiper-container-thumbs">
                            <div class="swiper-wrapper testi-avta-bottom pb-70" id="swiper-wrapper-992e56c610ba475a10" aria-live="polite" style="transform: translate3d(-360px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="1 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="2 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                                 <img src="assets/img/woman.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" role="group" aria-label="3 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-07.png" alt="testi-avata">
+                                 <img src="assets/img/woman.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide swiper-slide-active swiper-slide-thumb-active" data-swiper-slide-index="0" role="group" aria-label="4 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-04.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" role="group" aria-label="5 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="6 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                                 <img src="assets/img/woman.png" alt="testi-avata">
                               </div>
                               <div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="3" role="group" aria-label="7 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-07.png" alt="testi-avata">
+                                 <img src="assets/img/woman.png" alt="testi-avata">
                               </div>
                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-thumb-active" data-swiper-slide-index="0" role="group" aria-label="8 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-04.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="9 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-05.png" alt="testi-avata">
+                                 <img src="assets/img/man.png" alt="testi-avata">
                               </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="10 / 10" style="width: 110px; margin-right: 10px;">
-                                 <img src="assets/img/icon/testi-ava-06.png" alt="testi-avata">
+                                 <img src="assets/img/woman.png" alt="testi-avata">
                               </div></div>
                         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                      </div>
