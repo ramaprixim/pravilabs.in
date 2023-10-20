@@ -1,9 +1,6 @@
 <?php $page="contact-us"; include("header.php") ?>       
-      <!-- main-area -->
-      <main>
-
-         <!-- breadcrumb-area -->
-         <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay" data-background="assets/img/banner/breadcrumb-01.jpg">
+<main>
+   <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay" data-background="assets/img/banner/breadcrumb-01.jpg">
             <div class="container">
                <div class="row align-items-center">
                   <div class="col-lg-6 col-md-7 col-12">
@@ -19,9 +16,6 @@
                </div>
             </div>
          </section>
-         <!-- breadcrumb-area-end -->
-         
-         <!-- contact-area -->
          <section class="contact-area pt-130 pb-115">
             <div class="container">
                <div class="row">
@@ -66,7 +60,7 @@ Navi Mumbai - 400703</span>
                      <div class="contactform wow fadeInRight" data-wow-delay=".4s">
                         <h4 class="contactform__title mb-35">Drop Your Details Below</h4>
                         <div class="contactform__list mb-60">
-                           <form id="contact-form" action="https://weblearnbd.net/tphtml/bioxlab/bioxlab/assets/mail.php" method="post">
+                           <form id="contact-form" action="#" method="post">
                               <div class="row">
                                  <div class="col-lg-6">
                                     <div class="contactform__input mb-30">
@@ -114,10 +108,5 @@ Navi Mumbai - 400703</span>
                </div>
             </div>
          </section>
-         <!-- contact-area-end -->
-
-      </main>
-      
-
-
-     <?php include("footer.php"); ?>
+</main>
+<?php include("footer.php"); ?>

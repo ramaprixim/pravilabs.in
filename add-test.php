@@ -1,4 +1,3 @@
-
 <?php require ("db.php");
      if(isset($_POST['submit'])){
         $packagename =  $_POST['packagename'];
@@ -7,30 +6,13 @@
         $price = $_POST['price'];
        
     }
+    $sql = "INSERT INTO popular_test (`id`, `package_name`, `time`, `test_info`, `price`) VALUES ('', '$packagename', ' $time', ' $testinfo', '$price')";  
+    mysqli_query($conn, $sql);   
+    
+    mysqli_close($conn);
+?>
 
-
-  
- //Performing insert query execution
- // here our table name is college
- $sql = "INSERT INTO popular_test (`id`, `package_name`, `time`, `test_info`, `price`) VALUES ('', '$packagename', ' $time', ' $testinfo', '$price')";  
- mysqli_query($conn, $sql);   
-  
-//  if(mysqli_query($conn, $sql)){
-//      echo "<h3>data stored in a database successfully."
-//          . " Please browse your localhost php my admin"
-//          . " to view the updated data</h3>";
-
-//      echo nl2br("\n$package_name\n"
-//          . "$price");
-//  } else{
-//      echo "ERROR: Hush! Sorry $sql. "
-//          . mysqli_error($conn);
-//  }
-  
- // Close connection
- mysqli_close($conn);?>
 <?php include ('header.php') ?>
-
 <section>
     <div class="container" style="margin-top:70px">
       <h2>Add Product</h2>

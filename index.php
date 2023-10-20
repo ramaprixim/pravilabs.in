@@ -1,6 +1,5 @@
 <?php $page="home"; include("header.php") ?>
 <?php include("db.php");?>
-      <!-- sidebar-info-end -->
 <style>
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
@@ -11,6 +10,10 @@
    .fa-arrow-right:before{
     color:#fff;
    }
+  
+   
+ 
+   
 </style>
       <div class="body-overlay"></div>             
 
@@ -3762,14 +3765,14 @@
                <div class="row align-items-center">
                   <div class="col-lg-8 col-md-8 col-12">
                      <div class="tp-section">
-                        <span class="tp-section__sub-title left-line mb-25">Our Team</span>
-                        <h3 class="tp-section__title mb-75">Meet Specialist</h3>
+                        <!-- <span class="tp-section__sub-title left-line mb-25">Our Team</span> -->
+                        <h3 class="tp-section__title mb-75">Popular Test</h3>
                      </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-12">
                      <div class="tp-team-arrow d-flex align-items-center">
-                        <div class="team-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-left"></i></div>
-                        <div class="team-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-right"></i></div>
+                        <div class="team-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-left" style="background-color: #283779;"></i></div>
+                        <div class="team-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-right" style="background-color: #283779;"></i></div>
                      </div>
                   </div>
                </div>
@@ -3787,7 +3790,7 @@
                            <div class="tp-team__thumb fix">                           
                            </div>
                            <div class="tp-team__content" style="padding: 24px 20px;">
-                            <h4 class="tp-team__title mb-15"><a href="team-details.html"><?php echo $row["package_name"] ?></a></h4>
+                            <h4 class="tp-team__title mb-15"><a href="#"><?php echo $row["package_name"] ?></a></h4>
                             <div class="fw-700 fs-14 me-2">Time: <span><?php echo $row["time"] ?> Hours</span></div>
                             <div class="fw-700 fs-14 me-2">Pre Test Information: <span><?php echo $row["test_info"] ?></span></div>
                            
@@ -4211,6 +4214,6 @@
 	}, 500, 'swing');
   });
             </script>
-            <?php include("footer.php") ?>
+<?php include("footer.php") ?>
         
 
