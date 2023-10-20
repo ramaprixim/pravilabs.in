@@ -4,10 +4,10 @@
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
    }
-   .fa-arrow-left:before{
+   .l1:before{
     color: #fff;
    }
-   .fa-arrow-right:before{
+   .l2:before{
     color:#fff;
    }
   
@@ -3617,8 +3617,8 @@
                  <div class="row text-center">
                     <div class="col-lg-12">
                        <div class="tp-test-arrow d-flex align-items-center justify-content-center">
-                          <div class="tp-test-prv" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-0423d10e5eb7bf5f8"><i class="fa-regular fa-arrow-left"></i></div>
-                          <div class="tp-test-nxt" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-0423d10e5eb7bf5f8"><i class="fa-regular fa-arrow-right"></i></div>
+                          <div class="tp-test-prv" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-0423d10e5eb7bf5f8"><i class="fa-regular fa-arrow-left l1"></i></div>
+                          <div class="tp-test-nxt" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-0423d10e5eb7bf5f8"><i class="fa-regular fa-arrow-right l2"></i></div>
                        </div>
                     </div>
                  </div>
