@@ -3789,7 +3789,7 @@
                       <div class="tp-team mb-50">
                            <div class="tp-team__thumb fix">                           
                            </div>
-                           <div class="tp-team__content" style="padding: 24px 20px;">
+                           <div class="tp-team__content" style="padding: 24px 20px;display: grid;">
                             <h4 class="tp-team__title mb-15"><a href="team-details.html"><?php echo $row["package_name"] ?></a></h4>
                             <div class="fw-700 fs-14 me-2">Time: <span><?php echo $row["time"] ?></span></div>
                             <div class="fw-700 fs-14 me-2">Pre Test Information: <span><?php echo $row["test_info"] ?></span></div>
@@ -3804,8 +3804,8 @@
                                   ---</h4>   
                               </div>
                             </div>
-                              <div class="action d-flex justify-content-center mt-4 p-2" style="background-color: #283779; border-radius: 8px;">
-                              <a class="card-button" href="#" style="color: #ffff;">
+                              <div class="action d-flex" style="justify-content: end;align-items: center;">
+                              <a class="card-button" href="#" style="color: #ffff;background-color: #283779; border-radius: 8px;padding: 10px;">
                                 Book Now
                               </a>
                               </div>
