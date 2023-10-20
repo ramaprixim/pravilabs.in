@@ -5,6 +5,12 @@
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
    }
+   .fa-arrow-left:before{
+    color: #fff;
+   }
+   .fa-arrow-right:before{
+    color:#fff;
+   }
 </style>
       <div class="body-overlay"></div>             
 
@@ -40,7 +46,7 @@
                     <div class="row align-items-center">
                        <div class="col-lg-6 col-md-12 col-12 order-2 order-lg-1">
                           <div class="slider-content pt-60">
-                             <h2 class="slider-content__title mb-45" style="font-weight: 900;">Precision Diagnostics for Health Assurance</h2>
+                             <h2 class="slider-content__title mb-45">Precision Diagnostics for Health Assurance</h2>
                              <p>Where science meets care, our dedicated team delivers accurate diagnoses and personalized solutions for your journey to better health and wellness.
                             </p>
                              <div class="slider-content__btn mb-165">
@@ -1694,6 +1700,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
+                            <br> <br>
                             <span></span>
                           </li>
                           <li>
@@ -1763,7 +1770,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -1825,6 +1832,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
+                            <br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -1883,7 +1891,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -1942,7 +1950,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            <br>
+                            <br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -2001,7 +2009,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br> <br> 
                             <span></span>
                           </li>
                           
@@ -2060,6 +2068,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
+                            <br> <br>
                             <span></span>
                           </li>
                           
@@ -2118,7 +2127,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            <br>
+                            <br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -2177,7 +2186,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                          <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2236,7 +2245,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2295,7 +2304,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2354,7 +2363,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2413,7 +2422,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2472,7 +2481,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2531,7 +2540,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2590,7 +2599,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2649,7 +2658,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2708,7 +2717,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2767,7 +2776,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2826,7 +2835,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2885,7 +2894,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -2944,7 +2953,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -3003,7 +3012,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -3062,7 +3071,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -3121,7 +3130,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -3180,7 +3189,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -3239,7 +3248,7 @@
                                  <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
                               </svg>
                             </span> -->
-                            
+                            <br><br><br>
                             <span></span>
                           </li>
                           
@@ -3659,7 +3668,7 @@
 
 
             <!-- services-area-end -->
-            <section class="choose-area theme-bg pt-120 pb-130">
+            <section class="choose-area theme-bg pt-95 pb-70">
               <div class="container">
                  <div class="row">
                     <div class="col-lg-12">
@@ -3832,7 +3841,7 @@
                </div>
                <div class="row">
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: #ffcbcb;">
+                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
                         <div class="services-item__icon mb-30">
                           <img src="assets/img/Comprehensive Test Menu.png" alt="">
                         </div>
@@ -3844,7 +3853,7 @@
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;background-color: #ffcbcb;">
+                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
                         <div class="services-item__icon pink-icon mb-30">
                           <img src="assets/img/Convenience and Accessibility.png" alt="">
                         </div>
@@ -3856,7 +3865,7 @@
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;background-color: #ffcbcb;">
+                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
                         <div class="services-item__icon sky-icon mb-30">
                           <img src="assets/img/Customer-Centric Approach.png" alt="">
                         </div>
@@ -3867,7 +3876,7 @@
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;background-color: #ffcbcb;">
+                     <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
                         <div class="services-item__icon green-icon mb-30">
                           <img src="assets/img/Quality and Accuracy.png" alt="">
                         </div>
@@ -3880,7 +3889,7 @@
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: #ffcbcb;">
+                     <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
                         <div class="services-item__icon green-icon mb-30">
                           <img src="assets/img/Home Sample Collection.png" alt="">
                         </div>
@@ -3891,7 +3900,7 @@
                      </div>
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
-                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;background-color: #ffcbcb;">
+                     <div class="services-item tp-services-item mb-50 ml-35 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
                         <div class="services-item__icon sky-icon mb-30">
                           <img src="assets/img/Embracing Innovation.png" alt="">
                         </div>

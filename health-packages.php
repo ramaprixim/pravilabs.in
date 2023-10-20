@@ -411,9 +411,9 @@
 								<button class="card-button1 mb-4">know More</button>
 							</div>
 							<div class="col-lg-6 d-flex justify-content-end align-items-center">
-								<h4 class="price-text">₹5899.00</h4>
+								<h4 class="price-text">---</h4>
 							</div>
-						</div>
+						</div>	
 						<div class="action">
 							<a class="card-button" href="#">
 								Book Now
@@ -879,7 +879,7 @@
 								<button class="card-button1 mb-4">know More</button>
 							</div>
 							<div class="col-lg-6 d-flex justify-content-end align-items-center">
-								<h4 class="price-text">1199.00</h4>
+								<h4 class="price-text">---</h4>
 							</div>
 						</div>
 
@@ -3634,7 +3634,7 @@
 
 
 
-<section class="about-area grey-bg pt-30 tp-box-space pb-130 ml-30 mr-30 mt-70"
+<section class="about-area grey-bg pt-60 tp-box-space ml-30 mr-30 mt-70"
 	data-background="assets/img/shape/shape-bg-05.png"
 	style="background-image: url(&quot;assets/img/shape/shape-bg-05.png&quot;);">
 	<div class="about-wrapper">
@@ -3645,12 +3645,12 @@
 						style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInRight;">
 						<div class="tp-section">
 							<!-- <span class="tp-section__sub-title left-line mb-25">>Full Body Checkup Test List </span> -->
-							<h3 class="tp-section__title mb-10">Full Body Checkup Test List </h3>
-							<i >A full body checkup involves a variety of medical tests and examinations to assess a
+							<h3 class="tp-section__title" style="padding-bottom:30px">Full Body Checkup Test List </h3>
+							<p >A full body checkup involves a variety of medical tests and examinations to assess a
 								person's overall health and wellbeing. Navi Mumbai, there are numerous healthcare
 								providers and hospitals that offer full body checkup services. Here are some of the
 								common services that pravilabs in Navi Mumbai list for a full body checkup package
-								test:</i>
+								test:</p>
 							<div>
 								<div class="tp-about__info-list ab-check-list mb-55 mt-15">
 									<ul>
@@ -3692,7 +3692,10 @@
 		</div>
 	</div>
 	</section>
-	<section style="padding-top: 100px;">
+
+
+	
+	<section style="padding-top: 100px;padding-bottom: 100px;">
 		<div class="container">
 			<div class="row">
 
@@ -3702,7 +3705,7 @@
 
 			</div>
 		</div>
-		<div class="cta-area pt-75 ">
+		<div class="cta-area ">
 			<div class="container">
 				<div class="row wow fadeInUp" data-wow-delay=".3s"
 					style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3735,260 +3738,105 @@
 			</div>
 		</div>
 	</section>
-	<section style="padding: 100px 0px;">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3">
 
-				</div>
-				<div class="col-lg-3"></div>
-			</div>
-			<div>
-			</div>
-		</div>
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-12">
-					<div class="tp-section mb-20">
-						<br>
-						<h3 class="tp-section__title mb-60 text-center">Here are the Benefits of a full body checkup
-						</h3>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-xxl-4 col-lg-4 col-md-6">
-					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
-						data-background="assets/img/blog/blog-thumb-07.jpg"
-						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-						<div class="blogitem" style="background: #dcecf9;">
-							<div class="fix inner-blog-wrap">
-								<div class="blogitem__avata-part">
-									<div class="blogitem__avata">
-
-										<div class="blogitem__avata-content">
-											<div class="" style="padding: 10px 10px;">
-												<img src="assets/img/icon/medical-team.png" alt="">
-											</div>
-											<h5 class="blogitem__title mb-20">Early detection of health issues</h5>
-											<p>A full body checkup allows doctors to screen for various diseases and
+	<section class="services-area pt-120 pb-90 grey-bg" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
+            <div class="container">
+               <div class="row text-center">
+                  <div class="col-lg-12 col-md-12 col-12">
+                     <div class="tp-section">
+                        <h3 class="tp-section__title mb-70">Here are the Benefits of a full body checkup</h3>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-xl-4 col-md-6">
+                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="services-item__icon mb-30">
+                           <i class="flaticon-hemoglobin-test-meter"></i>
+                        </div>
+                        <div class="services-item__content">
+                           <h4 class="services-item__tp-title tp-srv-title mb-30">Early detection of health issues</h4>
+                           <p>
+											A full body checkup allows doctors to screen for various diseases and
 												conditions at an early stage. This helps in early detection and timely
-												treatment, leading to better health outcomes.</p>
+												treatment, leading to better health outcomes.
+											</p>
 											<br>
-											<br>
-										</div>
-									</div>
-									<div class="blogitem__medi">
+											<br>	
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xl-4 col-md-6">
+                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <div class="services-item__icon pink-icon mb-30">
+                           <i class="flaticon-blood-test"></i>
+                        </div>
+                        <div class="services-item__content">
+                           <h4 class="services-item__tp-title tp-srv-title mb-30">Comprehensive assessment</h4>
+                           <p>The checkup involves a series of tests and examinations that cover all major systems of the body. This includes laboratory tests like blood work, urine analysis, and imaging tests like X-rays or ultrasounds. It provides a holistic view of your overall health.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xl-4 col-md-6">
+                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                        <div class="services-item__icon green-icon mb-30">
+                           <i class="flaticon-biochemistry"></i>
+                        </div>
+                        <div class="services-item__content">
+                           <h4 class="services-item__tp-title tp-srv-title mb-30">Personalized health advice</h4>
+                           <p>Based on the results of the checkup, doctors can provide personalized health advice and recommendations. This may include lifestyle modifications, diet changes, exercise routines, and specific preventive measures to address any identified health risks.</p>
+                          <br>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xl-4 col-md-6">
+                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="services-item__icon sky-icon mb-30">
+                           <i class="flaticon-dna-1"></i>
+                        </div>
+                        <div class="services-item__content">
+                           <h4 class="services-item__tp-title tp-srv-title mb-30">Health awareness and education</h4>
+                           <p>Through the checkup process, you gain valuable knowledge about your own health status. Doctors can explain any health concerns or abnormalities found during the checkup, which helps you understand your body and take charge of your well-being.
 
-									</div>
-								</div>
-								<div class="blogitem__title-area p-relative">
-									<div class="blog-item__date-info mb-15">
-
-									</div>
-
-									<div class="tp-blog__btn blog-bg-btn">
-									</div>
-								</div>
-							</div>
+</p>
+<br>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xl-4 col-md-6">
+                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <div class="services-item__icon mb-30">
+                           <i class="flaticon-bacteria"></i>
+                        </div>
+                        <div class="services-item__content">
+                           <h4 class="services-item__tp-title tp-srv-title mb-30">Peace of mind</h4>
+                           <p>Knowing that you have undergone a thorough checkup and received a clean bill of health can relieve anxiety and provide peace of mind. It allows you to continue with your daily activities without worrying about any underlying health issues.</p>
+                       <br>
+					   <br>
 						</div>
-					</div>
-				</div>
-				<div class="col-xxl-4 col-lg-4 col-md-6">
-					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
-						data-background="assets/img/blog/blog-thumb-07.jpg"
-						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-						<div class="blogitem" style="background: #dcecf9;">
-							<div class="fix inner-blog-wrap">
-								<div class="blogitem__avata-part">
-									<div class="blogitem__avata">
-
-										<div class="blogitem__avata-content">
-											<div class="" style="padding: 10px 10px;">
-												<img src="assets/img/icon/medical-team.png" alt="">
-											</div>
-											<h5 class="blogitem__title mb-20">Comprehensive assessment</h5>
-											<p>The checkup involves a series of tests and examinations that cover all
-												major systems of the body. This includes laboratory tests like blood
-												work, urine analysis, and imaging tests like X-rays or ultrasounds. It
-												provides a holistic view of your overall health.</p>
-										</div>
-									</div>
-									<div class="blogitem__medi">
-
-									</div>
-								</div>
-								<div class="blogitem__title-area p-relative">
-									<div class="blog-item__date-info mb-15">
-
-									</div>
-
-									<div class="tp-blog__btn blog-bg-btn">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-xxl-4 col-lg-4 col-md-6">
-					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
-						data-background="assets/img/blog/blog-thumb-07.jpg"
-						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-						<div class="blogitem" style="background: #dcecf9;">
-							<div class="fix inner-blog-wrap">
-								<div class="blogitem__avata-part">
-									<div class="blogitem__avata">
-
-										<div class="blogitem__avata-content">
-											<div class="" style="padding: 10px 10px;">
-												<img src="assets/img/icon/medical-team.png" alt="">
-											</div>
-											<h5 class="blogitem__title mb-20">Personalized health advice</h5>
-											<p>Based on the results of the checkup, doctors can provide personalized
-												health advice and recommendations. This may include lifestyle
-												modifications, diet changes, exercise routines, and specific preventive
-												measures to address any identified health risks.</p>
-										</div>
-									</div>
-									<div class="blogitem__medi">
-
-									</div>
-								</div>
-								<div class="blogitem__title-area p-relative">
-									<div class="blog-item__date-info mb-15">
-
-									</div>
-
-									<div class="tp-blog__btn blog-bg-btn">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			
-				<div class="col-xxl-4 col-lg-4 col-md-6">
-					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
-						data-background="assets/img/blog/blog-thumb-07.jpg"
-						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-						<div class="blogitem" style="background: #dcecf9;">
-							<div class="fix inner-blog-wrap">
-								<div class="blogitem__avata-part">
-									<div class="blogitem__avata">
-
-										<div class="blogitem__avata-content">
-											<div class="" style="padding: 10px 10px;">
-												<img src="assets/img/icon/medical-team.png" alt="">
-											</div>
-											<h5 class="blogitem__title mb-20">Peace of mind</h5>
-											<p>Knowing that you have undergone a thorough checkup and received a clean
-												bill of health can relieve anxiety and provide peace of mind. It allows
-												you to continue with your daily activities without worrying about any
-												underlying health issues.</p>
-											<br>
-											<br>
-										</div>
-									</div>
-									<div class="blogitem__medi">
-
-									</div>
-								</div>
-								<div class="blogitem__title-area p-relative">
-									<div class="blog-item__date-info mb-15">
-
-									</div>
-
-									<div class="tp-blog__btn blog-bg-btn">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-xxl-4 col-lg-4 col-md-6">
-					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
-						data-background="assets/img/blog/blog-thumb-07.jpg"
-						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-						<div class="blogitem" style="background: #dcecf9;">
-							<div class="fix inner-blog-wrap">
-								<div class="blogitem__avata-part">
-									<div class="blogitem__avata">
-
-										<div class="blogitem__avata-content">
-											<div class="" style="padding: 10px 10px;">
-												<img src="assets/img/icon/medical-team.png" alt="">
-											</div>
-											<h5 class="blogitem__title mb-20">Preventive measures</h5>
-											<p>A full body checkup can identify risk factors and warning signs for
-												potential future health problems. This gives you the opportunity to take
-												preventive measures before the condition worsens or becomes
-												irreversible. For example, if high cholesterol levels are detected, you
-												can start making lifestyle changes to prevent heart disease.</p>
-										</div>
-									</div>
-									<div class="blogitem__medi">
-
-									</div>
-								</div>
-								<div class="blogitem__title-area p-relative">
-									<div class="blog-item__date-info mb-15">
-
-									</div>
-
-									<div class="tp-blog__btn blog-bg-btn">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-xxl-4 col-lg-4 col-md-6">
-					<div class="blogthumb mb-30 wow fadeInUp" data-wow-delay=".3s"
-						data-background="assets/img/blog/blog-thumb-07.jpg"
-						style="background-image: url(); visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-						<div class="blogitem" style="background: #dcecf9;">
-							<div class="fix inner-blog-wrap">
-								<div class="blogitem__avata-part">
-									<div class="blogitem__avata">
-
-										<div class="blogitem__avata-content">
-											<div class="" style="padding: 10px 10px;">
-												<img src="assets/img/icon/medical-team.png" alt="">
-											</div>
-											<h5 class="blogitem__title mb-20">Health awareness and education</h5>
-											<p>Through the checkup process, you gain valuable knowledge about your own
-												health status. Doctors can explain any health concerns or abnormalities
-												found during the checkup, which helps you understand your body and take
-												charge of your well-being.</p>
-											<br>
-										</div>
-									</div>
-									<div class="blogitem__medi">
-
-									</div>
-								</div>
-								<div class="blogitem__title-area p-relative">
-									<div class="blog-item__date-info mb-15">
-
-									</div>
-
-									<div class="tp-blog__btn blog-bg-btn">
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+                     </div>
+                  </div>
+                  <div class="col-xl-4 col-md-6">
+                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                        <div class="services-item__icon pink-icon mb-30">
+                           <i class="flaticon-dna"></i>
+                        </div>
+                        <div class="services-item__content">
+                           <h4 class="services-item__tp-title tp-srv-title mb-30">Preventive measures</h4>
+                           <p>A full body checkup can identify risk factors and warning signs for potential future health problems. This gives you the opportunity to take preventive measures before the condition worsens or becomes irreversible. For example, if high cholesterol levels are detected, you can start making lifestyle changes to prevent heart disease.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
 	<section style="padding: 150px 0px;">
 		<div class="container">
 			<table class="table">
 				<thead class="thead-light bg-danger fs-3">
 					<tr>
-						<th scope="col">Package Name</th>
-						<th scope="col">Amount</th>
+						<th scope="col" class="text-light">Package Name</th>
+						<th scope="col" class="text-light">Amount</th>
 					</tr>
 				</thead>
 				<tbody class="fs-5 ">
