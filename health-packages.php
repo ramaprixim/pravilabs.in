@@ -1,4 +1,5 @@
-<?php $page="health-packages"; include("header.php") ?>
+<?php $page = "health-packages";
+include("header.php") ?>
 <style>
 	.table>:not(caption)>*>* {
 		padding: 1.5rem 1rem;
@@ -7,6 +8,7 @@
 		margin-bottom: 0px;
 	}
 </style>
+<!-- rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30p -->
 
 <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay"
 	data-background="assets/img/banner/breadcrumb-01.jpg">
@@ -3295,96 +3297,96 @@
 	</section>
 
 	<section class="services-area pt-120 pb-90 grey-bg" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
-            <div class="container">
-               <div class="row text-center">
-                  <div class="col-lg-12 col-md-12 col-12">
-                     <div class="tp-section">
-                        <h3 class="tp-section__title mb-70">Here are the Benefits of a full body checkup</h3>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-xl-4 col-md-6">
-                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                        <div class="services-item__icon mb-30">
-                           <i class="flaticon-hemoglobin-test-meter"></i>
-                        </div>
-                        <div class="services-item__content">
-                           <h4 class="services-item__tp-title tp-srv-title mb-30">Early detection of health issues</h4>
-                           <p>
+			<div class="container">
+			   <div class="row text-center">
+				  <div class="col-lg-12 col-md-12 col-12">
+					 <div class="tp-section">
+						<h3 class="tp-section__title mb-70">Here are the Benefits of a full body checkup</h3>
+					 </div>
+				  </div>
+			   </div>
+			   <div class="row">
+				  <div class="col-xl-4 col-md-6">
+					 <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+						<div class="services-item__icon mb-30">
+						   <i class="flaticon-hemoglobin-test-meter"></i>
+						</div>
+						<div class="services-item__content">
+						   <h4 class="services-item__tp-title tp-srv-title mb-30">Early detection of health issues</h4>
+						   <p>
 											A full body checkup allows doctors to screen for various diseases and
 												conditions at an early stage. This helps in early detection and timely
 												treatment, leading to better health outcomes.
 											</p>
 											<br>
 											<br>	
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-md-6">
-                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                        <div class="services-item__icon pink-icon mb-30">
-                           <i class="flaticon-blood-test"></i>
-                        </div>
-                        <div class="services-item__content">
-                           <h4 class="services-item__tp-title tp-srv-title mb-30">Comprehensive assessment</h4>
-                           <p>The checkup involves a series of tests and examinations that cover all major systems of the body. This includes laboratory tests like blood work, urine analysis, and imaging tests like X-rays or ultrasounds. It provides a holistic view of your overall health.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-md-6">
-                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                        <div class="services-item__icon green-icon mb-30">
-                           <i class="flaticon-biochemistry"></i>
-                        </div>
-                        <div class="services-item__content">
-                           <h4 class="services-item__tp-title tp-srv-title mb-30">Personalized health advice</h4>
-                           <p>Based on the results of the checkup, doctors can provide personalized health advice and recommendations. This may include lifestyle modifications, diet changes, exercise routines, and specific preventive measures to address any identified health risks.</p>
-                          <br>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-md-6">
-                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                        <div class="services-item__icon sky-icon mb-30">
-                           <i class="flaticon-dna-1"></i>
-                        </div>
-                        <div class="services-item__content">
-                           <h4 class="services-item__tp-title tp-srv-title mb-30">Health awareness and education</h4>
-                           <p>Through the checkup process, you gain valuable knowledge about your own health status. Doctors can explain any health concerns or abnormalities found during the checkup, which helps you understand your body and take charge of your well-being.
+						</div>
+					 </div>
+				  </div>
+				  <div class="col-xl-4 col-md-6">
+					 <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+						<div class="services-item__icon pink-icon mb-30">
+						   <i class="flaticon-blood-test"></i>
+						</div>
+						<div class="services-item__content">
+						   <h4 class="services-item__tp-title tp-srv-title mb-30">Comprehensive assessment</h4>
+						   <p>The checkup involves a series of tests and examinations that cover all major systems of the body. This includes laboratory tests like blood work, urine analysis, and imaging tests like X-rays or ultrasounds. It provides a holistic view of your overall health.</p>
+						</div>
+					 </div>
+				  </div>
+				  <div class="col-xl-4 col-md-6">
+					 <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+						<div class="services-item__icon green-icon mb-30">
+						   <i class="flaticon-biochemistry"></i>
+						</div>
+						<div class="services-item__content">
+						   <h4 class="services-item__tp-title tp-srv-title mb-30">Personalized health advice</h4>
+						   <p>Based on the results of the checkup, doctors can provide personalized health advice and recommendations. This may include lifestyle modifications, diet changes, exercise routines, and specific preventive measures to address any identified health risks.</p>
+						  <br>
+						</div>
+					 </div>
+				  </div>
+				  <div class="col-xl-4 col-md-6">
+					 <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+						<div class="services-item__icon sky-icon mb-30">
+						   <i class="flaticon-dna-1"></i>
+						</div>
+						<div class="services-item__content">
+						   <h4 class="services-item__tp-title tp-srv-title mb-30">Health awareness and education</h4>
+						   <p>Through the checkup process, you gain valuable knowledge about your own health status. Doctors can explain any health concerns or abnormalities found during the checkup, which helps you understand your body and take charge of your well-being.
 
 </p>
 <br>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-md-6">
-                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                        <div class="services-item__icon mb-30">
-                           <i class="flaticon-bacteria"></i>
-                        </div>
-                        <div class="services-item__content">
-                           <h4 class="services-item__tp-title tp-srv-title mb-30">Peace of mind</h4>
-                           <p>Knowing that you have undergone a thorough checkup and received a clean bill of health can relieve anxiety and provide peace of mind. It allows you to continue with your daily activities without worrying about any underlying health issues.</p>
-                       <br>
+						</div>
+					 </div>
+				  </div>
+				  <div class="col-xl-4 col-md-6">
+					 <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+						<div class="services-item__icon mb-30">
+						   <i class="flaticon-bacteria"></i>
+						</div>
+						<div class="services-item__content">
+						   <h4 class="services-item__tp-title tp-srv-title mb-30">Peace of mind</h4>
+						   <p>Knowing that you have undergone a thorough checkup and received a clean bill of health can relieve anxiety and provide peace of mind. It allows you to continue with your daily activities without worrying about any underlying health issues.</p>
+					   <br>
 					   <br>
 						</div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-md-6">
-                     <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                        <div class="services-item__icon pink-icon mb-30">
-                           <i class="flaticon-dna"></i>
-                        </div>
-                        <div class="services-item__content">
-                           <h4 class="services-item__tp-title tp-srv-title mb-30">Preventive measures</h4>
-                           <p>A full body checkup can identify risk factors and warning signs for potential future health problems. This gives you the opportunity to take preventive measures before the condition worsens or becomes irreversible. For example, if high cholesterol levels are detected, you can start making lifestyle changes to prevent heart disease.</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
+					 </div>
+				  </div>
+				  <div class="col-xl-4 col-md-6">
+					 <div class="services-item mb-40 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+						<div class="services-item__icon pink-icon mb-30">
+						   <i class="flaticon-dna"></i>
+						</div>
+						<div class="services-item__content">
+						   <h4 class="services-item__tp-title tp-srv-title mb-30">Preventive measures</h4>
+						   <p>A full body checkup can identify risk factors and warning signs for potential future health problems. This gives you the opportunity to take preventive measures before the condition worsens or becomes irreversible. For example, if high cholesterol levels are detected, you can start making lifestyle changes to prevent heart disease.</p>
+						</div>
+					 </div>
+				  </div>
+			   </div>
+			</div>
+		 </section>
 	<section style="padding: 150px 0px;">
 		<div class="container">
 			<table class="table">
@@ -3397,239 +3399,239 @@
 				<tbody class="fs-5 ">
 					<tr>
 						<td>Full Body Checkup Package - Basic</td>
-						<td>₹ 2,000.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Full Body Checkup Package - Advance</td>
-						<td>₹ 3,333.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Full Body Checkup Package - Exclusive</td>
-						<td>₹ 4,659.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Full Body Checkup Package - Comprehensive</td>
-						<td>₹ 5,959.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Obesity Panel-Basic</td>
-						<td>₹ 1,719.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Obesity Panel-Advance</td>
-						<td>₹ 6,319.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Fever Panel-Basic</td>
-						<td>₹ 699.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Fever Panel-Advance</td>
-						<td>₹ 899.00</td>
+						<td>------</td>
 					</tr>
 					<tr>
 						<td>Fever Panel-Exclusive</td>
-						<td>₹ 1,299.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Fever Panel-Comprehensive</td>
-						<td>₹ 2,499.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Infections Profile</td>
-						<td>₹ 1,199.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Infertility Female Profile-Basic</td>
-						<td>₹ 1,099.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Infertility Female Profile-Advance</td>
-						<td>₹ 1,499.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Infertility Female Profile-Exclusive</td>
-						<td>₹ 4,099.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Covid Severity Profile</td>
-						<td>₹ 3,999.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Covid Recovery Panel</td>
-						<td>₹ 4,499.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Infertility Female Profile-Comprehensive</td>
-						<td>₹ 2,499.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Infertility Male Profile-1</td>
-						<td>₹ 1,799.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Anemia Profile-Basic</td>
-						<td>₹ 2,499.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Anemia Profile-Advance</td>
-						<td>₹ 2,499.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>STD Detection Package</td>
-						<td>₹ 1,798.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Thyroid Panel Free</td>
-						<td>₹ 899.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Female Hormone Profile With Doctor Consultation</td>
-						<td>₹ 5,000.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Arthritis Profile (For Joints Pain)</td>
-						<td>₹ 2,999.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Thyroid Panel</td>
-						<td>₹ 799.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Fitness Profile-Basic</td>
-						<td>₹ 1,999.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Fitness Profile-Advance</td>
-						<td>₹ 2,999.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Lipid Profile With Doctor Consultation</td>
-						<td>₹ 699.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Cardiac Risk Markers With Doctor Consultation</td>
-						<td>₹ 4,000.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Female Cancer Screening Test With Doctor Consultation</td>
-						<td>₹ 8,500.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Food Intolerance Test - (210+ Foods)</td>
-						<td>₹ 18,000.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Male Cancer Screening With Doctor Consultation</td>
-						<td>₹ 8,500.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Basic Diabetic Screening With Doctor Consultation</td>
-						<td>₹ 2,850.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Comprehensive Female Hormone Profile</td>
-						<td>₹ 3,998.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Arthritis Profile With Doctor Consultation</td>
-						<td>₹ 8,599.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Pelvic Cancer Screening for Women</td>
-						<td>₹ 6,500.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Immunity Check - Basic</td>
-						<td>₹ 4,500.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Brave Heart Package</td>
-						<td>₹ 6,000.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Allergy Screening Package - Basic</td>
-						<td>₹ 1,500.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Well Women Checkup Package</td>
-						<td>₹ 1,080.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Menopause Wellness Packege</td>
-						<td>₹ 800.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Pancreatic Acute Profile Package</td>
-						<td>₹ 1,740.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Dialysis Profile-3 Health Package</td>
-						<td>₹ 2,360.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Hypertension Profile-2 Checkup Package</td>
-						<td>₹ 1,670.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Hepatitis Profile-2 Checkup Package</td>
-						<td>₹ 9,700.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Hirsutism profile-1 Checkup Package</td>
-						<td>₹ 4,960.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Preoperative Profile Health Package</td>
-						<td>₹ 2,120.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Thalassemia Profile Package</td>
-						<td>₹ 2,230.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Executive Cardiac and Health Checkup Screening Package</td>
-						<td>₹ 4,830.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Comprehensive Female Health Checkup Package</td>
-						<td>₹ 1,820.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Comprehensive Male Health Checkup Package</td>
-						<td>₹ 1,530.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Hemoglobin Check Package</td>
-						<td>₹ 3,320.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Kids Health Checkup Plan Package</td>
-						<td>₹ 1,544.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Coagulation Profile Package</td>
-						<td>₹ 1,780.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>GDIC Fever Panel-2 Package</td>
-						<td>₹ 3,210.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>CNC Covid Care Package</td>
-						<td>₹ 6,700.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>Torch IgG and IgM Profile</td>
-						<td>₹ 4,940.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>CNC Champion Health Package</td>
-						<td>₹ 5,469.00</td>
+						<td>---</td>
 					</tr>
 					<tr>
 						<td>CNC Advance Health Package</td>
-						<td>₹ 5,781.00</td>
+						<td>---</td>
 					</tr>
 				</tbody>
 			</table>
