@@ -3387,8 +3387,8 @@
          </section>
 	<section style="padding: 150px 0px;">
 		<div class="container">
-			<table class="table">
-				<thead class="thead-light bg-danger fs-3">
+			<table class="table table-striped" style="border: 2px solid #283779;">
+				<thead class="thead-light fs-3" style="background-color: #283779;">
 					<tr>
 						<th scope="col" class="text-light">Package Name</th>
 						<th scope="col" class="text-light">Amount</th>
