@@ -49,9 +49,7 @@
                            </div>
                            <div class="tpcontact__address">
                               <h4 class="tpcontact__title mb-15">Locate us</h4>
-                              <span>Shop 1, JN2, Jai Maharashtra 
-Apartment, Near Mini Market, Vashi, 
-Navi Mumbai - 400703</span>
+                              <span>Shop 1, JN2, Jai Maharashtra Apartment, Near Mini Market, Vashi, Navi Mumbai - 400703</span>
                            </div>
                         </div>
                      </div>
