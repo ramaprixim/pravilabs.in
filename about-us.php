@@ -68,10 +68,11 @@ include("header.php") ?>
 <section class="about-area tp-common-area pt-130 pb-70">
    <div class="container">
       <div class="row">
-         <span class="tp-section__sub-title left-line mb-25">About Us</span>
-         <h3 class="tp-section__title about-title mb-30">Guiding Your Path to <br>Wellness </h3>
+        
          <div class="col-xl-6">
-            <p class=" mr-20 mb-45 text-center">Pravilabs, the diagnostic center, is known for its exceptional patient
+         <span class="tp-section__sub-title left-line mb-25">About Us</span>
+         <h3 class=" about-title mb-30">Guiding Your Path to <br>Wellness </h3>
+            <p class=" mr-20 mb-45">Pravilabs, the diagnostic center, is known for its exceptional patient
                care and state-of-the-art facilities. These attributes have positioned them as one of the
                most reputable diagnostic centers in the India. Pravilabs offers a wide range of diagnostic
                tests, ranging from basic screenings to advanced tests in molecular pathology, cytogenetics,
@@ -110,6 +111,7 @@ include("header.php") ?>
             </div>
          
          <div class="col-lg-6">
+         <h3 class=" about-title mb-30">Pravilabs Where Precision Meets Care</h3>
             <P>Pravilabs has cultivated a loyal customer base, a testament to their brand's strength in
                delivering high-quality diagnostic tests and services. Their commitment to elevating
                standards in diagnostic accuracy, cutting-edge technology, customer satisfaction, and
@@ -134,7 +136,7 @@ include("header.php") ?>
 
 
 
-<section class="nav-area tp-common-area pt-130 pb-80">
+<section class="nav-area tp-common-area pt-80 pb-80">
    <div class="container">
 
       <ul class="nav tp-nav-tavs mb-70" id="myTab" role="tablist">

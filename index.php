@@ -4,12 +4,12 @@
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
    }
-   .l1:before{
+   .l1{
     color: #fff;
    }
-   .l2:before{
+   .l2{
     color:#fff;
-   }
+   } 
   
    
  
@@ -3633,7 +3633,7 @@
                         <div class="tp-about__content mb-50 wow fadeInLeft" data-wow-delay=".3s">
                            <div class="tp-section">
                               <span class="tp-section__sub-title left-line mb-25">About Us</span>
-                              <h3 class="tp-section__title about-title mb-13">Guiding Your Path to Wellness
+                              <h3 class=" about-title mb-13">Guiding Your Path to Wellness
 
                               </h3>
                               
@@ -3641,7 +3641,7 @@
                               </p>
                            </div>
                            <div class="tp-about__info-list mb-55">
-                            <h3 class="tp-section__title about-title mb-13">
+                            <h3 class=" about-title mb-13">
                               Your Most Trusted Healthcare Partner! 
 
                             </h3>
@@ -3762,18 +3762,21 @@
 
            <section class="team-area grey-bg pt-120 pb-80" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
             <div class="container">
+              <div class="tp-section">
+                <!-- <span class="tp-section__sub-title left-line mb-25">Our Team</span> -->
+                <h3 class="tp-section__title mb-75">Popular Test</h3>
+             </div>
                <div class="row align-items-center">
                   <div class="col-lg-8 col-md-8 col-12">
-                     <div class="tp-section">
-                        <!-- <span class="tp-section__sub-title left-line mb-25">Our Team</span> -->
-                        <h3 class="tp-section__title mb-75">Popular Test</h3>
-                     </div>
+                    
                   </div>
                   <div class="col-lg-4 col-md-4 col-12">
                      <div class="tp-team-arrow d-flex align-items-center">
-                        <div class="team-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-left" style="background-color: #283779;"></i></div>
-                        <div class="team-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-right" style="background-color: #283779;"></i></div>
-                     </div>
+                        <div class="team-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-left"></i></div>
+                        <div class="team-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-eaef78d9336ba193"><i class="fa-regular fa-arrow-right"></i></div>
+                   
+                      </div>
+                      <br>
                   </div>
                </div>
                <div class="swiper-container team-active wow fadeInUp swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
