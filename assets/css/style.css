@@ -1201,11 +1201,11 @@ input[type=color] {
 }
 
 .header-time {
-  text-align: right;
+  text-align:cenetr;
 }
 .header-time span {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 600;
   color: var(--tp-text-2);
   margin-left: 50px;
@@ -1218,7 +1218,7 @@ input[type=color] {
   }
 }
 .header-time span i {
-  color: var(--tp-text-body);
+  color: #ff0123;
   font-size: 14px;
   margin-right: 8px;
 }
@@ -2940,6 +2940,7 @@ input[type=color] {
 
 .tp-services-item {
   padding: 33px;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .tp-services-item {
@@ -4354,6 +4355,7 @@ div.tp-srv-link a {
   margin-right: 20px;
 }
 .tp-team-arrow i {
+ 
   display: inline-block;
   height: 50px;
   width: 50px;
@@ -8648,4 +8650,10 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 400;
   font-size: 31px;
   line-height: 1.32;
+}
+.tp-ab-img .tp-ab-main-img img{
+  height: 500px;
+}
+.tp-team__content{
+  height: 300px;
 }

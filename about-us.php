@@ -1,5 +1,4 @@
 <?php $page="about-us"; include("header.php") ?>
-<!-- breadcrumb-area -->
 <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay"
     data-background="assets/img/banner/breadcrumb-01.jpg">
     <div class="container">
@@ -11,13 +10,12 @@
             </div>
             <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                 <div class="tp-breadcrumb__link text-xl-end">
-                    <span>PRAVILABS : <a href="team-details.html"> About Us</a></span>
+                    <span>PRAVILABS : <a href="#"> About Us</a></span>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- about-area -->
 <section class="about-area tp-common-area pt-130 pb-70">
     <div class="container">
         <div class="row">
@@ -68,7 +66,7 @@
 
 <section class="nav-area tp-common-area pt-130 pb-80">
             <div class="container">
-               <!-- nab-and-tabs -->
+               
                <ul class="nav tp-nav-tavs mb-70" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
                   <button class="nav-link" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="false" tabindex="-1">Our Vision</button>
@@ -156,11 +154,6 @@
                      </div>
                   </div>
                </div>
-               
-               <!-- nab-and-tabs-end -->
             </div>
          </section>
-<!-- about-area-end -->
-<!-- about-area -->
-
 <?php include("footer.php") ?>

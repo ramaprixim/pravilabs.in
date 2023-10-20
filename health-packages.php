@@ -7,8 +7,7 @@
 		margin-bottom: 0px;
 	}
 </style>
-<!-- breadcrumb-area-end -->
-<!-- breadcrumb-area -->
+
 <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay"
 	data-background="assets/img/banner/breadcrumb-01.jpg">
 	<div class="container">
@@ -20,7 +19,7 @@
 			</div>
 			<div class="col-xl-5 col-lg-12 col-md-12 col-12">
 				<div class="tp-breadcrumb__link text-xl-end">
-					<span>PRAVILABS: <a href="team-details.html"> HEALTH Packages</span>
+					<span>PRAVILABS: <a href="#"> HEALTH Packages</span>
 				</div>
 			</div>
 		</div>
@@ -973,32 +972,13 @@
 						<p class="title">Covid Severity Profile<br> <br></p>
 						<p class="info">Includes: 35 Parameters</p>
 						<ul class="features">
-							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
-								<span></span>
+							<li><span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg> 
-							 </span> -->
+								
 								<span></span>
 							</li>
-							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
-								<br> <br> <br>
+							<li><br> <br> <br>
 								<span></span>
 							</li>
 
@@ -1036,30 +1016,15 @@
 						<p class="info">Includes: 65 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+							
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<br> <br> <br>
 								<span></span>
 							</li>
@@ -1902,30 +1867,15 @@
 						<p class="info">Includes: 3 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -1964,30 +1914,15 @@
 						<p class="info">Includes: 6 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2026,30 +1961,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 
@@ -2087,30 +2007,15 @@
 						<p class="info">Includes: 6 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2149,30 +2054,15 @@
 						<p class="info">Includes: 4 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span>  -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<br>
 								<span></span>
 							</li>
@@ -2222,21 +2112,11 @@
 								<span>Female infertility profile</span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2286,21 +2166,11 @@
 								<span>Arthritis Profile</span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 
@@ -2338,30 +2208,15 @@
 						<p class="info">Includes: 6 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<br>
 								<span></span>
 							</li>
@@ -2400,30 +2255,15 @@
 						<p class="info">Includes: 7 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2462,30 +2302,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2524,30 +2349,15 @@
 						<p class="info">Includes: 0 Parameters </p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2586,30 +2396,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2648,30 +2443,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2710,30 +2490,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2772,30 +2537,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2834,30 +2584,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2896,30 +2631,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -2958,30 +2678,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3020,30 +2725,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3082,30 +2772,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3144,30 +2819,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3206,30 +2866,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3268,30 +2913,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3330,30 +2960,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3392,30 +3007,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3454,30 +3054,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3516,30 +3101,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>
@@ -3578,30 +3148,15 @@
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 								<span></span>
 							</li>
 							<li>
-								<!-- <span class="icon">
-								<svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								   <path d="M0 0h24v24H0z" fill="none"></path>
-								   <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-								</svg>
-							 </span> -->
+								
 
 								<span></span>
 							</li>

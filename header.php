@@ -22,9 +22,8 @@
    <link rel="stylesheet" href="assets/css/meanmenu.css">
    <link rel="stylesheet" href="assets/css/style.css">
    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Days+One&display=swap" rel="stylesheet">
-   
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Days+One&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -81,7 +80,7 @@
                      </div>
                   </div>
                   <div class="col-lg-3">
-                     <div class="header-cart-order d-flex align-items-center justify-content-end">
+                     <div class="header-cart-order d-flex align-items-center ">
                         <a class="header-bottom-btn" href="contact-us.php">Book Appointment</a>
                      </div>
                   </div>
@@ -90,9 +89,7 @@
          </div>
       </div>
    </header>
-   <!-- header-area-end -->
-
-   <!-- tp-mobile-header-area start -->
+   
    <div id="header-mob-sticky" class="tp-mobile-header-area pt-15 pb-15 d-xl-none">
       <div class="container">
          <div class="row align-items-center">
@@ -125,9 +122,6 @@
          </div>
       </div>
    </div>
-   <!-- tp-mobile-header-area end -->
-
-   <!-- sidebar-info -->
    <div class="tpsideinfo tp-side-info-area">
       <button class="tpsideinfo__close"><i class="fal fa-times"></i></button>
       <div class="tpsideinfo__logo mb-40">
@@ -142,9 +136,5 @@
          <a href="#"><i class="fa-brands fa-skype"></i></a>
       </div>
    </div>
-   <!-- sidebar-info-end -->
-
    <div class="body-overlay"></div>
-
-   <!-- main-area -->
    <main>
