@@ -67,8 +67,8 @@
                               </li>
                               <li class=""><a class="<?php if($page=='health-packages') {echo 'active';} ?>" href="health-packages.php">Health Packages</a>
                               </li>
-                              <li><a href="test.php">Tests</a></li>
-                              <li class=""><a href="our-partners.php">Our Partners</a>
+                              <li><a href="#">Tests</a></li>
+                              <li class=""><a href="#">Our Partners</a>
                               </li>
                               <li><a href="contact-us.php"
                                     class="nav-link <?php if($page=='contact-us') {echo 'active';} ?>">Contact Us</a>
@@ -100,22 +100,7 @@
             </div>
             <div class="col-md-8 col-2">
                <div class="tp-mobile-bar d-flex align-items-center justify-content-end">
-                  <div class="tp-bt-btn-banner d-none d-md-block d-xl-none mr-30">
-                     <a class="tp-bt-btn" href="tel:123456">
-                        <svg width="14" height="19" viewBox="0 0 14 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                           <circle cx="2" cy="2" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="2" r="2" fill="#FF0123" />
-                           <circle cx="12" cy="2" r="2" fill="#FF0123" />
-                           <circle cx="12" cy="7" r="2" fill="#FF0123" />
-                           <circle cx="12" cy="12" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="7" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="12" r="2" fill="#FF0123" />
-                           <circle cx="7" cy="17" r="2" fill="#FF0123" />
-                           <circle cx="2" cy="7" r="2" fill="#FF0123" />
-                           <circle cx="2" cy="12" r="2" fill="#FF0123" />
-                        </svg><span>Help Desk :</span>+91 9137655589
-                     </a>
-                  </div>
+                
                   <button class="tp-menu-toggle"><i class="far fa-bars"></i></button>
                </div>
             </div>

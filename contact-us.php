@@ -1,3 +1,77 @@
+<?php 
+if(isset($_POST['email'])) {
+ 
+    
+    $email_to = "khushbu.prixim@gmail.com";
+    
+    $email_subject = "Get In Touch";
+ 
+    function died($error) {
+        echo "We are very sorry, but there were error(s) found with the form you submitted. ";
+        echo "These errors appear below.<br /><br />";
+        echo $error."<br /><br />";
+        echo "Please go back and fix these errors.<br /><br />";
+        die();
+    }
+ 
+ 
+    if(!isset($_POST['name']) ||
+        !isset($_POST['phone']) ||
+        !isset($_POST['email']) ||
+        !isset($_POST['subject']) ||
+        !isset($_POST['message'])) {
+        died('We are sorry, but there appears to be a problem with the form you submitted.');       
+    }
+ 
+
+     
+    $name = $_POST['name']; 
+    $phone = $_POST['phone']; 
+    $email_from = $_POST['email']; 
+    $subject = $_POST['subject']; 
+    $comments = $_POST['message']; 
+    $ip = $_SERVER['REMOTE_ADDR']; 
+
+    $email_message = "Form details below.\n\n";
+ 
+     
+    function clean_string($string) {
+      $bad = array("content-type","bcc:","to:","cc:","href");
+      return str_replace($bad,"",$string);
+    }
+ 
+    $email_message .= "Senders IP: ".clean_string($ip)."\n\n"; 
+    $email_message .= "Name: ".clean_string($name)."\n";
+    $email_message .= "Phone: ".clean_string($phone)."\n";
+    $email_message .= "Email: ".clean_string($email_from)."\n";
+    $email_message .= "Suject: ".clean_string($subject)."\n";
+    $email_message .= "Message: ".clean_string($comments)."\n";
+    
+      
+    
+$headers = 'From: noreply@pravilabs.in'."\r\n";
+'Reply-To: '.$email_from."\r\n" .
+'X-Mailer: PHP/' . phpversion();
+
+if (@mail($email_to, $email_subject, $email_message, $headers))
+	  {
+         ?>
+    	<script language="javascript" type="text/javascript">
+    		alert('Thank you for the message. We will contact you shortly.');
+    		window.location = 'index.php';
+    	</script>
+    <?php
+    }
+    else { ?>
+    	<script language="javascript" type="text/javascript">
+    		alert('Message failed. Please, send an email to  care@pravilabs.in');
+    		window.location = history.back();
+    	</script>
+    <?php
+    }
+   }
+?>
+
 <?php $page="contact-us"; include("header.php") ?>       
 <main>
    <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay" data-background="assets/img/banner/breadcrumb-01.jpg">
@@ -58,21 +132,21 @@
                      <div class="contactform wow fadeInRight" data-wow-delay=".4s">
                         <h4 class="contactform__title mb-35">Drop Your Details Below</h4>
                         <div class="contactform__list mb-60">
-                           <form id="contact-form" action="#" method="post">
+                           <form action=" " method="post">
                               <div class="row">
                                  <div class="col-lg-6">
                                     <div class="contactform__input mb-30">
-                                       <input name="name" type="text" placeholder="Enter your Name">
+                                       <input name="name" type="text" placeholder="Enter your Name*" required>
                                     </div>
                                  </div>
                                  <div class="col-lg-6">
                                     <div class="contactform__input mb-30">
-                                       <input name="email" type="email" placeholder="Enter your mail">
+                                       <input name="email" type="email" placeholder="Enter your mail*" required>
                                     </div>
                                  </div>
                                  <div class="col-lg-6">
                                     <div class="contactform__input mb-30">
-                                       <input name="number" type="text" placeholder="Enter your number">
+                                       <input name="phone" type="text" placeholder="Enter your number*" required>
                                     </div>
                                  </div>
                                  <div class="col-lg-6">
@@ -87,20 +161,14 @@
                                  </div>
                                  <div class="col-lg-12">
                                     <div class="contactform__input mb-30-btn">
-                                       <button type="submit" class="tp-btn">Send Massage</button>
+                                       <button type="submit" name="submit" value="submit" class="tp-btn">Send Massage</button>
                                     </div>
-                                    <p class="ajax-response"></p>
+                                   
                                  </div>
                               </div>
                            </form>
                         </div>
-                        <div class="row">
-                           <div class="col-lg-12">
-                              <div class="tpcontactmap">
-                                 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d56215.718841453985!2d-0.19959027821222705!3d51.48739183082915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1slondon%20eye!5e0!3m2!1sen!2sbd!4v1656749326947!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                              </div>
-                           </div>
-                        </div>
+                     
                      </div>
                   </div>
                </div>
