@@ -3833,7 +3833,7 @@
            <section class="services-area pt-120 pb-75">
             <div class="container">
               <div class="d-flex justify-content-center">
-                <h2 class="tp-section__title mb-75">Our Expertise</h2>
+                <h2 class="tp-section__title">Our Expertise</h2>
                </div>
                <div class="row align-items-end  mb-45">
                   <div class="col-lg-5 col-md-12 col-12">

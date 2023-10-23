@@ -8660,6 +8660,21 @@ p.checkout-coupon input[type=text]:focus {
 .tp-ab-img .tp-ab-main-img img{
   height: 380px;
 }
+@media only screen and (max-width:991px)
+{
+  .tp-ab-main-img img{
+    width:520px;
+    height:665px !important;
+  }
+}
 .tp-team__content{
   height: 300px;
+}
+@media screen and (max-width:991px){
+  
+  .mt-100 {
+  display: flex;
+  flex-direction: column-reverse;
+}
+  
 }
