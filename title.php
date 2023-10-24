@@ -7,13 +7,40 @@ switch($title){
         $keywords = "";
        
        break;
+
+    case 'about-us.php':
+        $title = "";
+        $description = "";
+        $keywords = "";
+       
+       break;
+    case 'add-test.php':
+        $title = "";
+        $description = "";
+        $keywords = "";
+       
+       break;
+
+    case 'health-packages.php':
+        $title = "";
+        $description = "";
+        $keywords = "";
+       
+        break;
        
     case 'contact-us.php':
         $title = "";
         $description = "";
         $keywords = "";
        
-        break;    
+        break;
+
+    case 'test.php':
+            $title = "";
+            $description = "";
+            $keywords = "";
+        
+            break;    
         
     case 'privacy-policy.php':
         $title = "";

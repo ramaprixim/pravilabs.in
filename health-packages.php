@@ -1,5 +1,4 @@
-<?php $page = "health-packages";
-include("header.php") ?>
+<?php $page = "health-packages"; include("header.php") ?>
 <style>
 	.table>:not(caption)>*>* {
 		padding: 1.5rem 1rem;
@@ -8,8 +7,6 @@ include("header.php") ?>
 		margin-bottom: 0px;
 	}
 </style>
-<!-- rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30p -->
-
 <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay"
 	data-background="assets/img/banner/breadcrumb-01.jpg">
 	<div class="container">
@@ -27,7 +24,6 @@ include("header.php") ?>
 		</div>
 	</div>
 </section>
-
 <section style="padding-top: 100px;">
 	<div class="container">
 		<div class="row">

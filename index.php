@@ -10,14 +10,9 @@
    .l2{
     color:#fff;
    } 
-  
-   
- 
-   
 </style>
-      <div class="body-overlay"></div>             
-
-      <section class="slider-area slider-tp-top pt-100 p-relative">
+<div class="body-overlay"></div>
+<section class="slider-area slider-tp-top pt-100 p-relative">
         <div class="swiper-container tp-slider slider-active swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
            <div class="swiper-wrapper" id="swiper-wrapper-3115ede7d3524e87" aria-live="off" style="transition-duration: 0ms;"><div class="swiper-slide bg-white swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="1 / 4" style="width: 1903px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
                  <div class="container">
@@ -870,32 +865,11 @@
                         <p class="title">Covid Severity Profile<br> <br></p>
                         <p class="info">Includes: 35 Parameters</p>
                         <ul class="features">
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg> 
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <br> <br> <br>
+                          <li><br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -919,7 +893,8 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
@@ -929,32 +904,11 @@
                         <p class="title">Covid Recovery Panel<br><br></p>
                         <p class="info">Includes: 65 Parameters</p>
                         <ul class="features">
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <br> <br> <br>
+                          <li><br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -1558,7 +1512,7 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item"><div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
@@ -1687,32 +1641,17 @@
                         <br>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br> <br>
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                        
                             <span></span>
                           </li>
@@ -1749,30 +1688,15 @@
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1811,30 +1735,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1870,30 +1779,15 @@
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1929,30 +1823,15 @@
                         <p class="info">Includes: 4 Parameters</p>
                         <ul class="features">
                           <li>
-                             <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span>  -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1997,21 +1876,11 @@
                             <span>Female infertility profile</span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <br> <br> 
                             <span></span>
                           </li>
@@ -2056,21 +1925,11 @@
                             <span>Arthritis Profile</span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <br> <br>
                             <span></span>
                           </li>
@@ -2106,30 +1965,15 @@
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -2165,30 +2009,15 @@
                         <p class="info">Includes: 7 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                           <br><br><br>
                             <span></span>
                           </li>
@@ -2224,30 +2053,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2283,30 +2097,15 @@
                         <p class="info">Includes: 0 Parameters	</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2342,30 +2141,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2401,30 +2185,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2460,30 +2229,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2519,30 +2273,11 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
-                          </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2578,30 +2313,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2637,30 +2357,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2696,30 +2401,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2755,30 +2445,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2814,30 +2489,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2873,30 +2533,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2932,30 +2577,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2991,30 +2621,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3050,30 +2665,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3109,30 +2709,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3168,30 +2753,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3227,30 +2797,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3853,7 +3408,7 @@
                           <img src="assets/img/Comprehensive Test Menu.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Comprehensive Test Menu</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Comprehensive Test Menu</a></h5>
                            <p>We provide a wide variety of medical tests that cover different areas of health.</p>
                       <br>
                           </div>
@@ -3865,7 +3420,7 @@
                           <img src="assets/img/Convenience and Accessibility.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Convenience and Accessibility</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Convenience and Accessibility</a></h5>
                            <p>We aim to offer top-notch services close to your location, all at affordable prices.</p>
                        <br>
                           </div>
@@ -3877,7 +3432,7 @@
                           <img src="assets/img/Customer-Centric Approach.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Customer-Centric Approach</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Customer-Centric Approach</a></h5>
                            <p>We put our customers at the center of everything we do and therefore treat them as our primary value</p>
                         </div>
                      </div>
@@ -3888,7 +3443,7 @@
                           <img src="assets/img/Quality and Accuracy.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Quality and Accuracy</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Quality and Accuracy</a></h5>
                            <p>Quality is incredibly important to us. Our labs are certified by NABL and CAP, which are trusted organizations for testing and calibration</p>
                        <br>
                        <br>
@@ -3901,7 +3456,7 @@
                           <img src="assets/img/Home Sample Collection.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Home Sample Collection</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Home Sample Collection</a></h5>
                            <p>Our website and mobile app make it easy for you to book and get your test reports, whether you're using a computer or a phone. After we collect your samples, we quickly take them to our own labs for testing.</p>
                         </div>
                      </div>
@@ -3912,7 +3467,7 @@
                           <img src="assets/img/Embracing Innovation.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Embracing Innovation</a></h5> 
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Embracing Innovation</a></h5> 
                            <p>We have a special group of doctors who work hard to make sure we use the latest technology, tests, quality checks, and processes in every test we perform.</p>
                         <br>
                         <br>

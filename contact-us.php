@@ -112,7 +112,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                            </div>
                            <div class="tpcontact__address">
                               <h4 class="tpcontact__title mb-15">Call us on</h4>
-                              <span><a href="tel:+91 9137655589">+91 9137655589</a></span>
+                              <span><a href="tel:+919137655589">+91 9137655589</a></span>
                            </div>
                         </div>
                      </div>
