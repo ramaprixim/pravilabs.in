@@ -5307,7 +5307,7 @@ div.tp-srv-link a {
 }
 .tp-blog__content {
   padding: 30px;
-  border: 1px solid var(--tp-border-primary);
+  /* border: 1px solid var(--tp-border-primary); */
   border-radius: 0 0 5px 5px;
 }
 @media (max-width: 767px) {
