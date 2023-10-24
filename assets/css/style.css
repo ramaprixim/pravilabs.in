@@ -8361,6 +8361,16 @@ p.checkout-coupon input[type=text]:focus {
 @media (max-width: 770px) {
   #carousel-vp {
     width: 510px;
+    height: 440px;
+  }
+  .cCarousel-item{
+    height: 470px !important;
+  }
+  .tp-section__title{
+    margin-top: 50px;
+  }
+  .plan{
+    height: 480px !important;
   }
 }
 
