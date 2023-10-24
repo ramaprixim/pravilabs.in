@@ -1,6 +1,4 @@
-zia
-<?php $page = "about-us";
-include("header.php") ?>
+<?php $page = "about-us"; include("header.php") ?>
 <section class="breadcrumb__area pt-100 pb-120 breadcrumb__overlay"
    data-background="assets/img/banner/breadcrumb-01.jpg">
    <div class="container">
@@ -18,54 +16,6 @@ include("header.php") ?>
       </div>
    </div>
 </section>
-<!-- <section class="about-area tp-common-area pt-130 pb-70">
-    <div class="container">
-        <div class="row">
-               <div class="col-xl-6 col-lg-6 col-12">
-                 <div class="tp-about__content mb-50 wow fadeInLeft" data-wow-delay=".3s">
-                    <div class="tp-section">
-                        <span class="tp-section__sub-title left-line mb-25">About Us</span>
-                        <h3 class="tp-section__title about-title mb-30">Guiding Your Path to <br>Wellness </h3>
-                        <p class=" mr-20 mb-45">Pravilabs, the diagnostic center, is known for its exceptional patient
-                            care and state-of-the-art facilities. These attributes have positioned them as one of the
-                            most reputable diagnostic centers in the India. Pravilabs offers a wide range of diagnostic
-                            tests, ranging from basic screenings to advanced tests in molecular pathology, cytogenetics,
-                            histopathology, and hematology. This comprehensive range ensures that we can provide
-                            top-notch diagnostic, prognostic, and monitoring services to other pathology labs,
-                            hospitals, and patients.
-                        </p>
-                        <P>Pravilabs has cultivated a loyal customer base, a testament to their brand's strength in
-                            delivering high-quality diagnostic tests and services. Their commitment to elevating
-                            standards in diagnostic accuracy, cutting-edge technology, customer satisfaction, and
-                            research-driven compassionate service has made them a key player in the industry.
-                        
-                        Recognizing that accurate diagnosis is a crucial part of a patient's healthcare journey,
-                            Pravilabs places a strong emphasis on customer-centricity.
-                        
-                        Our core values revolve around adhering to professional ethics and delivering timely,
-                            patient-friendly services with the primary goal of ensuring accurate diagnosis while
-                            upholding principles of compassion, integrity, teamwork, and honesty. Additionally, we offer
-                            on-demand sample home collection services and have plans to leverage artificial intelligence
-                            for diagnostics in the near future.
-                        </P>
-                    </div>
-                    
-                  </div>
-             </div>
-            <div class="col-xl-6 col-lg-6 col-12">
-                <div class="tp-about-thumb tp-3-thumb mb-60 wow fadeInRight" data-wow-delay=".3s">
-                    <div class="tp-ab-img">
-                        <div class="tp-ab-main-img p-relative">
-                            <img src="assets/img/about/about-bg-07.jpg" alt="about-thumb">
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-
 <section class="about-area tp-common-area pt-130 pb-70">
    <div class="container">
       <div class="row">
@@ -82,36 +32,28 @@ include("header.php") ?>
                hospitals, and patients.
             </p>
          </div>
-
-            <div class="col-xl-6 col-lg-6 col-12">
+         <div class="col-xl-6 col-lg-6 col-12">
                <div class="tp-about-thumb tp-3-thumb mb-60 wow fadeInRight" data-wow-delay=".3s">
                   <div class="tp-ab-img">
                      <div class="tp-ab-main-img p-relative ">
                         <img src="assets/img/about/about-bg-07.jpg" alt="about-thumb">
-
                      </div>
                   </div>
                </div>
             </div>
-     
-
-
-      </div>
+         </div>
 
       <div class="row mt-100">
-         
-            <div class="col-xl-6 col-lg-6 col-12">
+         <div class="col-xl-6 col-lg-6 col-12">
                <div class="tp-about-thumb tp-3-thumb mb-60 wow fadeInRight" data-wow-delay=".3s">
                   <div class="tp-ab-img">
                      <div class="tp-ab-main-img p-relative ">
                         <img src="assets/img/about/about-bg-07.jpg" alt="about-thumb">
-
                      </div>
                   </div>
                </div>
             </div>
-         
-         <div class="col-lg-6">
+            <div class="col-lg-6">
          <h3 class=" about-title mb-30">Pravilabs Where Precision Meets Care</h3>
             <P>Pravilabs has cultivated a loyal customer base, a testament to their brand's strength in
                delivering high-quality diagnostic tests and services. Their commitment to elevating
@@ -128,8 +70,6 @@ include("header.php") ?>
                for diagnostics in the near future.
             </P>
          </div>
-
-
       </div>
    </div>
 </section>

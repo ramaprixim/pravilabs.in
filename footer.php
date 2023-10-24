@@ -11,7 +11,7 @@
                                  </div>
                                  <div class="footercontact__content">
                                     <h4 class="text-white">Reg. Office</h4>
-                                    <span class="footercontact__title"><a href="contact.html">807, Realtech Park, Sector 30A, <br>Vashi, Navi Mumbai - 400703 </a></span>
+                                    <span class="footercontact__title"><a href="#">807, Realtech Park, Sector 30A, <br>Vashi, Navi Mumbai - 400703 </a></span>
                                  </div>
                               </div>
                            </div>
@@ -21,8 +21,8 @@
                                     <i class="flaticon-mail"></i>
                                  </div>
                                  <div class="footercontact__content fw-pink-content">
-                                    <a href="care@pravilabs.in">care@pravilabs.in</a>
-                                    <a href="tel:+91 9137655589">+91 9137655589 </a>
+                                    <a href="mailto:care@pravilabs.in">care@pravilabs.in</a>
+                                    <a href="tel:+919137655589">+91 9137655589 </a>
                                  </div>
                               </div>
                            </div>
@@ -45,7 +45,7 @@
                   <div class="col-xl-4 col-lg-4 col-md-6">
                      <div class="footer-widget footer-col-1 mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                         <h4 class="footer-widget__title mb-30">
-                           <a href="index.html"><img src="assets/img/logo/pravi lab LOGO white.png"  alt="logo"></a>
+                           <a href="index.php"><img src="assets/img/logo/pravi lab LOGO white.png"  alt="logo"></a>
                         </h4>
                         <p>Pravilabs aims to revolutionize diagnostic services in India by using the most specialized technologies and innovative services. PraviLabs is fully automated with state-of-the-art equipment, provides a wide range of routine and specialized tests and focuses on quality patient care.
                         </p>
@@ -81,10 +81,10 @@
                         <div class="footer-widget__links">
                            <ul>
                            <ul>
-                           <li><a href="index.php">Terms and Conditions</a></li>
-                           <li><a href="about-us.php">Privacy Policy</a></li>
-                           <li><a href="health-packages.php">Disclaimer</a></li>
-                           <li><a href="tests.php">Copyright</a></li>
+                           <li><a href="terms-and-conditions.php">Terms and Conditions</a></li>
+                           <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                           <li><a href="disclaimer.php">Disclaimer</a></li>
+                           <li><a href="copyright.php">Copyright</a></li>
                            
                         </ul>
                            </ul>

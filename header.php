@@ -74,8 +74,7 @@
                               <li><a href="#">Tests</a></li>
                               <li class=""><a href="#">Our Partners</a>
                               </li>
-                              <li><a href="contact-us.php"
-                                    class="nav-link <?php if($page=='contact-us') {echo 'active';} ?>">Contact Us</a>
+                              <li><a href="contact-us.php" class="nav-link <?php if($page=='contact-us') {echo 'active';} ?>">Contact Us</a>
                               </li>
                               <li class=""><a href="#">Blogs</a>
                               </li>

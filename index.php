@@ -2,7 +2,7 @@
 <?php include("db.php");?>
 
 <style>
-  
+
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
    }
@@ -12,11 +12,18 @@
    .l2{
     color:#fff;
    } 
-
+   .test-by-category{
+    height: 214px;
+   }
+   .services-item1{
+    padding: 24px 10px 13px 50px;
+   }
+   .services-item__tp-title1{
+    font-size: 20px;
+   }
 </style>
-      <div class="body-overlay"></div>             
-
-      <section class="slider-area slider-tp-top pt-100 p-relative">
+<div class="body-overlay"></div>
+<section class="slider-area slider-tp-top pt-100 p-relative">
         <div class="swiper-container tp-slider slider-active swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
            <div class="swiper-wrapper" id="swiper-wrapper-3115ede7d3524e87" aria-live="off" style="transition-duration: 0ms;"><div class="swiper-slide bg-white swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="1 / 4" style="width: 1903px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
                  <div class="container">
@@ -870,32 +877,11 @@
                         <p class="title">Covid Severity Profile<br> <br></p>
                         <p class="info">Includes: 35 Parameters</p>
                         <ul class="features">
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg> 
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <br> <br> <br>
+                          <li><br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -919,7 +905,8 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
@@ -929,32 +916,11 @@
                         <p class="title">Covid Recovery Panel<br><br></p>
                         <p class="info">Includes: 65 Parameters</p>
                         <ul class="features">
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
+                          <li><span></span>
                           </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <br> <br> <br>
+                          <li><br> <br> <br>
                             <span></span>
                           </li>
                           
@@ -1558,7 +1524,7 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item"><div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
@@ -1687,32 +1653,17 @@
                         <br>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br> <br>
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                        
                             <span></span>
                           </li>
@@ -1749,30 +1700,15 @@
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1811,30 +1747,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1870,30 +1791,15 @@
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1929,30 +1835,15 @@
                         <p class="info">Includes: 4 Parameters</p>
                         <ul class="features">
                           <li>
-                             <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span>  -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -1997,21 +1888,11 @@
                             <span>Female infertility profile</span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <br> <br> 
                             <span></span>
                           </li>
@@ -2056,21 +1937,11 @@
                             <span>Arthritis Profile</span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <br> <br>
                             <span></span>
                           </li>
@@ -2106,30 +1977,15 @@
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <br> <br> <br>
                             <span></span>
                           </li>
@@ -2165,30 +2021,15 @@
                         <p class="info">Includes: 7 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                           <br><br><br>
                             <span></span>
                           </li>
@@ -2224,30 +2065,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2283,30 +2109,15 @@
                         <p class="info">Includes: 0 Parameters	</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2342,30 +2153,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2401,30 +2197,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2460,30 +2241,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2519,30 +2285,11 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
-                            <span></span>
-                          </li>
-                          <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2578,30 +2325,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2637,30 +2369,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2696,30 +2413,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2755,30 +2457,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2814,30 +2501,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2873,30 +2545,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2932,30 +2589,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                            
                             <br><br><br>
                             <span></span>
                           </li>
@@ -2991,30 +2633,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3050,30 +2677,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3109,30 +2721,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3168,30 +2765,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3227,30 +2809,15 @@
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                         
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                           
                             <span></span>
                           </li>
                           <li>
-                            <!-- <span class="icon">
-                              <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 0h24v24H0z" fill="none"></path>
-                                 <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
-                              </svg>
-                            </span> -->
+                          
                             <br><br><br>
                             <span></span>
                           </li>
@@ -3354,175 +2921,170 @@
                   </div>
                </div>
             </section>
-            <section class="services-area pt-95 pb-90 grey-bg mt-60 fix" data-background="assets/img/shape/shape-bg-01.png" style="background-image: url(&quot;assets/img/shape/shape-bg-01.png&quot;);">
-               <div class="container">
+
+            <section class="blog-area mt-80 pt-100 pb-100" data-background="assets/img/shape/shape-bg-05.png" style="background-color: #2837791f;">
+              <div class="container">
                 <div class="d-flex justify-content-center">
-                  <h2 class="tp-section__title mb-75">Test By Category</h2>
+                  <h2 class="tp-section__title">Test By Category</h2>
                  </div>
-                  <div class="row align-items-center">
-                     <div class="col-lg-8 col-md-8 col-12">
-                     
-                        <div class="tp-section">
-                          
-                           
-                        </div>
-                     </div>
-                     <div class="col-lg-4 col-md-4 col-12">
-                        <div class="tp-services d-flex align-items-center">
-                           <div class="services-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-cd6c4b2e898989dc"><i class="fa-regular fa-arrow-left"></i></div>
-                           <div class="services-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-cd6c4b2e898989dc"><i class="fa-regular fa-arrow-right"></i></div>
-                        </div>
-                        <br>
-                     </div>
-                  </div>
-                  <div class="services-slider  wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <div class="swiper-container service-active swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
-                        <div class="swiper-wrapper " id="swiper-wrapper-cd6c4b2e898989dc" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-3440px, 0px, 0px);"><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="0" style="width: 400px; margin-right: 30px;" role="group" aria-label="1 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon mb-30">
-                                    <img src="assets/img/heart.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">HEART</a></h4>
-                                  
-                                   
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="1" style="width: 400px; margin-right: 30px;" role="group" aria-label="2 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon pink-icon mb-30">
-                                   <img src="assets/img/kidney.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">KIDENY</a></h4>
-                                   
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="2" style="width: 400px; margin-right: 30px;" role="group" aria-label="3 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon green-icon mb-30">
-                                   <img src="assets/img/blood-test.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">DIABETES</a></h4>
-                                   
-                                    
-                                 </div>
-                              </div>
-                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="3" style="width: 400px; margin-right: 30px;" role="group" aria-label="4 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon sky-icon mb-30">
-                                   <img src="assets/img/liver.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">LIVER</a></h4>
-                                  
-                                    
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="4" style="width: 400px; margin-right: 30px;" role="group" aria-label="5 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon mb-30">
-                                    <img src="assets/img/flu.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">FEVER</a></h4>
-                                 
-                                 
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="5" style="width: 400px; margin-right: 30px;" role="group" aria-label="6 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon pink-icon mb-30">
-                                  <img src="assets/img/supplement.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">VITAMINS</a></h4>
-                                   
-                                 
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="6" style="width: 400px; margin-right: 30px;" role="group" aria-label="7 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon green-icon mb-30">
-                                  <img src="assets/img/thyroid.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">THYROID</a></h4>
-                                   
-                                   
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="7" style="width: 400px; margin-right: 30px;" role="group" aria-label="8 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon sky-icon mb-30">
-                                   <img src="assets/img/mask.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">COVID 19</a></h4>
-                                  
-                                 
-                                 </div>
-                              </div>
-                           </div>
-                        <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="8" style="width: 400px; margin-right: 30px;" role="group" aria-label="9 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon mb-30">
-                                    <img src="assets/img/examination.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">Full Body Health Checkup</a></h4>
-                                 
-                                   
-                                 </div>
-                              </div>
-                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="9" style="width: 400px; margin-right: 30px;" role="group" aria-label="10 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon pink-icon mb-30">
-                                    <img src="assets/img/heart.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">HEART</a></h4>
-                                  
-                                 </div>
-                              </div>
-                           </div><div class="swiper-slide swiper-slide-width" data-swiper-slide-index="10" style="width: 400px; margin-right: 30px;" role="group" aria-label="11 / 12">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon green-icon mb-30">
-                                   <img src="assets/img/kidney.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">KIDENY</a></h4>
-                                  
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide swiper-slide-width" data-swiper-slide-index="11" role="group" aria-label="12 / 12" style="width: 400px; margin-right: 30px;">
-                              <div class="services-item mb-40">
-                                 <div class="services-item__icon sky-icon mb-30">
-                                  <img src="assets/img/liver.png" alt="">
-                                 </div>
-                                 <div class="services-item__content">
-                                    <h4 class="services-item__tp-title mb-30"><a href="#">LIVER</a></h4>
-                                  
-                                  
-                                 </div>
-                              </div>
-                           </div>
-                         
-                       
+                 <div class="row align-items-center">
+                    <div class="col-md-8 col-12">
+                    
+                    </div>
+                    <div class="col-md-4 col-12">
+                       <div class="tp-blog-arrow d-flex align-items-center">
+                          <div class="tp-blog-p" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-7494b10c7586e10db9"><i class="fa-regular fa-arrow-left"></i></div>
+                          <div class="tp-blog-n" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-7494b10c7586e10db9"><i class="fa-regular fa-arrow-right"></i></div>
                       
+                        </div>
+                    </div>
+                 </div>
+                 <br>
+                 <br>
+                 <div class="swiper-container tp-blog-active wow fadeInUp swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                    <div class="swiper-wrapper" id="swiper-wrapper-7494b10c7586e10db9" aria-live="off" style="transform: translate3d(-1760px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                       </div>
+                        <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                            <div class="tp-blog mb-30">
+                              <div class="tp-blog__content">
+                                <div class="services-item services-item1  test-by-category mb-40">
+                                  <div class="services-item__icon sky-icon mb-30">
+                                   <img src="assets/img/liver.png" alt="">
+                                  </div>
+                                  <div class="services-item__content">
+                                     <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">LIVER</a></h4>
+                                  </div>
+                               </div>
+                              </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                          <div class="tp-blog mb-30">
+                            <div class="tp-blog__content">
+                              <div class="services-item services-item1 test-by-category mb-40">
+                                <div class="services-item__icon sky-icon mb-30">
+                                 <img src="assets/img/kidney.png" alt="">
+                                </div>
+                                <div class="services-item__content">
+                                   <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">KIDENY</a></h4>
+                                </div>
+                             </div>
+                            </div>
                           </div>
-                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                      </div>
+                      <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                        <div class="tp-blog mb-30">
+                          <div class="tp-blog__content">
+                            <div class="services-item services-item1 test-by-category mb-40">
+                              <div class="services-item__icon sky-icon mb-30">
+                               <img src="assets/img/heart.png" alt="">
+                              </div>
+                              <div class="services-item__content">
+                                 <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">HEART</a></h4>
+                              </div>
+                           </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                      <div class="tp-blog mb-30">
+                        <div class="tp-blog__content">
+                          <div class="services-item services-item1 test-by-category mb-40">
+                            <div class="services-item__icon sky-icon mb-30">
+                             <img src="assets/img/examination.png" alt="">
+                            </div>
+                            <div class="services-item__content">
+                               <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">Full Body Health Checkup</a></h4>
+                            </div>
+                         </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                    <div class="tp-blog mb-30">
+                      <div class="tp-blog__content">
+                        <div class="services-item services-item1 test-by-category mb-40">
+                          <div class="services-item__icon sky-icon mb-30">
+                           <img src="assets/img/mask.png" alt="">
+                          </div>
+                          <div class="services-item__content">
+                             <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">COVID 19</a></h4>
+                          </div>
+                       </div>
+                      </div>
+                    </div>
+                </div>
+                <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                  <div class="tp-blog mb-30">
+                    <div class="tp-blog__content">
+                      <div class="services-item services-item1 test-by-category mb-40">
+                        <div class="services-item__icon sky-icon mb-30">
+                         <img src="assets/img/thyroid.png" alt="">
+                        </div>
+                        <div class="services-item__content">
+                           <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">THYROID</a></h4>
+                        </div>
+                     </div>
+                    </div>
+                  </div>
+              </div>
+              <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+                <div class="tp-blog mb-30">
+                  <div class="tp-blog__content">
+                    <div class="services-item services-item1 test-by-category mb-40">
+                      <div class="services-item__icon sky-icon mb-30">
+                       <img src="assets/img/supplement.png" alt="">
+                      </div>
+                      <div class="services-item__content">
+                         <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">VITAMINS</a></h4>
+                      </div>
+                   </div>
+                  </div>
+                </div>
+            </div>
+            <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+              <div class="tp-blog mb-30">
+                <div class="tp-blog__content">
+                  <div class="services-item services-item1 test-by-category mb-40">
+                    <div class="services-item__icon sky-icon mb-30">
+                     <img src="assets/img/flu.png" alt="">
+                    </div>
+                    <div class="services-item__content">
+                       <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">FEVER</a></h4>
+                    </div>
+                 </div>
+                </div>
+              </div>
+          </div>
+          <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="1 / 10" style="width: 410px; margin-right: 30px;">
+            <div class="tp-blog mb-30">
+              <div class="tp-blog__content">
+                <div class="services-item services-item1 test-by-category mb-40">
+                  <div class="services-item__icon sky-icon mb-30">
+                   <img src="assets/img/blood-test.png" alt="">
+                  </div>
+                  <div class="services-item__content">
+                     <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">DIABETES</a></h4>
                   </div>
                </div>
-            </section>
+              </div>
+            </div>
+        </div>
+                 
+                      </div>
+                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+              </div>
+           </section>
+
+
+
+
+
+
+
+
+
+
             <section class="testimonial-area testimonial-bg pt-125 pb-130" data-background="" style="background-color:#283779;">
               <div class="container">
                  <div class="row wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -3853,7 +3415,7 @@
                           <img src="assets/img/Comprehensive Test Menu.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Comprehensive Test Menu</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Comprehensive Test Menu</a></h5>
                            <p>We provide a wide variety of medical tests that cover different areas of health.</p>
                       <br>
                           </div>
@@ -3865,7 +3427,7 @@
                           <img src="assets/img/Convenience and Accessibility.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Convenience and Accessibility</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Convenience and Accessibility</a></h5>
                            <p>We aim to offer top-notch services close to your location, all at affordable prices.</p>
                        <br>
                           </div>
@@ -3877,7 +3439,7 @@
                           <img src="assets/img/Customer-Centric Approach.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Customer-Centric Approach</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Customer-Centric Approach</a></h5>
                            <p>We put our customers at the center of everything we do and therefore treat them as our primary value</p>
                         </div>
                      </div>
@@ -3888,7 +3450,7 @@
                           <img src="assets/img/Quality and Accuracy.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Quality and Accuracy</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Quality and Accuracy</a></h5>
                            <p>Quality is incredibly important to us. Our labs are certified by NABL and CAP, which are trusted organizations for testing and calibration</p>
                        <br>
                        <br>
@@ -3901,7 +3463,7 @@
                           <img src="assets/img/Home Sample Collection.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Home Sample Collection</a></h5>
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Home Sample Collection</a></h5>
                            <p>Our website and mobile app make it easy for you to book and get your test reports, whether you're using a computer or a phone. After we collect your samples, we quickly take them to our own labs for testing.</p>
                         </div>
                      </div>
@@ -3912,7 +3474,7 @@
                           <img src="assets/img/Embracing Innovation.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="services-details.html">Embracing Innovation</a></h5> 
+                           <h5 class="services-item__tp-title mb-30"><a href="#">Embracing Innovation</a></h5> 
                            <p>We have a special group of doctors who work hard to make sure we use the latest technology, tests, quality checks, and processes in every test we perform.</p>
                         <br>
                         <br>
@@ -4205,19 +3767,6 @@
                 oldViewportWidth = newViewportWidth;
               }
             }
-            </script>
-            <script>
-               $('#prev1').on('click', function() {
-	$('#cards1').animate({
-	  scrollLeft: '-=500'
-	}, 500, 'swing');
-  });
-  
-  $('#next1').on('click', function() {
-	$('#cards1').animate({
-	  scrollLeft: '+=500'
-	}, 500, 'swing');
-  });
             </script>
 <?php include("footer.php") ?>
         

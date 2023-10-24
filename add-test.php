@@ -8,7 +8,6 @@
     }
     $sql = "INSERT INTO popular_test (`id`, `package_name`, `time`, `test_info`, `price`) VALUES ('', '$packagename', ' $time', ' $testinfo', '$price')";  
     mysqli_query($conn, $sql);   
-    
     mysqli_close($conn);
 ?>
 
