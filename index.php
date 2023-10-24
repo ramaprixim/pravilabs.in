@@ -1,6 +1,8 @@
 <?php $page="home"; include("header.php") ?>
 <?php include("db.php");?>
+
 <style>
+  
    .hero-bg{
       background-image: url(assets/img/banner/hero-bg-01.jpg);
    }
@@ -10,10 +12,7 @@
    .l2{
     color:#fff;
    } 
-  
-   
- 
-   
+
 </style>
       <div class="body-overlay"></div>             
 
@@ -72,6 +71,7 @@
             </div>
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
      </section>
+     
      <section>
       <div class="container-fluid">
         <div id="cCarousel">

@@ -38,22 +38,26 @@
          <div class="header-logo-box">
             <a href="index.php"><img src="assets/img/logo/pravi lab LOGO.png" alt="logo"></a>
          </div>
+
          <div class="header-menu-box">
             <div class="header-menu-top">
                <div class="row align-items-center">
                   <div class="col-lg-4">
                      <div class="header-top-mob">
-                      
+
                      </div>
                   </div>
+
                   <div class="col-lg-8">
                      <div class="header-time">
                         <span><i class="fa-light fa-phone"></i> +91 9137655589</span>
                         <span style="text-transform: lowercase;"> <i class="fa-light fa-envelope"></i> care@pravilabs.in</span>
                      </div>
                   </div>
+                  
                </div>
             </div>
+
             <div class="header-menu-bottom">
                <div class="row">
                   <div class="col-lg-9">
@@ -79,11 +83,13 @@
                         </nav>
                      </div>
                   </div>
+
                   <div class="col-lg-3">
                      <div class="header-cart-order d-flex align-items-center ">
                         <a class="header-bottom-btn" href="contact-us.php">Book Appointment</a>
                      </div>
                   </div>
+
                </div>
             </div>
          </div>
@@ -93,11 +99,11 @@
    <div id="header-mob-sticky" class="tp-mobile-header-area pt-15 pb-15 d-xl-none">
       <div class="container">
          <div class="row align-items-center">
-            <div class="col-md-4 col-10">
+            <d iv class="col-md-4 col-10">
                <div class="tp-mob-logo">
                   <a href="index.php"><img src="assets/img/logo/pravi lab LOGO.png" alt="logo" style="width: 143px;height: 95px;"></a>
                </div>
-            </div>
+            </d>
             <div class="col-md-8 col-2">
                <div class="tp-mobile-bar d-flex align-items-center justify-content-end">
                 
