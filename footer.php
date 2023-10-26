@@ -114,7 +114,22 @@
             </div>
          </div>
 </footer>
-
+<script type="application/ld+json">
+   {
+         "@context": "https://schema.org",
+         "@type": "Organization",
+     "name": "<?php echo $name ?>",
+     "alternateName": "<?php echo $alternateName ?>",
+     "url": "<?php echo $url ?>",
+     "logo": "https://pravilabs.in/assets/img/logo/pravi%20lab%20LOGO.png",
+     "contactPoint": {
+       "@type": "ContactPoint",
+       "telephone": "+91 9137655589",
+       "contactType": "customer service",
+       "availableLanguage": "en"
+     }
+   }
+</script>
 </div>
 <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script src="assets/js/jquery.js"></script>
