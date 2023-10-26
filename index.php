@@ -30,7 +30,7 @@
                     <div class="row align-items-center">
                        <div class="col-lg-6 col-md-12 col-12 order-2 order-lg-1">
                           <div class="slider-content pt-60">
-                             <h2 class="slider-content__title mb-45">Precision Diagnostics for Health Assurance </h2>
+                             <h1 class="slider-content__title mb-45">Precision Diagnostics for Health Assurance </h1>
                              <p>Where science meets care, our dedicated team delivers accurate diagnoses and personalized solutions for your journey to better health and wellness.
                             </p>
                              <div class="slider-content__btn mb-165">
@@ -104,7 +104,7 @@
                                  59% Off
                               </span>
                            </span>
-                           <p class="title">Full Body Checkup Package - <br> Basic</p>
+                           <h3 class="title">Full Body Checkup Package - <br> Basic</h3>
                            <p class="info">Includes: 69 Parameters</p>
                            <ul class="features">
                               <li>
@@ -165,7 +165,7 @@
                                59% Off
                              </span>
                            </span>
-                           <p class="title">Full Body Checkup Package -  <br> Advance</p>
+                           <h3 class="title">Full Body Checkup Package -  <br> Advance</h3>
                            <p class="info">Includes: 81 Parameters</p>
                            <ul class="features">
                              <li>
@@ -225,7 +225,7 @@
                                59% Off
                              </span>
                            </span>
-                           <p class="title">Full Body Checkup Package - <br>Exclusive </p>
+                           <h3 class="title">Full Body Checkup Package - <br>Exclusive </h3>
                            <p class="info">Includes: 82 Parameters</p>
                            <ul class="features">
                              <li>
@@ -285,7 +285,7 @@
                                59% Off
                              </span>
                            </span>
-                           <p class="title">Full Body Checkup Package - <br> Comprehensive</p>
+                           <h3 class="title">Full Body Checkup Package - <br> Comprehensive</h3>
                            <p class="info">Includes: 85 Parameters</p>
                            <ul class="features">
                              <li>
@@ -345,7 +345,7 @@
                                59% Off
                              </span>
                            </span>
-                           <p class="title">Obesity Panel-Basic <br> <br></p>
+                           <h3 class="title">Obesity Panel-Basic <br> <br></h3>
                            <p class="info">Includes: 13 Parameters</p>
                            <ul class="features">
                              <li>
@@ -405,7 +405,7 @@
                                  59% Off
                               </span>
                            </span>
-                           <p class="title">Obesity Panel- <br>Advance</p>
+                           <h3 class="title">Obesity Panel-Advance<br><br></h3>
                            <p class="info">Includes: 16 Parameters</p>
                            <ul class="features">
                               <li>
@@ -464,7 +464,7 @@
                                59% Off
                              </span>
                            </span>
-                           <p class="title">Fever Panel-Basic <br> <br></p>
+                           <h3 class="title">Fever Panel-Basic <br> <br></h3>
                            <p class="info">Includes: 39 Parameters</p>
                            <ul class="features">
                              <li>
@@ -524,7 +524,7 @@
                                59% Off
                              </span>
                            </span>
-                           <p class="title">Fever Panel-Advance <br> <br></p>
+                           <h3 class="title">Fever Panel-Advance <br> <br></h3>
                            <p class="info">Includes: 42 Parameters</p>
                            <ul class="features">
                              <li>
@@ -576,14 +576,15 @@
                         </div>
                       </div>
                    </article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Fever Panel-Comprehensive<br> <br></p>
+                        <h3 class="title">Fever Panel-Comprehensive<br> <br></h3>
                         <p class="info">Includes: 60 Parameters</p>
                         <ul class="features">
                           <li>
@@ -642,7 +643,7 @@
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Infections Profile <br> <br></p>
+                        <h3 class="title">Infections Profile <br> <br></h3>
                         <p class="info">Includes: 5 Parameters</p>
                         <ul class="features">
                           <li>
@@ -693,14 +694,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">			
+                  	<div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Infertility Female Profile-Basic <br> <br></p>
+                        <h3 class="title">Infertility Female Profile-Basic <br> <br></h3>
                         <p class="info">Includes: 3 Parameters</p>
                         <ul class="features">
                           <li>
@@ -751,14 +753,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Infertility Female Profile-<br> Advance</p>
+                        <h3 class="title">Infertility Female Profile-<br> Advance</h3>
                         <p class="info">Includes: 5 Parameters</p>
                         <ul class="features">
                           <li>
@@ -809,14 +812,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Infertility Female Profile-<br>Exclusive</p>
+                        <h3 class="title">Infertility Female Profile-<br>Exclusive</h3>
                         <p class="info">Includes: 9 Parameters</p>
                         <ul class="features">
                           <li>
@@ -867,14 +871,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Covid Severity Profile<br> <br></p>
+                        <h3 class="title">Covid Severity Profile<br> <br></h3>
                         <p class="info">Includes: 35 Parameters</p>
                         <ul class="features">
                           <li><span></span>
@@ -913,7 +918,7 @@
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Covid Recovery Panel<br><br></p>
+                        <h3 class="title">Covid Recovery Panel<br><br></h3>
                         <p class="info">Includes: 65 Parameters</p>
                         <ul class="features">
                           <li><span></span>
@@ -944,14 +949,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Infertility Female Profile-<br>Comprehensive</p>
+                        <h3 class="title">Infertility Female Profile-<br>Comprehensive</h3>
                         <p class="info">Includes: 9 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1002,14 +1008,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Infertility Male Profile-1<br> <br></p>
+                        <h3 class="title">Infertility Male Profile-1<br> <br></h3>
                         <p class="info">Includes: 4 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1060,14 +1067,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Anemia Profile-Basic<br><br></p>
+                        <h3 class="title">Anemia Profile-Basic<br><br></h3>
                         <p class="info">Includes: 33 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1118,14 +1126,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Anemia Profile-Advance<br><br></p>
+                        <h3 class="title">Anemia Profile-Advance<br><br></h3>
                         <p class="info">Includes: 35 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1176,14 +1185,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">STD Detection Package<br><br></p>
+                        <h3 class="title">STD Detection Package<br><br></h3>
                         <p class="info">Includes: 5 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1234,14 +1244,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Thyroid Panel Free<br><br></p>
+                        <h3 class="title">Thyroid Panel Free<br><br></h3>
                         <p class="info">Includes: 3 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1292,14 +1303,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Female Hormone Profile With<br>Doctor Consultation</p>
+                        <h3 class="title">Female Hormone Profile With<br>Doctor Consultation</h3>
                         <p class="info">Includes: 10 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1350,14 +1362,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Arthritis Profile (For Joints Pain)<br><br></p>
+                        <h3 class="title">Arthritis Profile (For Joints Pain)<br></h3>
                         <p class="info">Includes: 39 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1408,14 +1421,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Thyroid Panel<br><br></p>
+                        <h3 class="title">Thyroid Panel<br><br></h3>
                         <p class="info">Includes: 3 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1466,14 +1480,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Fitness Profile-Basic<br><br></p>
+                        <h3 class="title">Fitness Profile-Basic<br><br></h3>
                         <p class="info">Includes: 14 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1531,7 +1546,7 @@
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Fitness Profile-Advance<br><br></p>
+                        <h3 class="title">Fitness Profile-Advance<br><br></h3>
                         <p class="info">Includes: 18 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1582,14 +1597,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Lipid Profile With Doctor<br> Consultation</p>
+                        <h3 class="title">Lipid Profile With Doctor<br> Consultation</h3>
                         <p class="info">Includes: 8 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1648,7 +1664,7 @@
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Cardiac Risk Markers With<br> Doctor Consultation</p>
+                        <h3 class="title">Cardiac Risk Markers With<br> Doctor Consultation</h3>
                         <p class="info">Includes: 3 Parameters</p>
                         <br>
                         <ul class="features">
@@ -1696,7 +1712,7 @@
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Female Cancer Screening Test <br>With Doctor Consultation</p>
+                        <h3 class="title">Female Cancer Screening Test <br>With Doctor Consultation</h3>
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1743,7 +1759,7 @@
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Food Intolerance Test - (210+<br> Foods)</p>
+                        <h3 class="title">Food Intolerance Test - (210+<br> Foods)</h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1787,7 +1803,7 @@
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Male Cancer Screening With <br> Doctor Consultation</p>
+                        <h3 class="title">Male Cancer Screening With <br> Doctor Consultation</h3>
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1824,14 +1840,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Basic Diabetic Screening With  <br>Doctor Consultation</p>
+                        <h3 class="title">Basic Diabetic Screening With  <br>Doctor Consultation</h3>
                         <p class="info">Includes: 4 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1868,14 +1885,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Comprehensive Female<br> Hormone Profile</p>
+                        <h3 class="title">Comprehensive Female<br> Hormone Profile</h3>
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1917,14 +1935,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Arthritis Profile With Doctor<br> Consultation</p>
+                        <h3 class="title">Arthritis Profile With Doctor<br> Consultation</h3>
                         <p class="info">Includes: 25 Parameters</p>
                         <ul class="features">
                           <li>
@@ -1966,14 +1985,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Pelvic Cancer Screening for<br> Women</p>
+                        <h3 class="title">Pelvic Cancer Screening for<br> Women</h3>
                         <p class="info">Includes: 6 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2010,14 +2030,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Immunity Check - Basic<br><br></p>
+                        <h3 class="title">Immunity Check - Basic<br><br></h3>
                         <p class="info">Includes: 7 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2054,14 +2075,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Brave Heart Package<br><br></p>
+                        <h3 class="title">Brave Heart Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2098,14 +2120,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Allergy Screening Package -<br>  Basic</p>
+                        <h3 class="title">Allergy Screening Package -<br>  Basic</h3>
                         <p class="info">Includes: 0 Parameters	</p>
                         <ul class="features">
                           <li>
@@ -2142,14 +2165,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Well Women Checkup Package<br><br></p>
+                        <h3 class="title">Well Women Checkup Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2186,14 +2210,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Menopause Wellness Packege<br><br></p>
+                        <h3 class="title">Menopause Wellness Packege<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2230,14 +2255,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Pancreatic Acute Profile<br> Package</p>
+                        <h3 class="title">Pancreatic Acute Profile<br> Package</h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2274,14 +2300,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Dialysis Profile-3 Health<br>  Package</p>
+                        <h3 class="title">Dialysis Profile-3 Health<br>Package <br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2314,14 +2341,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Hypertension Profile-2 Checkup<br>Package</p>
+                        <h3 class="title">Hypertension Profile-2 Checkup Package</h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2358,102 +2386,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Hepatitis Profile-2 Checkup<br>Package</p>
-                        <p class="info">Includes: 0 Parameters</p>
-                        <ul class="features">
-                          <li>
-                            
-                            <span></span>
-                          </li>
-                          <li>
-                           
-                            <span></span>
-                          </li>
-                          <li>
-                           
-                            <br><br><br>
-                            <span></span>
-                          </li>
-                          
-                        </ul>
-                        <div class="row">
-                          <div class="col-lg-6">
-                            <button class="card-button1 mb-4">know More</button>
-                          </div>
-                          <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                            <h4 class="price-text">---</h4>   
-                          </div>
-                        </div>
-                       
-                        <div class="action action-btn-2">
-                        <a class="card-button" href="#">
-                          Book Now
-                        </a>
-                        <a class="card-button " href="#">
-                         Get a Call Back
-                        </a>
-                        </div>
-                     </div>
-                   </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
-                     <div class="inner">
-                        <span class="pricing">
-                          <span>
-                            59% Off
-                          </span>
-                        </span>
-                        <p class="title">Hirsutism profile-1 Checkup <br>Package</p>
-                        <p class="info">Includes: 0 Parameters</p>
-                        <ul class="features">
-                          <li>
-                          
-                            <span></span>
-                          </li>
-                          <li>
-                           
-                            <span></span>
-                          </li>
-                          <li>
-                           
-                            <br><br><br>
-                            <span></span>
-                          </li>
-                          
-                        </ul>
-                        <div class="row">
-                          <div class="col-lg-6">
-                            <button class="card-button1 mb-4">know More</button>
-                          </div>
-                          <div class="col-lg-6 d-flex justify-content-end align-items-center">
-                            <h4 class="price-text">---</h4>   
-                          </div>
-                        </div>
-                       
-                        <div class="action action-btn-2">
-                        <a class="card-button" href="#">
-                          Book Now
-                        </a>
-                        <a class="card-button " href="#">
-                         Get a Call Back
-                        </a>
-                        </div>
-                     </div>
-                   </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
-                     <div class="inner">
-                        <span class="pricing">
-                          <span>
-                            59% Off
-                          </span>
-                        </span>
-                        <p class="title">Thalassemia Profile Package<br><br></p>
+                        <h3 class="title">Hepatitis Profile-2 Checkup<br>Package</h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2461,6 +2402,96 @@
                             <span></span>
                           </li>
                           <li>
+                           
+                            <span></span>
+                          </li>
+                          <li>
+                           
+                            <br><br><br>
+                            <span></span>
+                          </li>
+                          
+                        </ul>
+                        <div class="row">
+                          <div class="col-lg-6">
+                            <button class="card-button1 mb-4">know More</button>
+                          </div>
+                          <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                            <h4 class="price-text">---</h4>   
+                          </div>
+                        </div>
+                       
+                        <div class="action action-btn-2">
+                        <a class="card-button" href="#">
+                          Book Now
+                        </a>
+                        <a class="card-button " href="#">
+                         Get a Call Back
+                        </a>
+                        </div>
+                     </div>
+                   </div></article>
+                   <article class="cCarousel-item">				
+                    <div class="plan">
+                     <div class="inner">
+                        <span class="pricing">
+                          <span>
+                            59% Off
+                          </span>
+                        </span>
+                        <h3 class="title">Hirsutism profile-1 Checkup <br>Package</h3>
+                        <p class="info">Includes: 0 Parameters</p>
+                        <ul class="features">
+                          <li>
+                          
+                            <span></span>
+                          </li>
+                          <li>
+                           
+                            <span></span>
+                          </li>
+                          <li>
+                           
+                            <br><br><br>
+                            <span></span>
+                          </li>
+                          
+                        </ul>
+                        <div class="row">
+                          <div class="col-lg-6">
+                            <button class="card-button1 mb-4">know More</button>
+                          </div>
+                          <div class="col-lg-6 d-flex justify-content-end align-items-center">
+                            <h4 class="price-text">---</h4>   
+                          </div>
+                        </div>
+                       
+                        <div class="action action-btn-2">
+                        <a class="card-button" href="#">
+                          Book Now
+                        </a>
+                        <a class="card-button " href="#">
+                         Get a Call Back
+                        </a>
+                        </div>
+                     </div>
+                   </div></article>
+                   <article class="cCarousel-item">				
+                    <div class="plan">
+                     <div class="inner">
+                        <span class="pricing">
+                          <span>
+                            59% Off
+                          </span>
+                        </span>
+                        <h3 class="title">Thalassemia Profile Package<br><br></h3>
+                        <p class="info">Includes: 0 Parameters</p>
+                        <ul class="features">
+                          <li>
+                            
+                            <span></span>
+                          </li>
+                          <li>
                             
                             <span></span>
                           </li>
@@ -2490,14 +2521,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Comprehensive Male Health<br> Checkup Package</p>
+                        <h3 class="title">Comprehensive Male Health<br> Checkup Package</h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2534,14 +2566,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Hemoglobin Check Package<br><br></p>
+                        <h3 class="title">Hemoglobin Check Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2578,14 +2611,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Coagulation Profile Package<br><br></p>
+                        <h3 class="title">Coagulation Profile Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2622,14 +2656,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">GDIC Fever Panel-2 Package<br><br></p>
+                        <h3 class="title">GDIC Fever Panel-2 Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2666,14 +2701,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">CNC Covid Care Package<br><br></p>
+                        <h3 class="title">CNC Covid Care Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2710,14 +2746,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">Torch IgG and IgM Profile<br><br></p>
+                        <h3 class="title">Torch IgG and IgM Profile<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2754,14 +2791,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">CNC Champion Health Package<br><br></p>
+                        <h3 class="title">CNC Champion Health Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2798,14 +2836,15 @@
                         </div>
                      </div>
                    </div></article>
-                   <article class="cCarousel-item">				<div class="plan">
+                   <article class="cCarousel-item">				
+                    <div class="plan">
                      <div class="inner">
                         <span class="pricing">
                           <span>
                             59% Off
                           </span>
                         </span>
-                        <p class="title">CNC Advance Health Package<br><br></p>
+                        <h3 class="title">CNC Advance Health Package<br><br></h3>
                         <p class="info">Includes: 0 Parameters</p>
                         <ul class="features">
                           <li>
@@ -2847,6 +2886,7 @@
              </div>
            </div>
              </section>
+
              <section class="counter-area tp-common-area pt-130">
                <div class="container">
                   <div class="row">
@@ -2862,8 +2902,8 @@
                           
                            <div class="counter__content text-center">
                              <img src="assets/img/heart.png" alt="">
-                             <h4 style="font-size: 20px;
-                             padding-top: 6px;">Heart</h4>
+                             <h3 style="font-size: 20px;
+                             padding-top: 6px;">Heart</h3>
                              
                            </div>
                         </div>
@@ -2873,8 +2913,8 @@
                          
                            <div class="counter__content text-center">
                               <img src="assets/img/kidney.png" alt="">
-                              <h4 style="font-size: 20px;
-                              padding-top: 6px;">Kidney</h4>
+                              <h3 style="font-size: 20px;
+                              padding-top: 6px;">Kidney</h3>
                            </div>
                         </div>
                      </div>
@@ -2883,8 +2923,8 @@
                         
                            <div class="counter__content text-center">
                              <img src="assets/img/lungs.png" alt="">
-                             <h4 style="font-size: 20px;
-                             padding-top: 6px;">Lungs</h4>
+                             <h3 style="font-size: 20px;
+                             padding-top: 6px;">Lungs</h3>
                            </div>
                         </div>
                      </div>
@@ -2893,8 +2933,8 @@
                           
                            <div class="counter__content text-center">
                              <img src="assets/img/liver.png" alt="">
-                             <h4 style="font-size: 20px;
-                             padding-top: 6px;">Liver</h4>
+                             <h3 style="font-size: 20px;
+                             padding-top: 6px;">Liver</h3>
                            </div>
                         </div>
                      </div>
@@ -2903,8 +2943,8 @@
                           
                            <div class="counter__content text-center">
                              <img src="assets/img/thyroid.png" alt="">
-                             <h4 style="font-size: 20px;
-                             padding-top: 6px;">Thyroid</h4>
+                             <h3 style="font-size: 20px;
+                             padding-top: 6px;">Thyroid</h3>
                            </div>
                         </div>
                      </div>
@@ -2913,8 +2953,8 @@
                           
                            <div class="counter__content text-center">
                              <img src="assets/img/supplement.png" alt="">
-                             <h4 style="font-size: 20px;
-                             padding-top: 6px;">Vitamins</h4>
+                             <h3 style="font-size: 20px;
+                             padding-top: 6px;">Vitamins</h3>
                            </div>
                         </div>
                      </div>
@@ -2966,7 +3006,7 @@
                                  <img src="assets/img/kidney.png" alt="">
                                 </div>
                                 <div class="services-item__content">
-                                   <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">KIDENY</a></h4>
+                                   <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">KIDENY</a></h3>
                                 </div>
                              </div>
                             </div>
@@ -2980,7 +3020,7 @@
                                <img src="assets/img/heart.png" alt="">
                               </div>
                               <div class="services-item__content">
-                                 <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">HEART</a></h4>
+                                 <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">HEART</a></h3>
                               </div>
                            </div>
                           </div>
@@ -2994,7 +3034,7 @@
                              <img src="assets/img/examination.png" alt="">
                             </div>
                             <div class="services-item__content">
-                               <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">Full Body Health Checkup</a></h4>
+                               <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">Full Body Health Checkup</a></h3>
                             </div>
                          </div>
                         </div>
@@ -3008,7 +3048,7 @@
                            <img src="assets/img/mask.png" alt="">
                           </div>
                           <div class="services-item__content">
-                             <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">COVID 19</a></h4>
+                             <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">COVID 19</a></h3>
                           </div>
                        </div>
                       </div>
@@ -3022,7 +3062,7 @@
                          <img src="assets/img/thyroid.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">THYROID</a></h4>
+                           <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">THYROID</a></h3>
                         </div>
                      </div>
                     </div>
@@ -3036,7 +3076,7 @@
                        <img src="assets/img/supplement.png" alt="">
                       </div>
                       <div class="services-item__content">
-                         <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">VITAMINS</a></h4>
+                         <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">VITAMINS</a></h3>
                       </div>
                    </div>
                   </div>
@@ -3050,7 +3090,7 @@
                      <img src="assets/img/flu.png" alt="">
                     </div>
                     <div class="services-item__content">
-                       <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">FEVER</a></h4>
+                       <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">FEVER</a></h3>
                     </div>
                  </div>
                 </div>
@@ -3064,7 +3104,7 @@
                    <img src="assets/img/blood-test.png" alt="">
                   </div>
                   <div class="services-item__content">
-                     <h4 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">DIABETES</a></h4>
+                     <h3 class="services-item__tp-title services-item__tp-title1 mb-30"><a href="#">DIABETES</a></h3>
                   </div>
                </div>
               </div>
@@ -3090,7 +3130,7 @@
                  <div class="row wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                     <div class="col-lg-12">
                        <div class="tp-section text-center">
-                          <h3 class="tp-section__title title-white mb-70">Oncocure</h3>
+                          <h2 class="tp-section__title title-white mb-70">Oncocure</h2>
                        </div>
                     </div>
                  </div>
@@ -3103,7 +3143,7 @@
                            <div class="tp-testi__content text-center">
                             <img src="assets/img/cancer/breast-cancer.png" alt="">
                               <p></p>
-                              <h5 class="tp-testi__avata-title">Breast Cancer</h5>
+                              <h3 class="tp-testi__avata-title">Breast Cancer</h3>
                               <span class="tp-testi__ava-position"></span>
                            </div>
                         </div>
@@ -3114,7 +3154,7 @@
                          <div class="tp-testi__content text-center">
                           <img src="assets/img/cancer/cervical-cancer.png" alt="">
                             <p></p>
-                            <h5 class="tp-testi__avata-title">Cervical Cancer</h5>
+                            <h3 class="tp-testi__avata-title">Cervical Cancer</h3>
                             <span class="tp-testi__ava-position"></span>
                          </div>
                       </div>
@@ -3125,7 +3165,7 @@
                              <div class="tp-testi__content text-center">
                               <img src="assets/img/cancer/lung-cancer.png" alt="">
                                 <p></p>
-                                <h5 class="tp-testi__avata-title">Lung Cancer</h5>
+                                <h3 class="tp-testi__avata-title">Lung Cancer</h3>
                                 <span class="tp-testi__ava-position"></span>
                              </div>
                           </div>
@@ -3136,7 +3176,7 @@
                            <div class="tp-testi__content text-center">
                             <img src="assets/img/cancer/colorectal-cancer.png" alt="">
                               <p></p>
-                              <h5 class="tp-testi__avata-title">Colorectal Cancer</h5>
+                              <h3 class="tp-testi__avata-title">Colorectal Cancer</h3>
                               <span class="tp-testi__ava-position"></span>
                            </div>
                         </div>
@@ -3147,7 +3187,7 @@
                          <div class="tp-testi__content text-center">
                           <img src="assets/img/cancer/oral.png" alt="">
                             <p></p>
-                            <h5 class="tp-testi__avata-title">Oral Cancer</h5>
+                            <h3 class="tp-testi__avata-title">Oral Cancer</h3>
                             <span class="tp-testi__ava-position"></span>
                          </div>
                       </div>
@@ -3158,7 +3198,7 @@
                        <div class="tp-testi__content text-center">
                         <img src="assets/img/cancer/ovarian-cancer.png" alt="">
                           <p></p>
-                          <h5 class="tp-testi__avata-title">Ovarian Cancer</h5>
+                          <h3 class="tp-testi__avata-title">Ovarian Cancer</h3>
                           <span class="tp-testi__ava-position"></span>
                        </div>
                     </div>
@@ -3169,7 +3209,7 @@
                      <div class="tp-testi__content text-center">
                       <img src="assets/img/cancer/cancer.png" alt="">
                         <p></p>
-                        <h5 class="tp-testi__avata-title">Blood Cancer</h5>
+                        <h3 class="tp-testi__avata-title">Blood Cancer</h3>
                         <span class="tp-testi__ava-position"></span>
                      </div>
                   </div>
@@ -3195,18 +3235,13 @@
                         <div class="tp-about__content mb-50 wow fadeInLeft" data-wow-delay=".3s">
                            <div class="tp-section">
                               <span class="tp-section__sub-title left-line mb-25">About Us</span>
-                              <h3 class=" about-title mb-13">Guiding Your Path to Wellness
-
-                              </h3>
+                              <h3 class=" about-title mb-13">Guiding Your Path to Wellness</h3>
                               
                               <p class=" mr-20 mb-45">Welcome to PraviLabs! We are a cutting-edge scientific research and development Lab dedicated to pushing the boundaries of innovation. With our team of highly skilled scientists, engineers, and researchers, we strive to make groundbreaking discoveries and create revolutionary solutions to complex problems. 
                               </p>
                            </div>
                            <div class="tp-about__info-list mb-55">
-                            <h3 class=" about-title mb-13">
-                              Your Most Trusted Healthcare Partner! 
-
-                            </h3>
+                            <h3 class=" about-title mb-13">Your Most Trusted Healthcare Partner! </h3>
                             <p class=" mr-20 mb-45">We've been around for a long time, focusing on delivering top-notch diagnostic services with precise and prompt test results for our valued customers. We're dedicated to quality and offer a wide variety of tests to support your health and well-being.
                            </p>
                            </div>
@@ -3238,7 +3273,7 @@
                  <div class="row">
                     <div class="col-lg-12">
                        <div class="tp-section text-center">
-                          <h3 class="tp-section__title title-white mb-85">Why Choose Us</h3>
+                          <h2 class="tp-section__title title-white mb-85">Why Choose Us</h2>
                        </div>
                     </div>
                  </div>
@@ -3249,7 +3284,7 @@
                              <i class="flaticon-microscope"></i>
                           </div>
                           <div class="tp-choose__content">
-                             <h4 class="tp-choose__title mb-20">Medical Expertise</h4>
+                             <h3 class="tp-choose__title mb-20">Medical Expertise</h3>
                              <p>Our center is staffed with a team <br> of highly qualified doctors, pathologists,<br> and healthcare professionals.</p>
                           </div>
                        </div>
@@ -3260,7 +3295,7 @@
                              <i class="flaticon-24-hours"></i>
                           </div>
                           <div class="tp-choose__content">
-                             <h4 class="tp-choose__title mb-20">Convenient Access</h4>
+                             <h3 class="tp-choose__title mb-20">Convenient Access</h3>
                              <p> we prioritize convenience for our patients. <br> You can easily find a center making it hassle-free <br> to get the tests you need, no matter where you're located.</p>
                           </div>
                        </div>
@@ -3271,7 +3306,7 @@
                              <i class="flaticon-biochemistry"></i>
                           </div>
                           <div class="tp-choose__content">
-                             <h4 class="tp-choose__title mb-20">Stringent Quality Control</h4>
+                             <h3 class="tp-choose__title mb-20">Stringent Quality Control</h3>
                              <p> Quality is paramount to us. We have implemented<br> more  than 50 rigorous quality and process checks to <br> ensure the precision and reliability of your test results.</p>
                           </div>
                        </div>
@@ -3282,7 +3317,7 @@
                              <i class="flaticon-blood-test"></i>
                           </div>
                           <div class="tp-choose__content">
-                             <h4 class="tp-choose__title mb-20">Comprehensive Test Menu</h4>
+                             <h3 class="tp-choose__title mb-20">Comprehensive Test Menu</h3>
                              <p> Our extensive menu offers more than 5000 <br> different tests covering a wide spectrum <br> of medical diagnostics.</p>
                           </div>
                        </div>
@@ -3294,7 +3329,7 @@
                           <i class="flaticon-dna-1"></i>
                          </div>
                          <div class="tp-choose__content">
-                            <h4 class="tp-choose__title mb-20">Dedication to Your Well-Being</h4>
+                            <h3 class="tp-choose__title mb-20">Dedication to Your Well-Being</h3>
                             <p> We are committed to excellence in diagnostics. <br> This means that your health and well-being <br> are at the heart of everything we do.</p>
                          </div>
                       </div>
@@ -3305,7 +3340,7 @@
                           <i class="flaticon-hemoglobin-test-meter"></i>
                        </div>
                        <div class="tp-choose__content">
-                          <h4 class="tp-choose__title mb-20">Cutting-Edge Technology</h4>
+                          <h3 class="tp-choose__title mb-20">Cutting-Edge Technology</h3>
                           <p> We leverage the latest advancements in medical <br> technology to ensure that our tests are conducted <br> with the utmost precision.</p>
                        </div>
                     </div>
@@ -3326,7 +3361,7 @@
             <div class="container">
               <div class="tp-section">
                 <!-- <span class="tp-section__sub-title left-line mb-25">Our Team</span> -->
-                <h3 class="tp-section__title mb-75">Popular Test</h3>
+                <h2 class="tp-section__title mb-75">Popular Test</h2>
              </div>
                <div class="row align-items-center">
                   <div class="col-lg-8 col-md-8 col-12">
@@ -3355,7 +3390,7 @@
                            <div class="tp-team__thumb fix">                           
                            </div>
                            <div class="tp-team__content" style="padding: 24px 20px;display: grid;">
-                            <h4 class="tp-team__title mb-15"><a href="team-details.html"><?php echo $row["package_name"] ?></a></h4>
+                            <h3 class="tp-team__title mb-15"><a href="team-details.html"><?php echo $row["package_name"] ?></a></h3>
                             <div class="fw-700 fs-14 me-2">Time: <span><?php echo $row["time"] ?></span></div>
                             <div class="fw-700 fs-14 me-2">Pre Test Information: <span><?php echo $row["test_info"] ?></span></div>
                            
@@ -3411,11 +3446,11 @@
                <div class="row">
                   <div class="col-xl-4 col-lg-4 col-md-6">
                      <div class="services-item tp-services-item mb-50 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
-                        <div class="services-item__icon mb-30">
+                        <div class="services-item__icon green-icon  mb-30">
                           <img src="assets/img/Comprehensive Test Menu.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="#">Comprehensive Test Menu</a></h5>
+                           <h3 class="services-item__tp-title mb-30"><a href="#">Comprehensive Test Menu</a></h3>
                            <p>We provide a wide variety of medical tests that cover different areas of health.</p>
                       <br>
                           </div>
@@ -3423,11 +3458,11 @@
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
                      <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
-                        <div class="services-item__icon pink-icon mb-30">
+                        <div class="services-item__icon red-icon mb-30">
                           <img src="assets/img/Convenience and Accessibility.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="#">Convenience and Accessibility</a></h5>
+                           <h3 class="services-item__tp-title mb-30"><a href="#">Convenience and Accessibility</a></h3>
                            <p>We aim to offer top-notch services close to your location, all at affordable prices.</p>
                        <br>
                           </div>
@@ -3439,7 +3474,7 @@
                           <img src="assets/img/Customer-Centric Approach.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="#">Customer-Centric Approach</a></h5>
+                           <h3 class="services-item__tp-title mb-30"><a href="#">Customer-Centric Approach</a></h3>
                            <p>We put our customers at the center of everything we do and therefore treat them as our primary value</p>
                         </div>
                      </div>
@@ -3450,7 +3485,7 @@
                           <img src="assets/img/Quality and Accuracy.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="#">Quality and Accuracy</a></h5>
+                           <h3 class="services-item__tp-title mb-30"><a href="#">Quality and Accuracy</a></h3>
                            <p>Quality is incredibly important to us. Our labs are certified by NABL and CAP, which are trusted organizations for testing and calibration</p>
                        <br>
                        <br>
@@ -3459,11 +3494,11 @@
                   </div>
                   <div class="col-xl-4 col-lg-4 col-md-6">
                      <div class="services-item tp-services-item mb-50 ml-20 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;background-color: rgb(243 243 243);">
-                        <div class="services-item__icon green-icon mb-30">
+                        <div class="services-item__icon red-icon mb-30">
                           <img src="assets/img/Home Sample Collection.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="#">Home Sample Collection</a></h5>
+                           <h3 class="services-item__tp-title mb-30"><a href="#">Home Sample Collection</a></h3>
                            <p>Our website and mobile app make it easy for you to book and get your test reports, whether you're using a computer or a phone. After we collect your samples, we quickly take them to our own labs for testing.</p>
                         </div>
                      </div>
@@ -3474,7 +3509,7 @@
                           <img src="assets/img/Embracing Innovation.png" alt="">
                         </div>
                         <div class="services-item__content">
-                           <h5 class="services-item__tp-title mb-30"><a href="#">Embracing Innovation</a></h5> 
+                           <h3 class="services-item__tp-title mb-30"><a href="#">Embracing Innovation</a></h3> 
                            <p>We have a special group of doctors who work hard to make sure we use the latest technology, tests, quality checks, and processes in every test we perform.</p>
                         <br>
                         <br>
@@ -3492,7 +3527,7 @@
                   <div class="col-lg-12 col-md-12 col-12">
                      <div class="tp-section">
                         <!-- <span class="tp-section__sub-title left-line right-line mb-20">Faq</span> -->
-                        <h3 class="tp-section__title mb-70">Frequently Asked Questions</h3>
+                        <h2 class="tp-section__title mb-70">Frequently Asked Questions</h2>
                      </div>
                   </div>
                </div>
