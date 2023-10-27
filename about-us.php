@@ -22,13 +22,13 @@
         
          <div class="col-xl-6">
          <span class="tp-section__sub-title left-line mb-25">About Us</span>
-         <h3 class=" about-title mb-30">Guiding Your Path to <br>Wellness </h3>
+         <h1 class=" about-title mb-30">Guiding Your Path to <br>Wellness </h1>
             <p class=" mr-20 mb-45">Pravilabs, the diagnostic center, is known for its exceptional patient
                care and state-of-the-art facilities. These attributes have positioned them as one of the
                most reputable diagnostic centers in the India. Pravilabs offers a wide range of diagnostic
                tests, ranging from basic screenings to advanced tests in molecular pathology, cytogenetics,
                histopathology, and hematology. This comprehensive range ensures that we can provide
-               top-notch diagnostic, prognostic, and monitoring services to other pathology labs,
+               top-notch diagnostic, prognostic, and monitoring services to other <a href="https://pravilabs.in/index.php" style="color: #03081d;font-weight: 700;">pathology labs</a>,
                hospitals, and patients.
             </p>
          </div>
@@ -54,9 +54,9 @@
                </div>
             </div>
             <div class="col-lg-6">
-         <h3 class=" about-title mb-30">Pravilabs Where Precision Meets Care</h3>
+         <h2 class=" about-title mb-30">Pravilabs Where Precision Meets Care</h2>
             <P>Pravilabs has cultivated a loyal customer base, a testament to their brand's strength in
-               delivering high-quality diagnostic tests and services. Their commitment to elevating
+               delivering high-quality <a href="https://pravilabs.in/health-packages.php" style="color: #03081d;font-weight: 700;">diagnostic tests</a> and services. Their commitment to elevating
                standards in diagnostic accuracy, cutting-edge technology, customer satisfaction, and
                research-driven compassionate service has made them a key player in the industry.
 
@@ -103,7 +103,7 @@
                <div class="col-xl-6 col-lg-6 col-md-12 order-lg-2">
                   <div class="nabmission mb-30">
                      <div class="nabmission__content text-center ml-50 mr-50 pt-20">
-                        <h4 class="nabmission__title mb-35">Setting a Higher Bar for Healthcare Excellence</h4>
+                        <h3 class="nabmission__title mb-35">Setting a Higher Bar for Healthcare Excellence</h3>
                         <p class="mb-35">Our Vision at Pravilabs is to redefine the landscape of healthcare through
                            excellence in pathology and diagnosis. We aspire to be a beacon of precision and innovation,
                            committed to delivering accurate, reliable, and cutting-edge diagnostic services. We envision
@@ -136,8 +136,8 @@
                <div class="col-xl-6 col-lg-6 col-md-12 order-lg-2">
                   <div class="nabmission mb-30">
                      <div class="nabmission__content text-center ml-50 mr-50 pt-20">
-                        <h4 class="nabmission__title mb-35"> Precision diagnostics redefine healthcare, forging your
-                           path to excellence.</h4>
+                        <h3 class="nabmission__title mb-35"> Precision diagnostics redefine healthcare, forging your
+                           path to excellence.</h3>
                         <p class="mb-35">Our Objective at our pathology and diagnosis center is to redefine healthcare
                            through excellence in diagnostics. We are dedicated to providing patients and healthcare
                            providers with accurate, timely, and reliable diagnostic services. Our commitment extends to
@@ -170,7 +170,7 @@
                <div class="col-xl-6 col-lg-6 col-md-12 order-lg-2">
                   <div class="nabmission mb-30">
                      <div class="nabmission__content text-center ml-50 mr-50 pt-20">
-                        <h4 class="nabmission__title mb-35">Expertise and innovation for a healthier future</h4>
+                        <h3 class="nabmission__title mb-35">Expertise and innovation for a healthier future</h3>
                         <p class="mb-35">At our pathology and diagnosis center, we are built on a strong foundation of
                            unwavering commitment to healthcare excellence. With a team of dedicated experts and
                            cutting-edge technology, we strive to deliver the highest standards of precision and care in
