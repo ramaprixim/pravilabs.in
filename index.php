@@ -3539,7 +3539,7 @@
                              <h2 class="accordion-header" id="headingOne">
                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">1.What should I do to prepare for a blood test?</button>
                              </h2>
-                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
+                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                <div class="accordion-content"><p>Typically, you will need to fast for 8-12 hours before certain tests, especially those that measure glucose or cholesterol levels. It's essential to follow any specific instructions provided by your healthcare provider or the testing center.</p></div>
                              </div>
                            </div>
@@ -3547,7 +3547,7 @@
                              <h2 class="accordion-header" id="headingTwo">
                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">2. How long does it typically take to receive my test results?</button>
                              </h2>
-                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
+                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                <div class="accordion-content"><p>Test result turnaround times can vary, but many routine blood tests provide results within a few days. Some urgent tests may have quicker results, while more specialized tests might take longer.</p></div>
                              </div>
                            </div>
