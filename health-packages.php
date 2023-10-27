@@ -3280,7 +3280,7 @@
 									</div>
 									<div class="col-lg-7">
 										<div class="cta-shape d-none d-md-block">
-											<img src="assets/img/shape/logo-shape-1.png" alt="cta-logo-shape">
+											<img src="assets/img/shape/logo-shape-1.png" alt="Full Body Checkup Test">
 										</div>
 									</div>
 								</div>

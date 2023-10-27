@@ -41,7 +41,7 @@
                        </div>
                        <div class="col-lg-6 col-md-6 col-12 order-1 order-lg-2">
                           <div class="slider-content__bg">
-                             <img src="assets/img/slider/slider-bg-3.png" alt="slider-img">
+                             <img src="assets/img/slider/slider-bg-3.png" alt="Diagnostic Center and Pathology Lab">
                           </div>
                           <div class="slider-content__shape d-none d-md-block">
                              <img src="assets/img/slider/slider-bg-2.png" alt="slider-shape">
@@ -3251,7 +3251,7 @@
                         <div class="tp-about-thumb tp-3-thumb mb-60 wow fadeInRight" data-wow-delay=".3s">
                            <div class="tp-ab-img">
                               <div class="tp-ab-main-img p-relative">
-                                 <img src="assets/img/about/about-bg-07.jpg" alt="about-thumb">
+                                 <img src="assets/img/about/about-bg-07.jpg" alt="Complete Blood Tests and Diagnostic Center ">
 
                               </div>
                            </div>

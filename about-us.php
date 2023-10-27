@@ -36,7 +36,7 @@
                <div class="tp-about-thumb tp-3-thumb mb-60 wow fadeInRight" data-wow-delay=".3s">
                   <div class="tp-ab-img">
                      <div class="tp-ab-main-img p-relative ">
-                        <img src="assets/img/about/about-bg-07.jpg" alt="about-thumb">
+                        <img src="assets/img/about/about-bg-07.jpg" alt="Blood Test Laboratory">
                      </div>
                   </div>
                </div>
@@ -48,7 +48,7 @@
                <div class="tp-about-thumb tp-3-thumb mb-60 wow fadeInRight" data-wow-delay=".3s">
                   <div class="tp-ab-img">
                      <div class="tp-ab-main-img p-relative ">
-                        <img src="assets/img/about/about-bg-07.jpg" alt="about-thumb">
+                        <img src="assets/img/about/about-bg-07.jpg" alt="Full Body Checkup ">
                      </div>
                   </div>
                </div>
@@ -117,12 +117,12 @@
                </div>
                <div class="col-xl-3 col-lg-3 col-md-6 order-lg-1">
                   <div class="nabthumb mb-30">
-                     <img src="assets/img/tab/tab-thumb-03.jpg" alt="tab-thumb">
+                     <img src="assets/img/tab/tab-thumb-03.jpg" alt="Complete Blood Tests">
                   </div>
                </div>
                <div class="col-xl-3 col-lg-3 col-md-6 order-lg-3">
                   <div class="nabthumb mb-30">
-                     <img src="assets/img/tab/tab-thumb-04.jpg" alt="tab-thumb">
+                     <img src="assets/img/tab/tab-thumb-04.jpg" alt="Blood Examination">
                   </div>
                </div>
             </div>
@@ -152,12 +152,12 @@
                </div>
                <div class="col-xl-3 col-lg-3 col-md-6 order-lg-1">
                   <div class="nabthumb mb-30">
-                     <img src="assets/img/tab/tab-thumb-03.jpg" alt="tab-thumb">
+                     <img src="assets/img/tab/tab-thumb-03.jpg" alt="Blood Collection">
                   </div>
                </div>
                <div class="col-xl-3 col-lg-3 col-md-6 order-lg-3">
                   <div class="nabthumb mb-30">
-                     <img src="assets/img/tab/tab-thumb-04.jpg" alt="tab-thumb">
+                     <img src="assets/img/tab/tab-thumb-04.jpg" alt="Medical Diagnostics">
                   </div>
                </div>
             </div>
@@ -185,12 +185,12 @@
                </div>
                <div class="col-xl-3 col-lg-3 col-md-6 order-lg-1">
                   <div class="nabthumb mb-30">
-                     <img src="assets/img/tab/tab-thumb-01.jpg" alt="tab-thumb">
+                     <img src="assets/img/tab/tab-thumb-01.jpg" alt="Pathologists">
                   </div>
                </div>
                <div class="col-xl-3 col-lg-3 col-md-6 order-lg-3">
                   <div class="nabthumb mb-30">
-                     <img src="assets/img/tab/tab-thumb-02.jpg" alt="tab-thumb">
+                     <img src="assets/img/tab/tab-thumb-02.jpg" alt="Blood Collection">
                   </div>
                </div>
             </div>
