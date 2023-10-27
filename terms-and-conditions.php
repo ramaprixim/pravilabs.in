@@ -24,7 +24,8 @@
                      <div class="tp-srv-process mb-50">
                         <h4 class="tp-srv-process__title mb-30">Welcome to Pravilabs!
                         </h4>
-                        <p class="mb-20">Must explain to you how all this mistaken idea of denouncing works pleasure and praising uts pain was born and I will gives you a itself completed account of the system, and sed expounds the ut actual teachings of that greater sed explores truth. Denouncing works pleasures and praising pains was us born and I will gives you a completed ut workers accounts of the system. sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                        <p class="mb-20">These terms and conditions outline the rules and regulations for the use of Pravilabs's Website, located at https://pravilabs.in/.
+                        </p>
                         <p class="mb-40">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem.</p>
                         <div class="tp-srv-process__list">
                            <ul>
