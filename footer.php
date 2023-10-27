@@ -81,10 +81,10 @@
                         <div class="footer-widget__links">
                            <ul>
                            <ul>
-                           <li><a href="terms-and-conditions.php">Terms and Conditions</a></li>
-                           <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                           <li><a href="disclaimer.php">Disclaimer</a></li>
-                           <li><a href="copyright.php">Copyright</a></li>
+                           <li><a href="#">Terms and Conditions</a></li>
+                           <li><a href="#">Privacy Policy</a></li>
+                           <li><a href="#">Disclaimer</a></li>
+                           <li><a href="#">Copyright</a></li>
                            
                         </ul>
                            </ul>
