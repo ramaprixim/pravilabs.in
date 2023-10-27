@@ -84,7 +84,7 @@
                            <li><a href="terms-and-conditions.php">Terms and Conditions</a></li>
                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
                            <li><a href="disclaimer.php">Disclaimer</a></li>
-                           <li><a href="copyright.php">Copyright</a></li>
+                           <li><a href="#">Copyright</a></li>
                            
                         </ul>
                            </ul>
