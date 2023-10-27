@@ -13,7 +13,7 @@
 		<div class="row align-items-center">
 			<div class="col-xl-7 col-lg-12 col-md-12 col-12">
 				<div class="tp-breadcrumb">
-					<h2 class="tp-breadcrumb__title">Health Packages</h2>
+					<h1 class="tp-breadcrumb__title">Health Packages</h1>
 				</div>
 			</div>
 			<div class="col-xl-5 col-lg-12 col-md-12 col-12">
@@ -35,7 +35,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Full Body Checkup Package - <br> Basic</p>
+						<h3 class="title">Full Body Checkup Package - <br> Basic</h3>
 						<p class="info">Includes: 69 Parameters</p>
 						<ul class="features">
 							<li>
@@ -101,7 +101,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Full Body Checkup Package - <br> Advance</p>
+						<h3 class="title">Full Body Checkup Package - <br> Advance</h3>
 						<p class="info">Includes: 81 Parameters</p>
 						<ul class="features">
 							<li>
@@ -167,7 +167,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Full Body Checkup Package - <br>Exclusive </p>
+						<h3 class="title">Full Body Checkup Package - <br>Exclusive </h3>
 						<p class="info">Includes: 82 Parameters</p>
 						<ul class="features">
 							<li>
@@ -233,7 +233,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Full Body Checkup Package - <br> Comprehensive</p>
+						<h3 class="title">Full Body Checkup Package - <br> Comprehensive</h3>
 						<p class="info">Includes: 85 Parameters</p>
 						<ul class="features">
 							<li>
@@ -299,7 +299,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Obesity Panel-Basic <br> <br></p>
+						<h3 class="title">Obesity Panel-Basic <br> <br></h3>
 						<p class="info">Includes: 13 Parameters</p>
 						<ul class="features">
 							<li>
@@ -365,7 +365,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Obesity Panel- <br>Advance</p>
+						<h3 class="title">Obesity Panel- <br>Advance</h3>
 						<p class="info">Includes: 16 Parameters</p>
 						<ul class="features">
 							<li>
@@ -431,7 +431,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Fever Panel-Basic <br> <br></p>
+						<h3 class="title">Fever Panel-Basic <br> <br></h3>
 						<p class="info">Includes: 39 Parameters</p>
 						<ul class="features">
 							<li>
@@ -498,7 +498,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Fever Panel-Advance <br> <br></p>
+						<h3 class="title">Fever Panel-Advance <br> <br></h3>
 						<p class="info">Includes: 42 Parameters</p>
 						<ul class="features">
 							<li>
@@ -565,7 +565,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Fever Panel-Exclusive <br> <br></p>
+						<h3 class="title">Fever Panel-Exclusive <br> <br></h3>
 						<p class="info">Includes: 46 Parameters</p>
 						<ul class="features">
 							<li>
@@ -632,7 +632,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Fever Panel-Comprehensive<br> <br></p>
+						<h3 class="title">Fever Panel-Comprehensive<br> <br></h3>
 						<p class="info">Includes: 60 Parameters</p>
 						<ul class="features">
 							<li>
@@ -699,7 +699,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Infections Profile <br> <br></p>
+						<h3 class="title">Infections Profile <br> <br></h3>
 						<p class="info">Includes: 5 Parameters</p>
 						<ul class="features">
 							<li>
@@ -766,7 +766,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Infertility Female Profile-Basic <br> <br></p>
+						<h3 class="title">Infertility Female Profile-Basic <br> <br></h3>
 						<p class="info">Includes: 3 Parameters</p>
 						<ul class="features">
 							<li>
@@ -833,7 +833,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Infertility Female Profile-<br> Advance</p>
+						<h3 class="title">Infertility Female Profile-<br> Advance</h3>
 						<p class="info">Includes: 5 Parameters</p>
 						<ul class="features">
 							<li>
@@ -900,7 +900,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Infertility Female Profile-<br>Exclusive</p>
+						<h3 class="title">Infertility Female Profile-<br>Exclusive</h3>
 						<p class="info">Includes: 9 Parameters</p>
 						<ul class="features">
 							<li>
@@ -967,7 +967,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Covid Severity Profile<br> <br></p>
+						<h3 class="title">Covid Severity Profile<br> <br></h3>
 						<p class="info">Includes: 35 Parameters</p>
 						<ul class="features">
 							<li><span></span>
@@ -1010,7 +1010,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Covid Recovery Panel<br><br></p>
+						<h3 class="title">Covid Recovery Panel<br><br></h3>
 						<p class="info">Includes: 65 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1057,7 +1057,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Infertility Female Profile-<br>Comprehensive</p>
+						<h3 class="title">Infertility Female Profile-<br>Comprehensive</h3>
 						<p class="info">Includes: 9 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1124,7 +1124,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Infertility Male Profile-1<br> <br></p>
+						<h3 class="title">Infertility Male Profile-1<br> <br></h3>
 						<p class="info">Includes: 4 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1191,7 +1191,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Anemia Profile-Basic<br><br></p>
+						<h3 class="title">Anemia Profile-Basic<br><br></h3>
 						<p class="info">Includes: 33 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1258,7 +1258,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Anemia Profile-Advance<br><br></p>
+						<h3 class="title">Anemia Profile-Advance<br><br></h3>
 						<p class="info">Includes: 35 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1325,7 +1325,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">STD Detection Package<br><br></p>
+						<h3 class="title">STD Detection Package<br><br></h3>
 						<p class="info">Includes: 5 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1392,7 +1392,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Thyroid Panel Free<br><br></p>
+						<h3 class="title">Thyroid Panel Free<br><br></h3>
 						<p class="info">Includes: 3 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1459,7 +1459,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Female Hormone Profile With<br>Doctor Consultation</p>
+						<h3 class="title">Female Hormone Profile With<br>Doctor Consultation</h3>
 						<p class="info">Includes: 10 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1526,7 +1526,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Arthritis Profile (For Joints Pain)<br><br></p>
+						<h3 class="title">Arthritis Profile (For Joints Pain)<br><br></h3>
 						<p class="info">Includes: 39 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1593,7 +1593,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Thyroid Panel<br><br></p>
+						<h3 class="title">Thyroid Panel<br><br></h3>
 						<p class="info">Includes: 3 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1660,7 +1660,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Fitness Profile-Basic<br><br></p>
+						<h3 class="title">Fitness Profile-Basic<br><br></h3>
 						<p class="info">Includes: 14 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1727,7 +1727,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Fitness Profile-Advance<br><br></p>
+						<h3 class="title">Fitness Profile-Advance<br><br></h3>
 						<p class="info">Includes: 18 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1794,7 +1794,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Lipid Profile With Doctor<br> Consultation</p>
+						<h3 class="title">Lipid Profile With Doctor<br> Consultation</h3>
 						<p class="info">Includes: 8 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1861,7 +1861,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Cardiac Risk Markers With<br> Doctor Consultation</p>
+						<h3 class="title">Cardiac Risk Markers With<br> Doctor Consultation</h3>
 						<p class="info">Includes: 3 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1908,7 +1908,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Female Cancer Screening Test <br>With Doctor Consultation</p>
+						<h3 class="title">Female Cancer Screening Test <br>With Doctor Consultation</h3>
 						<p class="info">Includes: 6 Parameters</p>
 						<ul class="features">
 							<li>
@@ -1955,7 +1955,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Food Intolerance Test - (210+<br> Foods)</p>
+						<h3 class="title">Food Intolerance Test - (210+<br> Foods)</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2001,7 +2001,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Male Cancer Screening With <br> Doctor Consultation</p>
+						<h3 class="title">Male Cancer Screening With <br> Doctor Consultation</h3>
 						<p class="info">Includes: 6 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2048,7 +2048,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Basic Diabetic Screening With <br>Doctor Consultation</p>
+						<h3 class="title">Basic Diabetic Screening With <br>Doctor Consultation</h3>
 						<p class="info">Includes: 4 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2095,7 +2095,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Comprehensive Female<br> Hormone Profile</p>
+						<h3 class="title">Comprehensive Female<br> Hormone Profile</h3>
 						<p class="info">Includes: 6 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2149,7 +2149,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Arthritis Profile With Doctor<br> Consultation</p>
+						<h3 class="title">Arthritis Profile With Doctor<br> Consultation</h3>
 						<p class="info">Includes: 25 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2202,7 +2202,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Pelvic Cancer Screening for<br> Women</p>
+						<h3 class="title">Pelvic Cancer Screening for<br> Women</h3>
 						<p class="info">Includes: 6 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2249,7 +2249,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Immunity Check - Basic<br><br></p>
+						<h3 class="title">Immunity Check - Basic<br><br></h3>
 						<p class="info">Includes: 7 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2296,7 +2296,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Brave Heart Package<br><br></p>
+						<h3 class="title">Brave Heart Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2343,7 +2343,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Allergy Screening Package -<br> Basic</p>
+						<h3 class="title">Allergy Screening Package -<br> Basic</h3>
 						<p class="info">Includes: 0 Parameters </p>
 						<ul class="features">
 							<li>
@@ -2390,7 +2390,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Well Women Checkup Package<br><br></p>
+						<h3 class="title">Well Women Checkup Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2437,7 +2437,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Menopause Wellness Packege<br><br></p>
+						<h3 class="title">Menopause Wellness Packege<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2484,7 +2484,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Pancreatic Acute Profile<br> Package</p>
+						<h3 class="title">Pancreatic Acute Profile<br> Package</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2531,7 +2531,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Dialysis Profile-3 Health<br> Package</p>
+						<h3 class="title">Dialysis Profile-3 Health<br> Package</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2578,7 +2578,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Hypertension Profile-2 Checkup<br>Package</p>
+						<h3 class="title">Hypertension Profile-2 Checkup<br>Package</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2625,7 +2625,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Hepatitis Profile-2 Checkup<br>Package</p>
+						<h3 class="title">Hepatitis Profile-2 Checkup<br>Package</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2672,7 +2672,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Hirsutism profile-1 Checkup <br>Package</p>
+						<h3 class="title">Hirsutism profile-1 Checkup <br>Package</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2719,7 +2719,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Thalassemia Profile Package<br><br></p>
+						<h3 class="title">Thalassemia Profile Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2766,7 +2766,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Comprehensive Male Health<br> Checkup Package</p>
+						<h3 class="title">Comprehensive Male Health<br> Checkup Package</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2813,7 +2813,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Hemoglobin Check Package<br><br></p>
+						<h3 class="title">Hemoglobin Check Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2860,7 +2860,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Kids Health Checkup Plan<br>Package</p>
+						<h3 class="title">Kids Health Checkup Plan<br>Package</h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2907,7 +2907,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Coagulation Profile Package<br><br></p>
+						<h3 class="title">Coagulation Profile Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -2954,7 +2954,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">GDIC Fever Panel-2 Package<br><br></p>
+						<h3 class="title">GDIC Fever Panel-2 Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -3001,7 +3001,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">CNC Covid Care Package<br><br></p>
+						<h3 class="title">CNC Covid Care Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -3048,7 +3048,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">Torch IgG and IgM Profile<br><br></p>
+						<h3 class="title">Torch IgG and IgM Profile<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -3095,7 +3095,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">CNC Champion Health Package<br><br></p>
+						<h3 class="title">CNC Champion Health Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -3142,7 +3142,7 @@
 								59% Off
 							</span>
 						</span>
-						<p class="title">CNC Advance Health Package<br><br></p>
+						<h3 class="title">CNC Advance Health Package<br><br></h3>
 						<p class="info">Includes: 0 Parameters</p>
 						<ul class="features">
 							<li>
@@ -3198,10 +3198,10 @@
 						style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInRight;">
 						<div class="tp-section">
 							<!-- <span class="tp-section__sub-title left-line mb-25">>Full Body Checkup Test List </span> -->
-							<h3 class="tp-section__title" style="padding-bottom:30px">Full Body Checkup Test List </h3>
+							<h2 class="tp-section__title" style="padding-bottom:30px">Full Body Checkup Test List </h2>
 							<p >A full body checkup involves a variety of medical tests and examinations to assess a
-								person's overall health and wellbeing. Navi Mumbai, there are numerous healthcare
-								providers and hospitals that offer full body checkup services. Here are some of the
+								person's overall health and wellbeing. Navi Mumbai, there are numerous <a href="https://pravilabs.in/index.php" style="color: #03081d;font-weight: 700;">healthcare
+								providers</a> and hospitals that offer <a href="https://pravilabs.in/contact-us.php" style="color: #03081d;font-weight: 700;">full body checkup services.</a> Here are some of the
 								common services that pravilabs in Navi Mumbai list for a full body checkup package
 								test:</p>
 							<div>
@@ -3297,7 +3297,7 @@
 			   <div class="row text-center">
 				  <div class="col-lg-12 col-md-12 col-12">
 					 <div class="tp-section">
-						<h3 class="tp-section__title mb-70">Here are the Benefits of a full body checkup</h3>
+						<h2 class="tp-section__title mb-70">Here are the Benefits of a full body checkup</h2>
 					 </div>
 				  </div>
 			   </div>
@@ -3308,7 +3308,7 @@
 						   <i class="flaticon-hemoglobin-test-meter"></i>
 						</div>
 						<div class="services-item__content">
-						   <h4 class="services-item__tp-title tp-srv-title mb-30">Early detection of health issues</h4>
+						   <h3 class="services-item__tp-title tp-srv-title mb-30">Early detection of health issues</h3>
 						   <p>
 											A full body checkup allows doctors to screen for various diseases and
 												conditions at an early stage. This helps in early detection and timely
@@ -3325,7 +3325,7 @@
 						   <i class="flaticon-blood-test"></i>
 						</div>
 						<div class="services-item__content">
-						   <h4 class="services-item__tp-title tp-srv-title mb-30">Comprehensive assessment</h4>
+						   <h3 class="services-item__tp-title tp-srv-title mb-30">Comprehensive assessment</h3>
 						   <p>The checkup involves a series of tests and examinations that cover all major systems of the body. This includes laboratory tests like blood work, urine analysis, and imaging tests like X-rays or ultrasounds. It provides a holistic view of your overall health.</p>
 						</div>
 					 </div>
@@ -3336,7 +3336,7 @@
 						   <i class="flaticon-biochemistry"></i>
 						</div>
 						<div class="services-item__content">
-						   <h4 class="services-item__tp-title tp-srv-title mb-30">Personalized health advice</h4>
+						   <h3 class="services-item__tp-title tp-srv-title mb-30">Personalized health advice</h3>
 						   <p>Based on the results of the checkup, doctors can provide personalized health advice and recommendations. This may include lifestyle modifications, diet changes, exercise routines, and specific preventive measures to address any identified health risks.</p>
 						  <br>
 						</div>
@@ -3348,7 +3348,7 @@
 						   <i class="flaticon-dna-1"></i>
 						</div>
 						<div class="services-item__content">
-						   <h4 class="services-item__tp-title tp-srv-title mb-30">Health awareness and education</h4>
+						   <h3 class="services-item__tp-title tp-srv-title mb-30">Health awareness and education</h3>
 						   <p>Through the checkup process, you gain valuable knowledge about your own health status. Doctors can explain any health concerns or abnormalities found during the checkup, which helps you understand your body and take charge of your well-being.
 
 </p>
@@ -3362,7 +3362,7 @@
 						   <i class="flaticon-bacteria"></i>
 						</div>
 						<div class="services-item__content">
-						   <h4 class="services-item__tp-title tp-srv-title mb-30">Peace of mind</h4>
+						   <h3 class="services-item__tp-title tp-srv-title mb-30">Peace of mind</h3>
 						   <p>Knowing that you have undergone a thorough checkup and received a clean bill of health can relieve anxiety and provide peace of mind. It allows you to continue with your daily activities without worrying about any underlying health issues.</p>
 					   <br>
 					   <br>
@@ -3375,7 +3375,7 @@
 						   <i class="flaticon-dna"></i>
 						</div>
 						<div class="services-item__content">
-						   <h4 class="services-item__tp-title tp-srv-title mb-30">Preventive measures</h4>
+						   <h3 class="services-item__tp-title tp-srv-title mb-30">Preventive measures</h3>
 						   <p>A full body checkup can identify risk factors and warning signs for potential future health problems. This gives you the opportunity to take preventive measures before the condition worsens or becomes irreversible. For example, if high cholesterol levels are detected, you can start making lifestyle changes to prevent heart disease.</p>
 						</div>
 					 </div>
@@ -3388,8 +3388,8 @@
 			<table class="table table-striped" style="border: 2px solid #283779;">
 				<thead class="thead-light fs-3" style="background-color: #283779;">
 					<tr>
-						<th scope="col" class="text-light">Package Name</th>
-						<th scope="col" class="text-light">Amount</th>
+						<th scope="col" class="text-light"><h2>Package Name</h2></th>
+						<th scope="col" class="text-light"><h2>Amount</h2></th>
 					</tr>
 				</thead>
 				<tbody class="fs-5 ">
@@ -3643,7 +3643,7 @@
 				<div class="col-lg-12 col-md-12 col-12">
 					<div class="tp-section">
 						<span class="tp-section__sub-title left-line right-line mb-20">Faq</span>
-						<h3 class="tp-section__title mb-70">General Question</h3>
+						<h2 class="tp-section__title mb-70">General Question</h2>
 					</div>
 				</div>
 			</div>

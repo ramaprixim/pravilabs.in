@@ -3235,14 +3235,14 @@
                         <div class="tp-about__content mb-50 wow fadeInLeft" data-wow-delay=".3s">
                            <div class="tp-section">
                               <span class="tp-section__sub-title left-line mb-25">About Us</span>
-                              <h3 class=" about-title mb-13">Guiding Your Path to Wellness</h3>
+                              <h2 class=" about-title mb-13">Guiding Your Path to Wellness</h2>
                               
                               <p class=" mr-20 mb-45">Welcome to PraviLabs! We are a cutting-edge scientific research and development Lab dedicated to pushing the boundaries of innovation. With our team of highly skilled scientists, engineers, and researchers, we strive to make groundbreaking discoveries and create revolutionary solutions to complex problems. 
                               </p>
                            </div>
                            <div class="tp-about__info-list mb-55">
-                            <h3 class=" about-title mb-13">Your Most Trusted Healthcare Partner! </h3>
-                            <p class=" mr-20 mb-45">We've been around for a long time, focusing on delivering top-notch diagnostic services with precise and prompt test results for our valued customers. We're dedicated to quality and offer a wide variety of tests to support your health and well-being.
+                            <h2 class=" about-title mb-13">Your Most Trusted Healthcare Partner! </h2>
+                            <p class=" mr-20 mb-45">We've been around for a long time, focusing on delivering top-notch <a href="https://pravilabs.in/health-packages.php" style="color: #03081d;font-weight: 700;">diagnostic services</a> with precise and prompt test results for our valued customers. We're dedicated to quality and offer a wide variety of tests to support your health and well-being.
                            </p>
                            </div>
                         </div>
