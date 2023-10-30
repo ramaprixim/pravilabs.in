@@ -22,6 +22,7 @@
     font-size: 20px;
    }
 </style>
+<!-- jyoti -->
 <div class="body-overlay"></div>
 <section class="slider-area slider-tp-top pt-100 p-relative">
         <div class="swiper-container tp-slider slider-active swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
